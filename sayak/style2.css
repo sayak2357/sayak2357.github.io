@@ -1,0 +1,10 @@
+.parent {
+   width: 220px; /* I took the width from your post and placed it in css */
+   height: 220px;
+}
+
+/* This will style any <img> element in .parent div */
+.parent img {
+   height: 100%;
+   width: 100%;
+}
