@@ -83,14 +83,12 @@
 			<meta itemprop="headline" content="About me">
 			<meta itemprop="description" content="About me">
 			<div class="page__inner-wrap">
-				<header>
-					<h1 class="page__title" itemprop="headline">Number of Papers per Year
-					</h1>
-				</header>
+			
 				<section class="page__content" itemprop="text">
+				<h1 class="page__title" itemprop="headline">Number of Papers per Year
+					</h1>
 				
-				
-						<div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
+					  <div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
 					  <div id="myDiv2"><!-- Plotly chart will be drawn inside this DIV --></div>
 					<script>
 					<!-- JAVASCRIPT CODE GOES HERE -->
@@ -113,7 +111,34 @@
 					
 					
 					</script>
+				<h1 class="page__title" itemprop="headline">Number of Authors per Year
+					</h1>
+				
+					  <div id="myDiv3"><!-- Plotly chart will be drawn inside this DIV --></div>
+					  <div id="myDiv4"><!-- Plotly chart will be drawn inside this DIV --></div>
+					<script>
+					<!-- JAVASCRIPT CODE GOES HERE -->
+					var data4 = [{
+					x: ['2000', '2001', '2002', '2003', '2004', '2005', '2007', '2008', '2009', '2010', '2011', '2013', '2014', '2015', '2017'],
+					y: [ 57, 51, 85, 60, 124, 288, 309, 264, 374, 336, 429, 571, 642, 856, 1010],
+					type: 'bar'
+					}];
 					
+					var data3 = [{
+					x: ['1996','1997','1998','1999'],
+					y: [24, 43, 28, 77],
+					type: 'bar'
+					}];
+
+					Plotly.newPlot('myDiv3', data3, {}, {showSendToCloud:true});
+					Plotly.newPlot('myDiv4', data4, {}, {showSendToCloud:true});
+					
+					
+					
+					
+					</script>
+
+				
 
 					
 				</section>
