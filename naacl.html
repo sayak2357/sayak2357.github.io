@@ -97,8 +97,12 @@
 					y: [ 89, 31, 75, 43, 62, 72, 75, 147, 97, 140, 186, 181, 324],
 					type: 'bar'
 					}];
+					
+					var layout1 = {
+									title: 'NAACL: number of papers published 2000-2018'
+									};
 				
-					Plotly.newPlot('myDiv', data, {}, {showSendToCloud:true});
+					Plotly.newPlot('myDiv', data, layout1, {showSendToCloud:true});
 					
 					
 					
@@ -119,8 +123,10 @@
 					y: [ 182, 57, 174, 119, 269, 192, 238, 360, 527, 504, 979],
 					type: 'bar'
 					}];
-				
-					Plotly.newPlot('myDiv2', data2, {}, {showSendToCloud:true});
+					var layout2 = {
+									title: 'NAACL: number of distinct authors 2000-2018'
+									};
+					Plotly.newPlot('myDiv2', data2, layout2, {showSendToCloud:true});
 					
 					
 					

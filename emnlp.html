@@ -103,9 +103,14 @@
 					y: [15, 23, 13, 35],
 					type: 'bar'
 					}];
-
-					Plotly.newPlot('myDiv', data, {}, {showSendToCloud:true});
-					Plotly.newPlot('myDiv2', data2, {}, {showSendToCloud:true});
+					var layout1 = {
+									title: 'EMNLP: number of papers published 2000-2018'
+									};
+					var layout2 = {
+									title: 'EMNLP: number of papers published 1996-1999'
+									};
+					Plotly.newPlot('myDiv', data, layout2, {showSendToCloud:true});
+					Plotly.newPlot('myDiv2', data2, layout1, {showSendToCloud:true});
 					
 					
 					
@@ -129,9 +134,14 @@
 					y: [24, 43, 28, 77],
 					type: 'bar'
 					}];
-
-					Plotly.newPlot('myDiv3', data3, {}, {showSendToCloud:true});
-					Plotly.newPlot('myDiv4', data4, {}, {showSendToCloud:true});
+					var layout4 = {
+									title: 'EMNLP: number of distinct authors 2000-2018'
+									};
+					var layout3 = {
+									title: 'EMNLP: number of distinct authors 1996-1999'
+									};
+					Plotly.newPlot('myDiv3', data3, layout3, {showSendToCloud:true});
+					Plotly.newPlot('myDiv4', data4, layout4, {showSendToCloud:true});
 					
 					
 					

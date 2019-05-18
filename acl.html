@@ -100,15 +100,20 @@
 					y: [ 119, 70, 65, 71, 88, 76, 147, 131, 187, 214, 230, 292, 183, 328, 286, 316, 328, 302, 381],
 					type: 'bar'
 					}];
-					
+					var layout1 = {
+									title: 'ACL: number of papers published 2000-2018'
+									};
+					var layout2 = {
+									title: 'ACL: number of papers published 1979-1999'
+									};
 					var data = [{
 					x: ['1979','1980','1981','1982','1983','1984','1985','1986','1987','1988','1989','1990','1991','1992','1993','1994','1995','1996','1997','1998'],
 					y: [28, 44, 36, 39, 25, 116, 40, 41, 34, 35, 34, 39, 56, 54, 47, 52, 56, 58, 73, 122],
 					type: 'bar'
 					}];
 
-					Plotly.newPlot('myDiv', data, {}, {showSendToCloud:true});
-					Plotly.newPlot('myDiv2', data2, {}, {showSendToCloud:true});
+					Plotly.newPlot('myDiv', data, layout2, {showSendToCloud:true});
+					Plotly.newPlot('myDiv2', data2, layout1, {showSendToCloud:true});
 					
 					
 					
@@ -133,9 +138,14 @@
 					y: [31, 58, 39, 53, 34, 163, 60, 70, 58, 61, 54, 57, 86, 81, 86, 83, 84, 81, 134, 265, 153],
 					type: 'bar'
 					}];
-
-					Plotly.newPlot('myDiv3', data3, {}, {showSendToCloud:true});
-					Plotly.newPlot('myDiv4', data4, {}, {showSendToCloud:true});
+					var layout3 = {
+									title: 'ACL: number of distinct authors 2000-2018'
+									};
+					var layout4 = {
+									title: 'ACL: number of distinct authors 1979-1999'
+									};
+					Plotly.newPlot('myDiv3', data3, layout4, {showSendToCloud:true});
+					Plotly.newPlot('myDiv4', data4, layout3, {showSendToCloud:true});
 					
 					
 					
