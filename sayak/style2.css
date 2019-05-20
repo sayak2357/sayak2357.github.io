@@ -8,3 +8,5 @@
    height: 100%;
    width: 100%;
 }
+
+.masthead__menu_sticky ul{position: -webkit-sticky;position: sticky;margin:0;padding:0;clear:both;list-style-type:none}
