@@ -180,7 +180,38 @@
 					
 					</script>
 					
+				
+<h1 class="page__title" itemprop="headline">Average number of Authors per Paper per Year
+					</h1>
+				
+					  <div id="myDiv7"><!-- Plotly chart will be drawn inside this DIV --></div>
+					  <div id="myDiv8"><!-- Plotly chart will be drawn inside this DIV --></div>
+					<script>
+					<!-- JAVASCRIPT CODE GOES HERE -->
+					var data8 = [{
+					x: ['2000', '2001', '2002', '2003', '2004', '2005', '2007', '2008', '2009', '2010', '2011', '2013', '2014', '2015', '2017'],
+					y: [ 2.259259259259259, 2.4285714285714284, 2.2195121951219514, 2.2142857142857144, 2.5, 2.5669291338582676, 2.717557251908397, 2.6403508771929824, 2.7975460122699385, 3.016, 3.335570469798658, 3.2536585365853656, 3.3451327433628317, 3.41025641025641, 3.7244582043343653],
+					type: 'bar'
+					}];
 					
+					var data7 = [{
+					x: ['1996','1997','1998','1999'],
+					y: [1.7142857142857142, 1.8695652173913044, 2.3333333333333335, 2.3142857142857145],
+					type: 'bar'
+					}];
+					var layout8 = {
+									title: 'EMNLP: Average number of Authors per Paper 2000-2018'
+									};
+					var layout7 = {
+									title: 'EMNLP: Average number of Authors per Paper 1996-1999'
+									};
+					Plotly.newPlot('myDiv7', data7, layout7, {showSendToCloud:true});
+					Plotly.newPlot('myDiv8', data8, layout8, {showSendToCloud:true});
+					
+					
+					
+					
+					</script>				
 
 				
 

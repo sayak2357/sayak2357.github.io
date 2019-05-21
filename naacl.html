@@ -158,7 +158,29 @@
 					
 					
 					</script>
-
+				<h1 class="page__title" itemprop="headline">Average Number of Authors per Paper per Year
+					</h1>
+				
+					
+					<div id="myDiv7"><!-- Plotly chart will be drawn inside this DIV --></div>
+					 
+					<script>
+					<!-- JAVASCRIPT CODE GOES HERE -->
+					var data7 = [{
+					x: ['2000', '2001', '2003', '2004', '2006', '2009', '2012', '2013', '2015', '2016', '2018'],
+					y: [ 2.157303370786517, 1.967741935483871, 2.68, 2.953488372093023, 2.663716814159292, 2.8933333333333335, 2.752577319587629, 2.9357142857142855, 3.263440860215054, 3.386740331491713, 3.7303030303030305],
+					type: 'bar'
+					}];
+					var layout7 = {
+									title: 'NAACL: average number of Authors per Paper 2000-2018'
+									};
+					Plotly.newPlot('myDiv7', data7, layout7, {showSendToCloud:true});
+					
+					
+					
+					
+					
+					</script>
                   
 		
 					
