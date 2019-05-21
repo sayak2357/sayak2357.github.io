@@ -1,6 +1,6 @@
 .parent {
-   width: 200px; /* I took the width from your post and placed it in css */
-   height: 200px;
+   width: 180px; /* I took the width from your post and placed it in css */
+   height: 180px;
 }
 
 /* This will style any <img> element in .parent div */
