@@ -89,28 +89,22 @@
 					</h1>
 				
 					  <div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
-					  <div id="myDiv2"><!-- Plotly chart will be drawn inside this DIV --></div>
+					  
 					<script>
 					<!-- JAVASCRIPT CODE GOES HERE -->
 					var data2 = [{
-					x: ['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'],
-					y: [ 29, 22, 41, 28, 24, 127, 73, 131, 114, 175, 125, 149, 139, 205, 226, 312, 264, 323, 549],
+					x: ['1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'],
+					y: [ 15, 23, 13, 35,29, 22, 41, 28, 24, 127, 73, 131, 114, 175, 125, 149, 139, 205, 226, 312, 264, 323, 549],
 					type: 'bar'
 					}];
 					
-					var data = [{
-					x: ['1996','1997','1998','1999'],
-					y: [15, 23, 13, 35],
-					type: 'bar'
-					}];
+					
 					var layout1 = {
-									title: 'EMNLP: number of papers published 2000-2018'
+									title: 'EMNLP: number of papers published 1996-2018'
 									};
-					var layout2 = {
-									title: 'EMNLP: number of papers published 1996-1999'
-									};
-					Plotly.newPlot('myDiv', data, layout2, {showSendToCloud:true});
-					Plotly.newPlot('myDiv2', data2, layout1, {showSendToCloud:true});
+				
+					Plotly.newPlot('myDiv', data2, layout1, {showSendToCloud:true});
+					
 					
 					
 					
@@ -120,28 +114,22 @@
 					</h1>
 				
 					  <div id="myDiv3"><!-- Plotly chart will be drawn inside this DIV --></div>
-					  <div id="myDiv4"><!-- Plotly chart will be drawn inside this DIV --></div>
+					  
 					<script>
 					<!-- JAVASCRIPT CODE GOES HERE -->
 					var data4 = [{
-					x: ['2000', '2001', '2002', '2003', '2004', '2005', '2007', '2008', '2009', '2010', '2011', '2013', '2014', '2015', '2017'],
-					y: [ 57, 51, 85, 60, 124, 288, 309, 264, 374, 336, 429, 571, 642, 856, 1010],
+					x: ['1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005','2006', '2007', '2008', '2009', '2010', '2011', '2012','2013', '2014', '2015','2016', '2017'],
+					y: [ 24, 43, 28, 77,57, 51, 85, 60, 124, 288,290, 309, 264, 374, 336, 429, 280,571, 642, 856,910, 1010],
 					type: 'bar'
 					}];
 					
-					var data3 = [{
-					x: ['1996','1997','1998','1999'],
-					y: [24, 43, 28, 77],
-					type: 'bar'
-					}];
+
 					var layout4 = {
 									title: 'EMNLP: number of distinct authors 2000-2018'
 									};
-					var layout3 = {
-									title: 'EMNLP: number of distinct authors 1996-1999'
-									};
-					Plotly.newPlot('myDiv3', data3, layout3, {showSendToCloud:true});
-					Plotly.newPlot('myDiv4', data4, layout4, {showSendToCloud:true});
+				
+					Plotly.newPlot('myDiv3', data4, layout4, {showSendToCloud:true});
+					
 					
 					
 					
@@ -152,28 +140,22 @@
 					</h1>
 				
 					  <div id="myDiv5"><!-- Plotly chart will be drawn inside this DIV --></div>
-					  <div id="myDiv6"><!-- Plotly chart will be drawn inside this DIV --></div>
+					  
 					<script>
 					<!-- JAVASCRIPT CODE GOES HERE -->
 					var data6 = [{
-					x: ['2000', '2001', '2002', '2003', '2004', '2005', '2007', '2008', '2009', '2010', '2011', '2013', '2014', '2015', '2017'],
-					y: [ 0.4426229508196721, 0.4117647058823529, 0.45054945054945056, 0.45161290322580644, 0.4, 0.3895705521472393, 0.36797752808988765, 0.3787375415282392, 0.3574561403508772, 0.33156498673740054, 0.29979879275653926, 0.3073463268365817, 0.29894179894179895, 0.2932330827067669, 0.2684954280964256],
+					x: ['1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005','2006', '2007', '2008', '2009', '2010', '2011','2012', '2013', '2014', '2015', '2016','2017'],
+					y: [ 0.58, 0.53, 0.42, 0.43,0.44, 0.41, 0.45, 0.45, 0.4, 0.38,0.37, 0.36, 0.37, 0.35, 0.33, 0.29,0.28, 0.30, 0.29, 0.29, 0.27,0.26],
 					type: 'bar'
 					}];
 					
-					var data5 = [{
-					x: ['1996','1997','1998','1999'],
-					y: [0.5833333333333334, 0.5348837209302325, 0.42857142857142855, 0.43209876543209874],
-					type: 'bar'
-					}];
+				
 					var layout6 = {
-									title: 'EMNLP: number of papers per author 2000-2018'
+									title: 'EMNLP: number of papers per author 1996-2017'
 									};
-					var layout5 = {
-									title: 'EMNLP: number of papers per author 1996-1999'
-									};
-					Plotly.newPlot('myDiv5', data5, layout5, {showSendToCloud:true});
-					Plotly.newPlot('myDiv6', data6, layout6, {showSendToCloud:true});
+					
+					Plotly.newPlot('myDiv5', data6, layout6, {showSendToCloud:true});
+					
 					
 					
 					
@@ -185,28 +167,22 @@
 					</h1>
 				
 					  <div id="myDiv7"><!-- Plotly chart will be drawn inside this DIV --></div>
-					  <div id="myDiv8"><!-- Plotly chart will be drawn inside this DIV --></div>
+					  
 					<script>
 					<!-- JAVASCRIPT CODE GOES HERE -->
 					var data8 = [{
-					x: ['2000', '2001', '2002', '2003', '2004', '2005', '2007', '2008', '2009', '2010', '2011', '2013', '2014', '2015', '2017'],
-					y: [ 2.259259259259259, 2.4285714285714284, 2.2195121951219514, 2.2142857142857144, 2.5, 2.5669291338582676, 2.717557251908397, 2.6403508771929824, 2.7975460122699385, 3.016, 3.335570469798658, 3.2536585365853656, 3.3451327433628317, 3.41025641025641, 3.7244582043343653],
+					x: ['1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005','2006', '2007', '2008', '2009', '2010', '2011','2012', '2013', '2014', '2015', '2016','2017'],
+					y: [ 1.71, 1.86, 2.33, 2.31,2.25, 2.42, 2.21, 2.21, 2.5, 2.56,2.66, 2.71, 2.64, 2.79, 3.01, 3.33, 3.29,3.25, 3.34, 3.41, 3.6,3.72],
 					type: 'bar'
 					}];
 					
-					var data7 = [{
-					x: ['1996','1997','1998','1999'],
-					y: [1.7142857142857142, 1.8695652173913044, 2.3333333333333335, 2.3142857142857145],
-					type: 'bar'
-					}];
+					
 					var layout8 = {
-									title: 'EMNLP: Average number of Authors per Paper 2000-2018'
+									title: 'EMNLP: Average number of Authors per Paper 1996-2017'
 									};
-					var layout7 = {
-									title: 'EMNLP: Average number of Authors per Paper 1996-1999'
-									};
-					Plotly.newPlot('myDiv7', data7, layout7, {showSendToCloud:true});
-					Plotly.newPlot('myDiv8', data8, layout8, {showSendToCloud:true});
+					
+					Plotly.newPlot('myDiv7', data8, layout8, {showSendToCloud:true});
+					
 					
 					
 					
