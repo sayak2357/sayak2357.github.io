@@ -84,7 +84,7 @@
 			<div class="page__inner-wrap">
 				
 				<section class="page__content" itemprop="text">
-				<h1 class="page__title" itemprop="headline">Number of Papers per Year
+				<h1 class="page__title" itemprop="headline">1) Number of Papers per Year
 					</h1>
 				
 					
@@ -110,7 +110,7 @@
 					
 					</script>
 				
-					<h1 class="page__title" itemprop="headline">Number of Authors per Year
+					<h1 class="page__title" itemprop="headline">2) Number of Authors per Year
 					</h1>
 				
 					
@@ -135,7 +135,7 @@
 					</script>
 					
 					
-					<h1 class="page__title" itemprop="headline">Number of Papers per Author per Year
+					<h1 class="page__title" itemprop="headline">3) Number of Papers per Author per Year
 					</h1>
 				
 					
@@ -158,7 +158,7 @@
 					
 					
 					</script>
-				<h1 class="page__title" itemprop="headline">Average Number of Authors per Paper per Year
+				<h1 class="page__title" itemprop="headline">4) Average Number of Authors per Paper per Year
 					</h1>
 				
 					
@@ -175,6 +175,84 @@
 									title: 'NAACL: average number of Authors per Paper 2000-2018'
 									};
 					Plotly.newPlot('myDiv7', data7, layout7, {showSendToCloud:true});
+					
+					
+					
+					
+					
+					</script>
+					
+					
+					
+					<h1 class="page__title" itemprop="headline">5) Avg. Number of References per Paper per Year
+					</h1>
+				
+					
+					<div id="myDiv9"><!-- Plotly chart will be drawn inside this DIV --></div>
+					 
+					<script>
+					<!-- JAVASCRIPT CODE GOES HERE -->
+					var data9 = [{
+					x: ['2000', '2001', '2003', '2004', '2006','2007', '2009','2010', '2012', '2013', '2015', '2016', '2018'],
+					y: [ 3.943820224719101, 0.9354838709677419, 0.96, 0.9767441860465116, 1.0, 0.9861111111111112, 1.0, 0.9795918367346939, 1.0, 0.9928571428571429, 0.989247311827957, 0.988950276243094, 1.0],
+					type: 'bar'
+					}];
+					var layout9 = {
+									title: 'NAACL: average number of Authors per Paper 2000-2018'
+									};
+					Plotly.newPlot('myDiv9', data9, layout9, {showSendToCloud:true});
+					
+					
+					
+					
+					
+					</script>
+					
+					
+					
+					
+					<h1 class="page__title" itemprop="headline">6) Number of URLS per paper per Year
+					</h1>
+				
+					
+					<div id="myDiv10"><!-- Plotly chart will be drawn inside this DIV --></div>
+					 
+					<script>
+					<!-- JAVASCRIPT CODE GOES HERE -->
+					var data10 = [{
+					x: ['2000', '2001', '2003', '2004', '2006','2007', '2009','2010', '2012', '2013', '2015', '2016', '2018'],
+					y: [ 48, 14, 59, 49, 107, 134, 135, 282, 213, 355, 549, 520, 2553],
+					type: 'bar'
+					}];
+					var layout10 = {
+									title: 'NAACL: Number of URLS per paper 2000-2018'
+									};
+					Plotly.newPlot('myDiv10', data10, layout10, {showSendToCloud:true});
+					
+					
+					
+					
+					
+					</script>
+					
+					
+					<h1 class="page__title" itemprop="headline">7) Avg. number of URLs in Footnote per Paper per Year
+					</h1>
+				
+					
+					<div id="myDiv11"><!-- Plotly chart will be drawn inside this DIV --></div>
+					 
+					<script>
+					<!-- JAVASCRIPT CODE GOES HERE -->
+					var data11 = [{
+					x: ['2000', '2001', '2003', '2004', '2006','2007', '2009','2010', '2012', '2013', '2015', '2016', '2018'],
+					y: [ 0.0,  0.06666666666666667,  0.09722222222222222,  0.3333333333333333,  0.532258064516129,  0.6056338028169014, 0.76, 0.7655172413793103, 0.7525773195876289, 1.079136690647482, 1.1956521739130435, 1.223463687150838, 1.4753086419753085],
+					type: 'bar'
+					}];
+					var layout11 = {
+									title: 'NAACL: Avg. number of URLs in Footnote per Paper 2000-2018'
+									};
+					Plotly.newPlot('myDiv11', data11, layout11, {showSendToCloud:true});
 					
 					
 					
