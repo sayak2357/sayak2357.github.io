@@ -259,6 +259,30 @@
 					
 					
 					</script>
+				
+				<h1 class="page__title" itemprop="headline">8) Avg. number of Tables & Figures per Paper per Year
+					</h1>
+				
+					
+					<div id="myDiv12"><!-- Plotly chart will be drawn inside this DIV --></div>
+					 
+					<script>
+					<!-- JAVASCRIPT CODE GOES HERE -->
+					var data12 = [{
+					x: ['2000', '2001', '2003', '2004', '2006','2007', '2009','2010', '2012', '2013', '2015', '2016', '2018'],
+					y: [5.797752808988764 ,3.310344827586207 , 4.458333333333333 ,7.4523809523809526 , 6.983870967741935 ,5.661971830985915 ,6.88 ,5.462068965517242 ,5.721649484536083 ,6.223021582733813 ,6.717391304347826 ,5.58659217877095,7.561728395061729],
+					type: 'bar'
+					}];
+					var layout12 = {
+									title: 'NAACL: Avg. number of Tables & Figures per Paper 2000-2018'
+									};
+					Plotly.newPlot('myDiv12', data12, layout12, {showSendToCloud:true});
+					
+					
+					
+					
+					
+					</script>
                   
 		
 					
