@@ -309,6 +309,31 @@
 					
 					
 					</script>
+					
+					
+					<h1 class="page__title" itemprop="headline">10) Pearson Correlation between Number of Authors per paper and Number of References Per paper per year
+					</h1>
+				
+					
+					<div id="myDiv14"><!-- Plotly chart will be drawn inside this DIV --></div>
+					 
+					<script>
+					<!-- JAVASCRIPT CODE GOES HERE -->
+					var data14 = [{
+					x: ['2000', '2001', '2003', '2004', '2006','2007', '2009','2010', '2012', '2013', '2015', '2016', '2018'],
+					y: [ 0.29732708967962723,0.2750891040668418,0.9459555357187118,0.2727368149656262,0.32648366428229625,0.0004810623959736325,0.475697120430704,0.4281789491715362,0.2871415617101122,0.8615639614906392,0.8796745684228354 ],
+					type: 'bar'
+					}];
+					var layout14 = {
+									title: 'NAACL: Correlation between Number of Authors per paper and Number of References Per paper 2000-2018'
+									};
+					Plotly.newPlot('myDiv14', data14, layout14, {showSendToCloud:true});
+					
+					
+					
+					
+					
+					</script>
                   
                   
 		

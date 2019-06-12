@@ -323,6 +323,32 @@
 					
 					</script>
 					
+					
+					
+					<h1 class="page__title" itemprop="headline">10) Pearson Correlation between Number of Authors per paper and Number of References Per paper per year
+					</h1>
+				
+					  <div id="myDiv14"><!-- Plotly chart will be drawn inside this DIV --></div>
+					  
+					<script>
+					<!-- JAVASCRIPT CODE GOES HERE -->
+					var data14 = [{
+					x: ['1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005','2006', '2007', '2008', '2009', '2010', '2011', '2012','2013', '2014', '2015','2016', '2017'],
+					y: [ 0.7577473452568845,0.28088826613407475,0.10051454933610217,0.5552374146782258,0.1466155042918753,0.9532578628850352,0.18593909023099411,0.4583138803581417,0.7760497121445301,0.6761230362608649,0.18144621937227326,0.8984771426111006,0.2887912565499029,0.5061473852246184,0.5329561581070728,0.6565573084908956,0.8895567073448978,0.39285689961315806,0.3842567784492802    ],
+					type: 'bar'
+					}]; 	
+
+					var layout14 = {
+									title: 'EMNLP:Correlation between Number of Authors per paper and Number of Refs. Per paper 1996-2017'
+									};
+				
+					Plotly.newPlot('myDiv14', data14, layout14, {showSendToCloud:true});
+					
+					
+					
+					
+					</script>
+					
 
 				
 
