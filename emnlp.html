@@ -113,22 +113,29 @@
 				<h1 class="page__title" itemprop="headline">2) Number of Authors per Year
 					</h1>
 				
-					  <div id="myDiv3"><!-- Plotly chart will be drawn inside this DIV --></div>
+					
+					<div id="myDiv3"><!-- Plotly chart will be drawn inside this DIV --></div>
 					  
 					<script>
-					<!-- JAVASCRIPT CODE GOES HERE -->
-					var data4 = [{
-					x: ['1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005','2006', '2007', '2008', '2009', '2010', '2011', '2012','2013', '2014', '2015','2016', '2017'],
-					y: [ 24, 43, 28, 77,57, 51, 85, 60, 124, 288,290, 309, 264, 374, 336, 429, 280,571, 642, 856,910, 1010],
+					var trace1 = {
+					x: [ '1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'],
+					y: [   0.0 ,0.16279069767441862, 0.10714285714285714, 0.1038961038961039 ,0.12280701754385964, 0.17647058823529413 ,0.2823529411764706 ,0.3333333333333333, 0.024193548387096774, 0.19444444444444445, 0.2887700534759358 ,0.3042071197411003, 0.3787878787878788 ,0.42780748663101603 ,0.44345238095238093 ,0.4358974358974359, 0.48548812664907653, 0.4080560420315236 ,0.43302180685358255 ,0.3866822429906542 ,0.42012578616352203 ,0.39702970297029705, 0.34600550964187327 ],
+					name: 'Old Authors',
 					type: 'bar'
-					}];
-					
+					};
 
-					var layout4 = {
-									title: 'EMNLP: number of distinct authors 2000-2017'
-									};
-				
-					Plotly.newPlot('myDiv3', data4, layout4, {showSendToCloud:true});
+					var trace2 = {
+					x: [ '1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'],
+					y: [ 1.0, 0.8372093023255814, 0.8928571428571429 ,0.8961038961038961, 0.8771929824561403, 0.8235294117647058, 0.7176470588235294, 0.6666666666666666, 0.9758064516129032 ,0.8055555555555556, 0.7112299465240641, 0.6957928802588996, 0.6212121212121212, 0.5721925133689839 ,0.5565476190476191, 0.5641025641025641 ,0.5145118733509235 ,0.5919439579684763 ,0.5669781931464174 ,0.6133177570093458 ,0.579874213836478 ,0.602970297029703 ,0.6539944903581267 ],
+					name: 'New Authors',
+					type: 'bar'
+					};
+
+					var data22 = [trace1, trace2];
+
+					var layout22 = {barmode: 'stack'};
+
+					Plotly.newPlot('myDiv3', data22, layout22, {showSendToCloud:true});
 					
 					
 					
@@ -358,8 +365,8 @@
 					<script>
 					<!-- JAVASCRIPT CODE GOES HERE -->
 					var data15 = [{
-					x: [ 'github.com','www.aclweb.org','nlp.stanford.edu','code.google.com','en.wikipedia.org',,'www.statmt.org','arxiv.org','www.nist.gov','www.ldc.upenn.edu','mallet.cs.umass.edu','www.cs.cmu.edu','catalog.ldc.upenn.edu','www.csie.ntu.edu.tw','sourceforge.net','trec.nist.gov','svmlight.joachims.org','www.cs.cornell.edu','cogcomp.cs.illinois.edu','www.mturk.com','sites.google.com'],
-					y: [   825,315,193,171,118,,101,96,71,42,42,41,40,36,36,30,29,28,26,25,25  ],
+					x: [ 'github.com','www.aclweb.org','nlp.stanford.edu','google.com','en.wikipedia.org','www.statmt.org','arxiv.org','www.nist.gov','mallet.cs.umass.edu','www.cs.cmu.edu','upenn.edu','www.csie.ntu.edu.tw','sourceforge.net','svmlight.joachims.org','www.cs.cornell.edu','cogcomp.cs.illinois.edu','www.mturk.com','lucene.apache.org','www.lsi.upc.edu','homepages.inf.ed.ac.uk'],
+					y: [ 825,315,193,221,118,101,96,101,42,42,104,36,36,29,28,26,25,23,23,23  ],
 					type: 'bar'
 					}]; 	
 
