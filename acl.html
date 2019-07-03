@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="./sayak/style2.css">
 <!--	 -->
 	 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-	 <script type="text/javascript" src="test.js"></script>
+	 <script type="text/javascript" src="acl.js"></script>
 	 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 
 	
@@ -122,26 +122,8 @@
 				
 	
 					 
-					  <div id="myDiv8"><!-- Plotly chart will be drawn inside this DIV --></div>
-					<script>
-					<!-- JAVASCRIPT CODE GOES HERE -->
-					var data8 = [{
-					x: ['1979','1980','1981','1982','1983','1984','1985','1986','1987','1988','1989','1990','1991','1992','1993','1994','1995','1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017'],
-					y: [ 1.2142857142857142, 1.3863636363636365, 1.1666666666666667, 1.4102564102564104, 1.52, 1.5086206896551724, 1.575, 1.7560975609756098, 1.8529411764705883, 1.8, 1.6470588235294117, 1.5128205128205128, 1.6071428571428572, 1.5925925925925926, 1.872340425531915, 1.6923076923076923, 1.5714285714285714, 1.4655172413793103, 1.8767123287671232, 2.3934426229508197, 1.963855421686747, 2.278481012658228, 2.5714285714285716, 2.476923076923077, 2.647887323943662, 2.4754098360655736, 2.6788990825688073, 2.7687074829931975, 2.6613756613756614, 2.700507614213198, 3.0707964601769913, 2.746938775510204, 2.9242902208201893, 3.119815668202765, 3.3415977961432506, 3.3896103896103895, 3.63953488372093, 3.560224089635854, 4.0, 3.958128078817734],
-					type: 'bar'
-					}];
-					var layout7 = {
-									title: 'ACL: number of Authors per Paper 1979-2018'
-									};
-				
-
+					  <div id="chartContainer4" style="height: 370px; width: 100%;"></div>
 					
-					Plotly.newPlot('myDiv8', data8, layout7, {showSendToCloud:true});
-					
-					
-					
-					
-					</script>
 					
 					
 					
@@ -149,296 +131,71 @@
 				
 	
 					 
-					  <div id="myDiv9"><!-- Plotly chart will be drawn inside this DIV --></div>
-					<script>
-					<!-- JAVASCRIPT CODE GOES HERE -->
-					var trace9 = {
-					x: ['1979','1980','1981','1982','1983','1984','1985','1986','1987','1988','1989','1990','1991','1992','1993','1994','1995','1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'],
-					y: [ 1.53,3.43,2.333,5.32,3.991,5.575,5.92,5.352,7.0,6.0,7.85,14.564,        10.55,6.944,8.574,5.076,9.58,7.0,8.63,8.47,10.89,8.443          , 15.45,13.53, 14.338,19.87,19.06,19.068,17.90,23.050,25.710,27.775,           27.40,29.1711,33.28,33.6938,35.01,34.24, 41.31, 43.22],
-					name: 'Long',
-					type: 'bar'
-					};   
-					var trace99 = {
-					x: ['1979','1980','1981','1982','1983','1984','1985','1986','1987','1988','1989','1990','1991','1992','1993','1994','1995','1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'],
-					y: [ 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0 , 0, 0,0, 0,0,0,     0, 0, 0, 0, 0, 0, 0, 10.67, 9.66, 15.78, 17.82, 17.96, 20.35, 21.19, 22.94, 23.47, 26.5, 27.368],
-					name: 'Short',
-					type: 'bar'
-					};
-					
-					var trace999 = {
-					x: ['1979','1980','1981','1982','1983','1984','1985','1986','1987','1988','1989','1990','1991','1992','1993','1994','1995','1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'],
-					y: [ 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0 , 0, 0,0, 0,0,0,        0, 0, 0, 8.05, 8.25, 0, 9.25, 7.5, 6.41, 20.8, 12.04, 15.1, 16.7, 13.22, 17.5, 21.93, 19.63, 17.84],
-					name: 'Demo',
-					type: 'bar'
-					};
-					
-					
-					var data9 = [trace9, trace99,trace999];
-					var layout9 = {barmode: 'stack', title: 'ACL: Avg. Number of References per paper per year 1979-2018'};
-				
-
-					
-					Plotly.newPlot('myDiv9', data9, layout9, {showSendToCloud:true});
-					
-					
-					
-					
-					</script>
-					
+					  <div id="chartContainer5" style="height: 370px; width: 100%;"></div>
+									
 					
 					
 					<h1 class="page__title" itemprop="headline">6) Avg. Number of URLS per paper per Year</h1>
 				
 	
+					 <div id="chartContainer6" style="height: 370px; width: 100%;"></div>
 					 
-					  <div id="myDiv10"><!-- Plotly chart will be drawn inside this DIV --></div>
-					<script>
-					<!-- JAVASCRIPT CODE GOES HERE -->
-					var data10 = [{
-					x: ['1979','1980','1981','1982','1983','1984','1985','1986','1987','1988','1989','1990','1991','1992','1993','1994','1995','1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017','2018'],
-					y: [ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.05172413793103448, 0.1506849315068493, 0.3114754098360656, 0.2619047619047619,0.3116883116883117, 0.9428571428571428, 0.676923076923077, 0.8450704225352113, 1.1475409836065573, 1.1018518518518519, 1.1917808219178083, 1.1746031746031746, 1.2040816326530612, 1.5133928571428572, 1.7008196721311475, 1.615873015873016, 1.7440758293838863, 2.0722222222222224, 2.3442622950819674, 2.228739002932551, 2.4101123595505616, 11.597523219814242, 4.461728395061728 ],
-					type: 'bar'
-					}];
-					var layout10 = {
-									title: 'ACL: Number of URLS per paper 1979-2018'
-									};
-				
-
-					
-					Plotly.newPlot('myDiv10', data10, layout10, {showSendToCloud:true});
-					
-					
-					
-					
-					</script>
 					
 					
 					<h1 class="page__title" itemprop="headline">7) Avg. number of URLs in footnote per Paper per Year</h1>
 				
 	
 					 
-					  <div id="myDiv11"><!-- Plotly chart will be drawn inside this DIV --></div>
-					<script>
-					<!-- JAVASCRIPT CODE GOES HERE -->
-					var data11 = [{
-					x: ['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017','2018'],
-					y: [0.012987012987012988, 0.2857142857142857, 0.23076923076923078, 0.3380281690140845, 0.4942528735632184, 0.47368421052631576,0.6095890410958904, 0.5954198473282443, 0.6702702702702703, 0.7511737089201878, 0.9126637554585153, 0.906896551724138, 0.8846153846153846, 1.1712538226299694, 1.1660777385159011, 1.1930379746835442, 1.348623853211009, 1.4053156146179402, 1.3578947368421053],
-					type: 'bar'
-					}];
-					var layout11 = {
-									title: 'ACL: Avg. number of URLs in Footnote per paper 2000-2018'
-									};
+					   <div id="chartContainer7" style="height: 370px; width: 100%;"></div>
 				
-
-					
-					Plotly.newPlot('myDiv11', data11, layout11, {showSendToCloud:true});
-					
-					
-					
-					
-					</script>
 					
 					
 					<h1 class="page__title" itemprop="headline">8) Avg. number of Tables per Paper per Year</h1>
 				
-	
-					 
-					  <div id="myDiv12"><!-- Plotly chart will be drawn inside this DIV --></div>
-					<script>
-					<!-- JAVASCRIPT CODE GOES HERE -->
-					var data12 = [{
-					x: ['1979','1980','1981','1982','1983','1984','1985','1986','1987','1988','1989','1990','1991','1992','1993','1994','1995','1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017','2018'],
-					y: [0.0 ,0.29545454545454547 ,0.3611111111111111 ,0.1794871794871795 ,0.48, 0.1896551724137931, 0.2857142857142857 ,0.3902439024390244, 0.38235294117647056, 0.17142857142857143 ,0.23529411764705882, 0.41025641025641024 ,0.9642857142857143 ,0.7407407407407407 ,1.1914893617021276 ,1.3846153846153846, 0.8035714285714286 ,1.4310344827586208, 2.5205479452054793 ,1.8032786885245902 ,2.130952380952381,1.103896103896104 ,1.9142857142857144, 2.2153846153846155 ,3.0 ,3.4022988505747125 ,4.065789473684211 ,3.8219178082191783, 3.381679389312977, 3.481081081081081 ,3.244131455399061, 3.554585152838428 ,3.586206896551724, 3.7032967032967035, 3.6993865030674846 ,3.6678445229681977, 3.9082278481012658 ,4.5504587155963305, 4.2425249169435215 ,4.428947368421053  ],
-					type: 'bar'
-					}];
-					var layout12 = {
-									title: 'ACL: Avg. number of Tables per paper 1979-2018'
-									};
-				
-
-					
-					Plotly.newPlot('myDiv12', data12, layout12, {showSendToCloud:true});
-					
-					
-					
-					
-					</script>
-					
+					<div id="chartContainer8" style="height: 370px; width: 100%;"></div>
 					
 					
 					<h1 class="page__title" itemprop="headline">9) Avg. number of Figures per Paper per Year</h1>
 				
 	
 					 
-					  <div id="myDiv13"><!-- Plotly chart will be drawn inside this DIV --></div>
-					<script>
-					<!-- JAVASCRIPT CODE GOES HERE -->
-					var data13 = [{
-					x: ['1979','1980','1981','1982','1983','1984','1985','1986','1987','1988','1989','1990','1991','1992','1993','1994','1995','1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017','2018'],
-					y: [0.6666666666666666 ,0.4772727272727273 ,1.1111111111111112 ,0.7948717948717948, 0.88 ,1.3448275862068966 ,2.5428571428571427, 2.073170731707317, 3.676470588235294 ,3.085714285714286, 2.6176470588235294 ,3.3333333333333335 ,2.517857142857143, 2.037037037037037 ,3.574468085106383 ,2.576923076923077, 3.5714285714285716 ,3.0344827586206895 ,3.4794520547945207 ,2.540983606557377 ,3.0476190476190474 ,1.922077922077922, 3.442857142857143, 3.3692307692307693 ,3.2535211267605635, 2.8275862068965516 ,3.0526315789473686 ,3.1232876712328768, 2.7786259541984735 ,2.2378378378378376, 2.704225352112676 ,2.986899563318777 ,2.4655172413793105, 2.3461538461538463 ,2.6503067484662575, 2.8586572438162543, 2.9240506329113924 ,3.256880733944954 ,3.169435215946844 ,3.0736842105263156   ],
-					type: 'bar'
-					}];
-					var layout13 = {
-									title: 'ACL: Avg. number of Figures per paper 1979-2018'
-									};
+					 <div id="chartContainer9" style="height: 370px; width: 100%;"></div>
+					
+					
+								
+					
+					
+					
+					<h1 class="page__title" itemprop="headline">10) Most Popular primary URL domains & their Frequencies</h1>
 				
-
-					
-					Plotly.newPlot('myDiv13', data13, layout13, {showSendToCloud:true});
-					
-					
-					
-					
-					</script>
+					<div id="chartContainer10" style="height: 370px; width: 100%;"></div>
+					  
+					  
+										
 					
 					
-					
-					<h1 class="page__title" itemprop="headline">10) Pearson Correlation between Number of Authors per paper and Number of References Per paper per year</h1>
+					<h1 class="page__title" itemprop="headline">11) Top Unique GitHub pages</h1>
 				
 	
-					 
-					  <div id="myDiv14"><!-- Plotly chart will be drawn inside this DIV --></div>
-					<script>
-					<!-- JAVASCRIPT CODE GOES HERE -->
-					var data14 = [{
-					x: ['1979','1980','1981','1982','1983','1984','1985','1986','1987','1988','1989','1990','1991','1992','1993','1994','1995','1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017','2018'],
-					y: [ 0.44,0.61,0.08,0.609,0.85,0.93,0.68,0.53,0.717,0.708,0.514,0.576,0.769,0.002,0.252,0.83,0.59,0.903,0.85,0.05,0.21,0.84,0.48,0.53,0.98,0.75,0.37,0.99,0.54,0.13,0.03,0.39,0.122  ],
-					type: 'bar'
-					}];
-					var layout14 = {
-									title: 'Correlation between Number of Authors per paper and Number of References Per paper 1979-2018'
-									};
-				
-
-					
-					Plotly.newPlot('myDiv14', data14, layout14, {showSendToCloud:true});
+					 <div id="chartContainer11" style="height: 370px; width: 100%;"></div>
 					
 					
 					
 					
-					</script>
 					
 					
-					
-					
-					<h1 class="page__title" itemprop="headline">11) Most Popular primary URL domains & their Frequencies</h1>
+					<h1 class="page__title" itemprop="headline">12) Top University pages</h1>
 				
 	
-					 
-					  <div id="myDiv15"><!-- Plotly chart will be drawn inside this DIV --></div>
-					<script>
-					<!-- JAVASCRIPT CODE GOES HERE -->
-					var data15 = [{
-					x: ['www.aclweb.org','github.com','arxiv.org','nlp.stanford.edu','code.google.com','dl.acm.org','en.wikipedia.org','www.statmt.org','www.nist.gov','papers.nips.cc','www.cs.cmu.edu','mallet.cs.umass.edu','www.csie.ntu.edu.tw','upenn.edu','sourceforge.net','www.isi.edu','dx.doi.org','homepages.inf.ed.ac.uk','nlp.cs.nyu.edu','svmlight.joachims.org'],
-					y: [  1529,685,368,195,191,146,112,89,85,92,52,51,48,116,40,36,35,33,29,28 ],
-					type: 'bar'
-					}];
-					var layout15 = {
-									title: 'ACL: Most Popular URLs & their Frequencies 1979-2018'
-									};
+					<div id="chartContainer12" style="height: 370px; width: 100%;"></div>
+					
+					
+					
+					
+					
+					<h1 class="page__title" itemprop="headline">13) Affiliation Countries per Year</h1>
 				
-
-					
-					Plotly.newPlot('myDiv15', data15, layout15, {showSendToCloud:true});
-					
-					
-					
-					
-					</script>
-					
-					
-					
-					<h1 class="page__title" itemprop="headline">12) Top Unique GitHub pages</h1>
-				
-	
-					 
-					  <div id="myDiv16"><!-- Plotly chart will be drawn inside this DIV --></div>
-					<script>
-					<!-- JAVASCRIPT CODE GOES HERE -->
-					var data16 = [{
-					x: [ 'facebookresearch/', 'UKPLab/','fxsjy/jieba','tensorflow/models/','redpony/cdec','percyliang/brown-cluster' ,'moses-smt/', 'rajarshd/Gaussian','clab/cnn','miso-belica/sumy','nyu-dl/','milangritta/Minimalist-Location-','lisa-groundhog/','brmson/','cocoxu/','gabrielStanovsky/','dav/word2vec' ,'jhclark/multeval','antske/ ','jiyfeng/DPLP'],
-					y: [  10,8,5,5,4,3,3,3 ,3,3,3,3,3,3,3,3,3 ,2,2,2],
-					type: 'bar'
-					}];
-					var layout16 = {
-									title: 'ACL: Top Unique GitHub pages 1979-2018 https://github.com/'
-									};
-				
-
-					
-					Plotly.newPlot('myDiv16', data16, layout16, {showSendToCloud:true});
-					
-					
-					
-					
-					</script>
-					
-					<h1 class="page__title" itemprop="headline">13) Top University pages</h1>
-				
-	
-					 
-					  <div id="myDiv17"><!-- Plotly chart will be drawn inside this DIV --></div>
-					<script>
-					<!-- JAVASCRIPT CODE GOES HERE -->
-					var data17 = [{
-					x: [ 'Penn Museum','Stanford University','University of Edinburgh','UC Berkeley','Microsoft Research Asia','Columbia University','University of Washington','Johns Hopkins Hospital','Carnegie Mellon University Silicon Valley','MIT','Brown University','Institutt for datateknikk og informasjonsvitenskap','Harvard University','Cornell University','Institute for Logic','University of Trento','The Grand Garage','Microsoft Research','Harbin Institute of Technology','University of Maryland'],
-					y: [ 79,73,45,44,42,39,31,30,29,28,26,25,24,23,22,21,20,20,20,19],
-					type: 'bar'
-					}];
-					var layout17 = {
-									title: 'ACL: Top University pages 1979-2018'
-									};
-					Plotly.newPlot('myDiv17', data17, layout17, {showSendToCloud:true});
-					
-					</script>
-					
-					
-					
-					
-					
-					<h1 class="page__title" itemprop="headline">14) Affiliation Countries per Year</h1>
-				
-	
-					  <div id="myDiv18"><!-- Plotly chart will be drawn inside this DIV --></div>
-					<script>
-					<!-- JAVASCRIPT CODE GOES HERE -->
-					var trace111 = {
-					x: ['1979','1980','1981','1982','1983','1984','1985','1986','1987','1988','1989','1990','1991','1992','1993','1994','1995','1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'],
-					y: [ 5,12,9,1,1,20,7,5,7,6,24,24,24,35,29,34,29,32,46,13,21,10,9,6,9,17,16,21,18,33,36,50,57,33,60,69,59,70,72,98],
-					name: 'US',
-					type: 'bar'
-					};
-					
-					var trace122 = {
-					x: ['1979','1980','1981','1982','1983','1984','1985','1986','1987','1988','1989','1990','1991','1992','1993','1994','1995','1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'],
-					y: [ 1,0,0,0,0,2,0,0,1,2,0,0,4,6,1,5,7,8,10,1,4,4,7,4,1,2,8,4,4,5,4,23,4,2,10,5,10,13,5,16],
-					name: 'UK',
-					type: 'bar'
-					};
-					
-					var trace133 = {
-					x: ['1979','1980','1981','1982','1983','1984','1985','1986','1987','1988','1989','1990','1991','1992','1993','1994','1995','1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'],
-					y: [ 0, 1, 1, 0, 0,1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 2, 1, 0, 2, 0,0,0, 0, 0, 0, 0, 3, 0, 1, 2, 3, 1, 1, 1, 6, 0, 4, 1, 3, 7],
-					name: 'Australia',
-					type: 'bar'
-					};
-					
-					var trace144 = {
-					x: ['1979','1980','1981','1982','1983','1984','1985','1986','1987','1988','1989','1990','1991','1992','1993','1994','1995','1996','1997','1998','1999','2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'],
-					y: [ 0, 0, 0, 0, 0,0, 0, 0, 1, 1, 0, 1, 3, 0, 10,1 , 5, 1,5, 2,1,0, 2, 0, 1, 2, 0, 0, 0, 1, 4, 2, 5, 0, 5, 7, 0, 3, 1, 8],
-					name: 'India',
-					type: 'bar'
-					};
-					var data111 = [trace111, trace122, trace133,trace144];
-					var layout111 = {barmode: 'stack', title: 'ACL: Affiliation Countries per year 1979-2018'};
-				
-
-					Plotly.newPlot('myDiv18', data111, layout111, {showSendToCloud:true});
-					
-					
-					
-					
-					</script>
+					<div id="chartContainer13" style="height: 370px; width: 100%;"></div>
 	
                 
 					

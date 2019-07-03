@@ -9,6 +9,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="./sayak/main.css">
 	<link rel="stylesheet" href="./sayak/style2.css">
+	<script type="text/javascript" src="naacl.js"></script>
+	<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 	
 
@@ -88,78 +90,15 @@
 					</h1>
 				
 					
-					<div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
-					 
-					<script>
-					<!-- JAVASCRIPT CODE GOES HERE -->
-					var trace11 = {
-					x: ['2000', '2001', '2003', '2004', '2006', '2007', '2009', '2010', '2012', '2013', '2015', '2016', '2018'],
-					y: [46, 31,37, 43,62,72,75, 146, 97, 140, 186,181,205],
-					name: 'Long Papers',
-					type: 'bar'
-					};
 					
-					var trace12 = {
-					x: ['2000', '2001', '2003', '2004', '2006', '2007', '2009', '2010', '2012', '2013', '2015', '2016', '2018'],
-					y: [43, 0,38, 0, 51, 55, 72, 0, 0, 0,0, 0, 125],
-					name: 'Short Papers',
-					type: 'bar'
-					};
-					
-					var trace13 = {
-					x: ['2000', '2001', '2003', '2004', '2006', '2007', '2009', '2010', '2012', '2013', '2015', '2016', '2018'],
-					y: [0,0,18,13,12, 0, 6, 13, 10, 10, 25, 21, 21],
-					name: 'Demo Papers',
-					type: 'bar'
-					};
-					
-					var data11 = [trace11, trace12, trace13];
-					var layout11 = {barmode: 'stack', title: 'NAACL: number of papers per year 2000-2018'};
-				
-
-					Plotly.newPlot('myDiv', data11, layout11, {showSendToCloud:true});
-					
-					
-					
-					
-					
-					</script>
-					
-					
+					 <div id="chartContainer" style="height: 370px; width: 100%;"></div>			
 					
 					
 					
 					<h1 class="page__title" itemprop="headline">2) Number of Authors per Year
 					</h1>
 				
-					
-					<div id="myDiv3"><!-- Plotly chart will be drawn inside this DIV --></div>
-					  
-					<script>
-					var trace1 = {
-					x: ['2000', '2001', '2003', '2004', '2006', '2007', '2009', '2010', '2012', '2013', '2015', '2016', '2018'],
-					y: [ 0.0, 0.24561403508771928, 0.1220472440944882, 0.21164021164021163, 0.18971061093247588, 0.31438127090301005, 0.2423580786026201 ,0.34986945169712796, 0.4 ,0.4079601990049751, 0.29307568438003223 ,0.3457792207792208 ,0.27264325323475047  ],
-					name: 'Old Authors',
-					type: 'bar'
-					};
-
-					var trace2 = {
-					x: ['2000', '2001', '2003', '2004', '2006', '2007', '2009', '2010', '2012', '2013', '2015', '2016', '2018'],
-					y: [ 1.0, 0.7543859649122807 ,0.8779527559055118 ,0.7883597883597884 ,0.8102893890675241 ,0.68561872909699 ,0.75764192139738 ,0.6501305483028721, 0.6, 0.5920398009950248 ,0.7069243156199678 ,0.6542207792207793 ,0.7273567467652495  ],
-					name: 'New Authors',
-					type: 'bar'
-					};
-
-					var data22 = [trace1, trace2];
-
-					var layout22 = {barmode: 'stack'};
-
-					Plotly.newPlot('myDiv3', data22, layout22, {showSendToCloud:true});
-					
-					
-					
-					
-					</script>
+					<div id="chartContainer2" style="height: 370px; width: 100%;"></div>
 					
 					
 					<h1 class="page__title" itemprop="headline">3) Number of Papers per Author per Year
