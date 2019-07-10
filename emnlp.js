@@ -674,6 +674,7 @@ var chart = new CanvasJS.Chart("chartContainer6", {
 	data: [{
 		type: "stackedColumn",
 		showInLegend: true,
+		click: onClick,
 		color: "#0303AC",
 		name: "EMNLP URLs per Paper 1996-2018",
 		dataPoints: [
@@ -1442,6 +1443,31 @@ chart.render();
 
 
 
+var chart = new CanvasJS.Chart("chartContainer1996", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 1, label: 'cspjhu.ece.j' },                         
+			{ y: 1,  label: "www'phnetik'uni-muenchen'de" }
+			
+			
+		]
+	}]
+});
+chart.render();
 
 
 
@@ -1450,6 +1476,1668 @@ chart.render();
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer1997", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 1997 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 1, label: 'crl.nmsu.edu' }
+			
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer1999", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 1997 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 2, label: 'stp.ling.uu.se' },
+			{ y: 1, label: 'uvw.gospelcom.net' },
+			{ y: 1, label: 'www.lsi.upc.es' },
+			{ y: 1, label: 'www.cs.vassar.edu' },
+			{ y: 1, label: 'morph.ldc' },
+			{ y: 1, label: 'ilk.kub.nl' },
+			{ y: 1, label: 'info.ox.ac.uk' },
+			{ y: 1, label: 'www.dcs.shef.ac.uk' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2000", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2000 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 2, label: 'www.rd.nacsis.ac.jp' },
+			{ y: 2, label: 'www.ilc.pi.cnr.it' },
+			{ y: 1, label: 'www.reseaxch.att.com' },
+			{ y: 1, label: 'www.activa.arrakis.es' },
+			{ y: 1, label: 'www.linux.com' },
+			{ y: 1, label: 'khnt.hit.uib.no' },
+			{ y: 1, label: 'www.itri.brighton.ac.uk' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2001", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2001 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 1, label: 'www.acronymfinder' },
+			{ y: 1, label: 'www.infoplease.com' },
+			{ y: 1, label: 'www.onelook.com' },
+			{ y: 1, label: 'www.research.ibm.com' },
+			{ y: 1, label: 'sherlock.sims.berkeley.edu' },
+			{ y: 1, label: 'www9.org' },
+			{ y: 1, label: 'www.ims.uni-stuttgart.de' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2002", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2002 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 3, label: 'www.cs.cornell.edu' },
+			{ y: 2, label: 'www.cs.brown.edu' },
+			{ y: 1, label: 'www.sle.sharp.co.uk' },
+			{ y: 1, label: 'www.cs.cmu.edu' },
+			{ y: 1, label: 'www.mindfuleye.com' },
+			{ y: 1, label: 'reviews.imdb.com' },
+			{ y: 1, label: 'svmlight.joachims.org' },
+			{ y: 1, label: 'www.english.bham.ac.uk' },
+			{ y: 1, label: 'www.freedict.com' },
+			{ y: 1, label: 'biz.yahoo.com' },
+			{ y: 1, label: 'www.isi.edu' },
+			{ y: 1, label: 'www.research.att.com' },
+			{ y: 1, label: 'www.mizar.org' },
+			{ y: 1, label: 'www.cogsci.ed.ac.uk' },
+			{ y: 1, label: 'winnie.kuis.kyoto-u.ac.jp' },
+			{ y: 1, label: 'chasen.aist-nara.ac.jp' },
+			{ y: 1, label: 'cs.nyu.edu' },
+			{ y: 1, label: 'www.searchengineshowdown.com' },
+			{ y: 1, label: 'www.cs.waikato.ac.nz' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2003", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2003 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 2, label: 'nlp.cs.nyu.edu' },
+			{ y: 2, label: 'trec.nist.gov' },
+			{ y: 1, label: 'www.isi.edu' },
+			{ y: 1, label: 'www.research.att.com' },
+			{ y: 1, label: 'www.speech.sri.com' },
+			{ y: 1, label: 'www.ai.mit.edu' },
+			{ y: 1, label: 'www.magister.msk.ru' },
+			{ y: 1, label: 'www.eonline.com' },
+			{ y: 1, label: 'www.jguru.com' },
+			{ y: 1, label: 'www.sci.sdsu.edu' },
+			{ y: 1, label: 'www.daviddlewis.com' },
+			{ y: 1, label: 'www-tsujii.is.s.u-tokyo.ac.jp' },
+			{ y: 1, label: 'www.cs.waikato.ac.nz' },
+			{ y: 1, label: 'gate.ac.uk' },
+			{ y: 1, label: 'www.searchengineshowdown.com' },
+			{ y: 1, label: 'info.ox.ac.uk' },
+			{ y: 1, label: 'pine.kuee.kyoto-u.ac.jp' },
+			{ y: 1, label: 'chasen.aist-nara.ac.jp' },
+			{ y: 1, label: 'cl.aist-nara.ac.jp' },
+			{ y: 1, label: 'www2.crl.go.jp' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2004", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2004 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 3, label: 'www.nist.gov' },
+			{ y: 2, label: 'www.senseval.org' },
+			{ y: 2, label: 'ixa2.si.ehu.es' },
+			{ y: 2, label: 'semantics.isi.edu' },
+			{ y: 1, label: 'upenn.edu' },
+			{ y: 1, label: 'www.cs.unt.edu' },
+			{ y: 1, label: 'www.darpa.mil' },
+			{ y: 1, label: 'www.gutenberg.net' },
+			{ y: 1, label: 'www.elsnet.org' },
+			{ y: 1, label: 'www.rulequest.com' },
+			{ y: 1, label: 'www.hcu.ox.ac.uk' },
+			{ y: 1, label: 'www.lsi.upc.es' },
+			{ y: 1, label: 'www.clres.com' },
+			{ y: 1, label: 'www.icsi' },
+			{ y: 1, label: 'ilk.uvt.nl' },
+			{ y: 1, label: 'www.icsi.berkeley.edu' },
+			{ y: 1, label: 'www.isi.edu' },
+			{ y: 1, label: 'news.yahoo.com' },
+			{ y: 1, label: 'news.google.com' },
+			{ y: 1, label: 'uk.newsbot.msn.com' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2005", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2005 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 22, label: 'www.nist.gov' },
+			{ y: 8, label: 'upenn.edu' },
+			{ y: 5, label: 'www.csie.ntu.edu.tw' },
+			{ y: 4, label: 'www.isi.edu' },
+			{ y: 3, label: 'babelfish.altavista.com' },
+			{ y: 3, label: 'mi.eng.cam.ac.uk' },
+			{ y: 3, label: 'ilk.kub.nl'},
+			{ y: 3, label: 'lucene.apache.org' },
+			{ y: 3, label: 'www.senseval.org' },
+			{ y: 2, label: 'duc.nist.gov' },
+			{ y: 2, label: 'www.lemurproject.org' },
+			{ y: 2, label: 'chasen.org' },
+			{ y: 2, label: 'dyna.org' },
+			{ y: 2, label: 'l2r.cs.uiuc.edu' },
+			{ y: 2, label: 'nrrc.mitre.org' },
+			{ y: 2, label: 'mallet.cs.umass.edu'},
+			{ y: 2, label: 'www.cs.cmu.edu' },
+			{ y: 2, label: 'www.timeml.org' },
+			{ y: 2, label: 'labs.google.com' },
+			{ y: 2, label: 'www.ncbi.nlm.nih.gov' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2006", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2006 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 3, label: 'www.csie.ntu.edu.tw' },
+			{ y: 5, label: 'www.cis.upenn.edu' },
+			{ y: 2, label: 'www.cs.ualberta.ca' },
+			{ y: 2, label: 'chasen.org' },
+			{ y: 2, label: 'www.lsi.upc.edu' },
+			{ y: 2, label: 'www.lsi.upc.es' },
+			{ y: 2, label: 'search.cpan.org'},
+			{ y: 2, label: 'www-tsujii.is.s.u-tokyo.ac.jp' },
+			{ y: 2, label: 'mallet.cs.umass.edu' },
+			{ y: 2, label: 'wordnet.princeton.edu' },
+			{ y: 2, label: 'www.cs.cmu.edu' },
+			{ y: 1, label: 'www.cs.toronto.edu' },
+			{ y: 1, label: 'www.fjoch.com' },
+			{ y: 1, label: 'www.tc-star.org' },
+			{ y: 1, label: 'www.slate.com' },
+			{ y: 1, label: 'xxx.lanl.gov'},
+			{ y: 1, label: 'maxent.sourceforge.net' },
+			{ y: 1, label: 'nextens.uvt.nl' },
+			{ y: 2, label: 'cnts.uia.ac.be' },
+			{ y: 2, label: 'timex2.mitre.org' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2007", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2007 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 17, label: 'www.lsi.upc.edu' },
+			{ y: 15, label: 'www.nist.gov' },
+			{ y: 7, label: 'chasen.org' },
+			{ y: 5, label: 'svmlight.joachims.org' },
+			{ y: 5, label: 'mallet.cs.umass.edu' },
+			{ y: 4, label: 'www.csie.ntu.edu.tw' },
+			{ y: 4, label: 'w3.msi.vxu.se'},
+			{ y: 4, label: 'www.cis.upenn.edu' },
+			{ y: 4, label: 'www.statmt.org' },
+			{ y: 4, label: 'www-tsujii.is.s.u-tokyo.ac.jp' },
+			{ y: 3, label: 'people.csail.mit.edu' },
+			{ y: 3, label: 'www.speech.cs.cmu.edu' },
+			{ y: 3, label: 'nlp.kuee.kyoto-u.ac.jp' },
+			{ y: 3, label: 'www.cs.utah.edu' },
+			{ y: 3, label: 'www.isi.edu' },
+			{ y: 2, label: 'www.lemurproject.org'},
+			{ y: 2, label: 'www.fjoch.com' },
+			{ y: 2, label: 'www.speech.sri.com' },
+			{ y: 2, label: 'www.nlm.nih.gov' },
+			{ y: 2, label: 'www-nlpir.nist.gov' },
+			{ y: 2, label: 'www.wikipedia.org' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2008", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2008 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 11, label: 'www.nist.gov' },
+			{ y: 6, label: 'www.csie.ntu.edu.tw' },
+			{ y: 4, label: 'projects.ldc.upenn.edu' },
+			{ y: 4, label: 'svmlight.joachims.org' },
+			{ y: 4, label: 'mallet.cs.umass.edu' },
+			{ y: 4, label: 'nlp.stanford.edu' },
+			{ y: 4, label: 'answers.yahoo.com'},
+			{ y: 4, label: 'nlp.kuee.kyoto-u.ac.jp' },
+			{ y: 4, label: 'nlp.cs.berkeley.edu' },
+			{ y: 4, label: 'search.cpan.org' },
+			{ y: 5, label: 'upenn.edu' },
+			{ y: 3, label: 'www.statmt.org' },
+			{ y: 3, label: 'sourceforge.net' },
+			{ y: 3, label: 'L2R.cs.uiuc.edu' },
+			{ y: 2, label: 'cs.jhu.edu' },
+			{ y: 2, label: 'homepages.inf.ed.ac.uk'},
+			{ y: 2, label: 'wordnet.princeton.edu' },
+			{ y: 2, label: 'www.google.com' },
+			{ y: 2, label: 'www.openfst.org' },
+			{ y: 2, label: 'blog.doloreslabs.com' },
+			{ y: 2, label: 'chasen.org' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2009", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2009 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 6, label: 'www.cs.pitt.edu' },                  
+			{ y: 6, label: 'www.nist.gov' },
+			{ y: 6, label: 'google.com' },
+			{ y: 5, label: 'homepages.inf.ed.ac.uk' },
+			{ y: 4, label: 'nlp.stanford.edu' },
+			{ y: 4, label: 'www.csie.ntu.edu.tw' },
+			{ y: 4, label: 'en.wikipedia.org'},
+			{ y: 4, label: 'www.statmt.org' },
+			{ y: 4, label: 'crfpp.sourceforge.net' },
+			{ y: 3, label: 'www.cs.umass.edu' },
+			{ y: 3, label: 'framenet.icsi.berkeley.edu' },
+			{ y: 3, label: 'upenn.edu' },
+			{ y: 3, label: 'www.cs.cmu.edu' },
+			{ y: 3, label: 'nist.gov' },
+			{ y: 3, label: 'chasen.org' },
+			{ y: 3, label: 'www.ncbi.nlm.nih.gov'},
+			{ y: 3, label: 'nlp.kuee.kyoto-u.ac.jp' },
+			{ y: 2, label: 'maxent.sourceforge.net' },
+			{ y: 2, label: 'mstparser.sourceforge.net' },
+			{ y: 2, label: 'www.mturk.com' },
+			{ y: 2, label: 'disi.unitn.it' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2010", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2010 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 7, label: 'nlp.stanford.edu' },                   
+			{ y: 6, label: 'homepages.inf.ed.ac.uk' },
+			{ y: 5, label: 'en.wikipedia.org' },
+			{ y: 5, label: 'google.com' },
+			{ y: 4, label: 'www.statmt.org' },
+			{ y: 4, label: 'mallet.cs.umass.edu' },
+			{ y: 7, label: 'upenn.edu' },
+			{ y: 4, label: 'lucene.apache.org' },
+			{ y: 4, label: 'groups.csail.mit.edu' },
+			{ y: 3, label: 'dx.doi.org' },
+			{ y: 3, label: 'www.cs.cornell.edu' },
+			{ y: 3, label: 'nlp.cs.lth.se' },
+			{ y: 3, label: 'www.cs.washington.edu' },
+			{ y: 2, label: 'www.ark.cs.cmu.edu' },
+			{ y: 2, label: 'www.umiacs.umd.edu' },
+			{ y: 2, label: 'www.natcorp.ox.ac.uk'},
+			{ y: 2, label: 'nlp.cs.byu.edu' },
+			{ y: 2, label: 'sourceforge.net' },
+			{ y: 2, label: 'www.cog.brown.edu' },
+			{ y: 2, label: 'developer.yahoo.com' },
+			{ y: 2, label: 'www.nist.gov' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2011", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2011 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 11, label: 'nlp.stanford.edu' },               
+			{ y: 6, label: 'en.wikipedia.org' },
+			{ y: 6, label: 'mallet.cs.umass.edu' },
+			{ y: 8, label: 'www.nist.gov' },
+			{ y: 5, label: 'upenn.edu' },
+			{ y: 4, label: 'mallet.cs.umass.edu' },
+			{ y: 7, label: 'upenn.edu' },
+			{ y: 5, label: 'dx.doi.org' },
+			{ y: 4, label: 'google.com' },
+			{ y: 4, label: 'sourceforge.net' },
+			{ y: 3, label: 'maltparser.org' },
+			{ y: 3, label: 'www.lemurproject.org' },
+			{ y: 3, label: 'nlp.kuee.kyoto-u.ac.jp' },
+			{ y: 3, label: 'twitter.com' },
+			{ y: 3, label: 'mednlp.jp' },
+			{ y: 2, label: 'www.csie.ntu.edu.tw' },
+			{ y: 2, label: 'www.statmt.org' },
+			{ y: 2, label: 'www.cs.pitt.edu' },
+			{ y: 2, label: 'cogcomp.cs.illinois.edu' },
+			{ y: 2, label: 'web.science.mq.edu.au' },
+			{ y: 2, label: 'download.wikimedia.org' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2012", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2012 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 10, label: 'nlp.stanford.edu' },      
+			{ y: 9, label: 'google.com' },
+			{ y: 6, label: 'en.wikipedia.org' },
+			{ y: 5, label: 'mallet.cs.umass.edu' },
+			{ y: 9, label: 'www.statmt.org' },
+			{ y: 3, label: 'www.cs.cornell.edu' },
+			{ y: 3, label: 'www.h-its.org' },
+			{ y: 3, label: 'cogcomp.cs.illinois.edu' },
+			{ y: 3, label: 'github.com' },
+			{ y: 2, label: 'www.wiktionary.org' },
+			{ y: 2, label: 'www.liwc.net' },
+			{ y: 2, label: 'www.dictionsoftware.com' },
+			{ y: 2, label: 'clopinet.com' },
+			{ y: 2, label: 'www.surdeanu.name' },
+			{ y: 2, label: 'wacky.sslmit.unibo.it' },
+			{ y: 2, label: 'arxiv.org' },
+			{ y: 2, label: 'nist.gov' },
+			{ y: 2, label: 'ufal.mff.cuni.cz' },
+			{ y: 2, label: 'w3.msi.vxu.se' },
+			{ y: 2, label: 'aspell.net' },
+			{ y: 2, label: 'ilk.uvt.nl' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2013", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2013 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 20, label: 'google.com' },
+			{ y: 13, label: 'nlp.stanford.edu' },
+			{ y: 12, label: 'github.com' },
+			{ y: 11, label: 'en.wikipedia.org' },
+			{ y: 9, label: 'www.statmt.org' },
+			{ y: 8, label: 'cogcomp.cs.illinois.edu' },
+			{ y: 5, label: 'wacky.sslmit.unibo.it' },
+			{ y: 5, label: 'www.mturk.com' },
+			{ y: 5, label: 'upenn.edu' },
+			{ y: 4, label: 'www.nist.gov' },
+			{ y: 4, label: 'en.wiktionary.org' },
+			{ y: 4, label: 'nlp.ist.i.kyoto-u.ac.jp' },
+			{ y: 3, label: 'stp.lingfil.uu.se' },
+			{ y: 3, label: 'clic.cimec.unitn.it' },
+			{ y: 3, label: 'sourceforge.net' },
+			{ y: 3, label: 'www.nlm.nih.gov' },
+			{ y: 3, label: 'svmlight.joachims.org' },
+			{ y: 3, label: 'www.ukp.tu-darmstadt.de' },
+			{ y: 3, label: 'www.itl.nist.gov' },
+			{ y: 3, label: 'lucene.apache.org' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2014", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2014 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 29, label: 'google.com' },                  
+			{ y: 25, label: 'nlp.stanford.edu' },
+			{ y: 22, label: 'github.com' },
+			{ y: 11, label: 'sourceforge.net' },
+			{ y: 8, label: 'www.statmt.org' },
+			{ y: 14, label: 'upenn.edu' },
+			{ y: 7, label: 'en.wikipedia.org' },
+			{ y: 7, label: 'www.cs.cmu.edu' },
+			{ y: 6, label: 'wordnet.princeton.edu' },
+			{ y: 5, label: 'nlp.ist.i.kyoto-u.ac.jp' },
+			{ y: 4, label: 'www.mturk.com' },
+			{ y: 4, label: 'homepages.inf.ed.ac.uk' },
+			{ y: 3, label: 'mallet.cs.umass.edu' },
+			{ y: 3, label: 'wit3.fbk.eu' },
+			{ y: 3, label: 'alt.qcri.org' },
+			{ y: 3, label: 'metaoptimize.com' },
+			{ y: 3, label: 'www.gurobi.com' },
+			{ y: 3, label: 'ir.hit.edu.cn' },
+			{ y: 3, label: 'opennlp.apache.org' },
+			{ y: 2, label: 'mattmahoney.net' },
+			{ y: 2, label: 'twitter.com' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2015", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2015 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 85, label: 'github.com' },                                                    
+			{ y: 47, label: 'google.com' },
+			{ y: 24, label: 'nlp.stanford.edu' },
+			{ y: 18, label: 'en.wikipedia.org' },
+			{ y: 17, label: 'www.statmt.org' },
+			{ y: 8, label: 'upenn.edu' },
+			{ y: 7, label: 'sourceforge.net' },
+			{ y: 6, label: 'www.phontron.com' },
+			{ y: 11, label: 'www.nist.gov' },
+			{ y: 6, label: 'cogcomp.cs.illinois.edu' },
+			{ y: 6, label: 'www.aclweb.org' },
+			{ y: 5, label: 'www.cs.cmu.edu' },
+			{ y: 5, label: 'mallet.cs.umass.edu' },
+			{ y: 5, label: 'www.ark.cs.cmu.edu' },
+			{ y: 5, label: 'svmlight.joachims.org' },
+			{ y: 4, label: 'www.cs.cornell.edu' },
+			{ y: 4, label: 'www.imdb.com' },
+			{ y: 4, label: 'people.sutd.edu.sg' },
+			{ y: 4, label: 'www.ncbi.nlm.nih.gov' },
+			{ y: 4, label: 'www.chokkan.org' },
+			{ y: 4, label: 'www.nltk.org' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2016", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2016 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 113, label: 'github.com' },                                                               
+			{ y: 25, label: 'nlp.stanford.edu' },
+			{ y: 24, label: 'google.com' },
+			{ y: 15, label: 'en.wikipedia.org' },
+			{ y: 11, label: 'upenn.edu' },
+			{ y: 9, label: 'www.statmt.org' },
+			{ y: 7, label: 'www.cs.cornell.edu' },
+			{ y: 5, label: 'www.nist.gov' },
+			{ y: 5, label: 'universaldependencies.org' },
+			{ y: 5, label: 'www.aclweb.org' },
+			{ y: 4, label: 'ai.stanford.edu' },
+			{ y: 4, label: 'cogcomp.cs.illinois.edu' },
+			{ y: 4, label: 'arxiv.org' },
+			{ y: 4, label: 'www.nltk.org' },
+			{ y: 4, label: 'www.phontron.com' },
+			{ y: 4, label: 'www.federalreserve.gov' },
+			{ y: 4, label: 'verbs.colorado.edu' },
+			{ y: 3, label: 'statnlp.org' },
+			{ y: 3, label: 'www.cs.uic.edu' },
+			{ y: 3, label: 'www.csie.ntu.edu.tw' },
+			{ y: 3, label: 'torch.ch' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2017", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2017 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 206, label: 'github.com' },                                                      
+			{ y: 167, label: 'aclweb.org' },
+			{ y: 62, label: 'arxiv.org' },
+			{ y: 28, label: 'nlp.stanford.edu' },
+			{ y: 29, label: 'google.com' },
+			{ y: 22, label: 'en.wikipedia.org' },
+			{ y: 13, label: 'dl.acm.org' },
+			{ y: 12, label: 'papers.nips.cc' },
+			{ y: 11, label: 'www.statmt.org' },
+			{ y: 9, label: 'www.cs.cmu.edu' },
+			{ y: 7, label: 'dx.doi.org' },
+			{ y: 6, label: 'lucene.apache.org' },
+			{ y: 6, label: 'www.yelp.com' },
+			{ y: 5, label: 'alt.qcri.org' },
+			{ y: 5, label: 'www.nltk.org' },
+			{ y: 5, label: 'upenn.edu' },
+			{ y: 4, label: 'wordnet.princeton.edu' },
+			{ y: 4, label: 'dumps.wikimedia.org' },
+			{ y: 4, label: 'spacy.io' },
+			{ y: 4, label: 'scikit-learn.org' },
+			{ y: 4, label: 'ir.hit.edu.cn' }
+			
+		]
+	}]
+});
+chart.render();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chart = new CanvasJS.Chart("chartContainer2018", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: ""
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC",                                              
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		name: "EMNLP : 2018 Top URLs",
+		legendText: "",
+		dataPoints: [                                         
+			{ y: 435, label: 'github.com' },                                                
+			{ y: 41, label: 'nlp.stanford.edu' },
+			{ y: 26, label: 'www.statmt.org' },
+			{ y: 22, label: 'en.wikipedia.org' },
+			{ y: 21, label: 'arxiv.org' },
+			{ y: 25, label: 'google.com' },
+			{ y: 27, label: 'aclweb.org' },
+			{ y: 9, label: 'spacy.io' },
+			{ y: 9, label: 'fasttext.cc' },
+			{ y: 9, label: 'upenn.edu' },
+			{ y: 8, label: 'opus.nlpl.eu' },
+			{ y: 8, label: 'www.kaggle.com' },
+			{ y: 8, label: 'www.tensorflow.org' },
+			{ y: 7, label: 'dumps.wikimedia.org' },
+			{ y: 7, label: 'openreview.net' },
+			{ y: 6, label: 'www.ukp.tu-darmstadt.de' },
+			{ y: 5, label: 'radimrehurek.com' },
+			{ y: 5, label: 'www.yelp.com' },
+			{ y: 5, label: 'opennmt.net' },
+			{ y: 5, label: 'www.nltk.org' },
+			{ y: 5, label: 'www.ncbi.nlm.nih.gov' }
+			
+		]
+	}]
+});
+chart.render();
 
 
 
@@ -1516,5 +3204,31 @@ function toolTipContent2(e) {
 	str3 = "<span style = \"color:Tomato\">Total %:</span><strong> "+total+"</strong><br/>";
 	return (str2.concat(str)).concat(str3);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+function onClick(e) {
+		var dt= e.dataPoint.x.getFullYear();
+		// alert(  e.dataSeries.type + ", dataPoint { x:" + dt + ", y: "+ e.dataPoint.y + " }" );
+		var str1= "chartContainer";
+		var res = str1.concat(dt);
+		var x = document.getElementById(res);
+		x.style.width="1000px";
+		if (x.style.display === "none") {
+				x.style.display = "block";
+				} else {
+				x.style.display = "none";
+				}
+		
+	}
 
 }
