@@ -3680,7 +3680,7 @@ function toolTipContent(e) {
 
 function onClick(e) {
 		var dt= e.dataPoint.x.getFullYear();
-		alert(  e.dataSeries.type + ", dataPoint { x:" + dt + ", y: "+ e.dataPoint.y + " }" );
+		//alert(  e.dataSeries.type + ", dataPoint { x:" + dt + ", y: "+ e.dataPoint.y + " }" );
 		var str1= "chartContainer";
 		var res = str1.concat(dt);
 		var x = document.getElementById(res);
