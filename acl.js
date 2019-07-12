@@ -1628,8 +1628,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer1997", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+	axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -1689,8 +1694,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer1998", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -1765,8 +1775,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer1999", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -1847,8 +1862,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2000", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -1919,8 +1939,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2001", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -2010,8 +2035,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2002", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -2093,8 +2123,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2003", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -2171,8 +2206,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2004", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -2253,8 +2293,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2005", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -2340,8 +2385,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2006", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -2432,9 +2482,14 @@ chart.render();
 
 var chart = new CanvasJS.Chart("chartContainer2007", {
 	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	theme: "light2", // "light1", "light2", "dark1", "dark2"width: 900,
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -2536,8 +2591,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2008", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -2630,9 +2690,14 @@ chart.render();
 
 var chart = new CanvasJS.Chart("chartContainer2009", {
 	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	theme: "light2", // "light1", "light2", "dark1", "dark2",
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -2721,8 +2786,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2010", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -2810,8 +2880,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2011", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -2897,8 +2972,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2012", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -2986,8 +3066,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2013", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -3078,8 +3163,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2014", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -3169,8 +3259,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2015", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -3260,8 +3355,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2016", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -3351,8 +3451,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2017", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -3435,8 +3540,13 @@ chart.render();
 var chart = new CanvasJS.Chart("chartContainer2018", {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	width: 900,
 	title:{
 		text: ""
+	},
+		axisX: {
+		interval: 1,
+		
 	},
 	axisY: {
 		title: ""
@@ -3570,13 +3680,22 @@ function toolTipContent(e) {
 
 function onClick(e) {
 		var dt= e.dataPoint.x.getFullYear();
-		// alert(  e.dataSeries.type + ", dataPoint { x:" + dt + ", y: "+ e.dataPoint.y + " }" );
+		alert(  e.dataSeries.type + ", dataPoint { x:" + dt + ", y: "+ e.dataPoint.y + " }" );
 		var str1= "chartContainer";
 		var res = str1.concat(dt);
 		var x = document.getElementById(res);
-		x.style.width='1000px';
 		if (x.style.display === "none") {
-				x.style.display = "block";
+			//	x.style.position = 'static';
+				//x.style.visibility = "visible";
+				var i;
+				for(i=1997;i<2019;i++)
+				{
+					var str = "chartContainer";
+					var res1 = str.concat(i);
+					var x1 = document.getElementById(res1);
+					x1.style.display='none';
+				}
+				x.style.display = "block"
 				} else {
 				x.style.display = "none";
 				}
