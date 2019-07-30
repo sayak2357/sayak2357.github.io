@@ -880,18 +880,6 @@ chart.render();
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 var chart = new CanvasJS.Chart("chartContainer7", {
 	animationEnabled: true,
 	title:{
@@ -1635,23316 +1623,6 @@ chart.render();
 
 
 
-var chart = new CanvasJS.Chart("chartContainer1996", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 
-		click: onClick2,		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1996",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.cs.rochester.edu' },
-			{ y: 1,label: 'www.di.ufpe.br' },
-			{ y: 1,  label: 'www.sfs.nphil.uni-tuebingen' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19960", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1996-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.cs.rochester.edu/research/trains/ACL96' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19961", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1996-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.di.ufpe.br/~jr' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19962", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1996-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: "http://www.sfs.nphil.uni-tuebingen/'minnen" }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer1997", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 
-		click: onClick2,		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1997",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.research.att.com' },
-			{ y: 1,label: 'www.coling.uni-freiburg.de' },
-			{ y: 1,  label: 'hpsg.stanford.edu' },           
-			{ y: 2,  label: 'ruccs.rutgers.edu' },
-			{ y: 1,  label: 'www.ims.uni-stuttgart.de' },
-			{ y: 2, label: 'www.ps.uni-sb.de' },
-			{ y: 1,  label: 'www.globalink.com' },
-			{ y: 1, label: 'www.logos-ca.com' },
-			{ y: 1, label: 'systranmt.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19970", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 
-		click: onClick2,		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1997-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.research.att.com/lewis' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19971", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 
-		click: onClick2,		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1997-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.coling.uni-freiburg.de/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19972", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 
-		click: onClick2,		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1997-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://hpsg.stanford.edu/hpsg/sag.html' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19973", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 
-		click: onClick2,		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1997-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'ruccs.rutgers.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19974", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 
-		click: onClick2,		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1997-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: "http://www.ims.uni-stuttgart.de/'jochen/CBSem" }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19975", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 
-		click: onClick2,		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1997-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.ps.uni-sb.de' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19976", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 
-		click: onClick2,		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1997-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.globalink.com/home.html' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19977", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 
-		click: onClick2,		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1997-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.logos-ca.com/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19978", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 
-		click: onClick2,		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1997-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://systranmt.com/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer1998", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true,
-		click: onClick2,		
-		legendMarkerColor: "grey",
-		name: "1998",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'titania.cobuild.collins.co.uk' },         
-			{ y: 1,label: 'www.conexor.fi' },
-			{ y: 1,  label: 'www.itl.nist.gov' },           
-			{ y: 1,  label: 'www.cs.biu.ac.il' },
-			{ y: 1,  label: 'www.ims.uni-' },
-			{ y: 1, label: 'earth.let.uva.nl' },
-			{ y: 1,  label: 'www.cs.jhu.edu' },
-			{ y: 1, label: 'www.cis.upenn.edu' },
-			{ y: 3, label: 'www.gmat.org' },
-			{ y: 2,label: 'www.toefl.org' },
-			{ y: 1,  label: 'www.gmat.orff' },           
-			{ y: 1,  label: 'www.toetl.org' },
-			{ y: 1,  label: 'research.microsoft.com' },
-			{ y: 1, label: 'www.ee.umd' },
-			{ y: 1,  label: 'ciir.cs.urnass.edu' },
-			{ y: 1, label: 'nl.ijs.si' },
-			{ y: 1,  label: 'www.ids-mannheim.de' },
-			{ y: 1, label: 'www.itri.bton.ac.uk' },
-			{ y: 1,  label: 'www.georgetown.edu' },
-			{ y: 1, label: 'wombat.doc.ic.ac.uk' }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19980", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://titania.cobuild.collins.co.uk/boe_info.html' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19981", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.conexor.fi/analysers.html' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19982", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.itl.nist.gov/div894' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19983", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.cs.biu.ac.il/,-~yuvalk/MBSL' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19984", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.ims.uni-' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19985", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://earth.let.uva.nl/-rens' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19986", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.cs.jhu.edu/-brill' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19987", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.cis.upenn.edu/-adwait' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19988", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.gmat.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19989", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.toefl.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199810", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.gmat.orff' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199811", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.toetl.org/tstprpmt.htm!' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199812", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://research.microsoft.com/nlp/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199813", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.ee.umd' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199814", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://ciir.cs.urnass.edu/info/psfiles/tepubs/tepu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199815", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://nl.ijs.si/ME/CD/docs/mte-d' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199816", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.ids-mannheim.de/telril' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199817", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.itri.bton.ac.uk/events/senseval' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199818", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.georgetown.edu/luperfoy/Discourse-' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199819", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1998=19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://wombat.doc.ic.ac.uk' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer1999", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true,
-		click: onClick2,
-		legendMarkerColor: "grey",
-		name: "1999",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.link.cs.cmu.edu' },         
-			{ y: 1,label: 'fofoca.mitre.org' },               
-			{ y: 2,  label: 'nlp.cs.jhu.edu' },           
-			{ y: 1,  label: 'www.ee.umd.edu' },
-			{ y: 1,  label: 'www.gcorgetown.edu' },
-			{ y: 1, label: 'www.cs.nmsu.edu' },
-			{ y: 1,  label: 'web.math.auc.dk' },
-			{ y: 1, label: 'www.morphologic.hu' },
-			{ y: 1, label: 'www.cs.umanitoba.ca' },
-			{ y: 1,label: 'www.cs.umanitob&.ca' },
-			{ y: 1,  label: 'www.askjeeves.com' },           
-			{ y: 1,  label: 'www.electricmonk.com' },
-			{ y: 1,  label: 'altavista.com' },
-			{ y: 1, label: 'www.dcs.gla.ac.uk' },
-			{ y: 1,  label: 'www.fask.uni-mainz.de' },
-			{ y: 1, label: 'www.cs.cmu.edu' },
-			{ y: 1,  label: 'www.rxrc.xerox.com' },
-			{ y: 1, label: 'xxx.lanl.gov' },
-			{ y: 1,  label: 'www.tipster.org' },
-			{ y: 1, label: 'www.ltg.ed.ac.uk' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19990", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.link.cs.cmu.edu/lexfn' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19991", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://fofoca.mitre.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19992", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'nlp.cs.jhu.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19993", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.ee.umd.edu/medlab/filter/paperslmlir.ps' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19994", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.gcorgetown.edu/luperfoy/Discourse-' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19995", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.cs.nmsu.edu/~wiebe/projects' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19996", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://web.math.auc.dk/-jhb/CoCo' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19997", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.morphologic.hu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19998", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.cs.umanitoba.ca' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer19999", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.cs.umanitob&.ca/-lindek/nlldemo.htm/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199910", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.askjeeves.com'  }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199911", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.electricmonk.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199912", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://altavista.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199913", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.dcs.gla.ac.uk/prosper/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199914", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.fask.uni-mainz.de/user/rappl' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199915", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.cs.cmu.edu/' },
-			{ y: 1, label: '~dougb/ident.html' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199916", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.rxrc.xerox.com/research/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199917", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://xxx.lanl.gov/ps/cmp-' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199918", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.tipster.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer199919", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "1999-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.ltg.ed.ac.uk/software/index.html' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2000", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true, 
-		click: onClick2,
-		legendMarkerColor: "grey",
-		name: "2000",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 3, label: 'www.iiit.net' },                                   
-			{ y: 2, label: 'www.ims.uni-stuttgart.de' },               
-			{ y: 2,  label: 'www.muc.saic.com' },           
-			{ y: 1,  label: 'www.sgi.com' },
-			{ y: 1,  label: 'www.ksl.Stanford.EDU' },
-			{ y: 1, label: 'morph.ldc.upenn.edu' },
-			{ y: 1,  label: 'ilk.kub.nl' },
-			{ y: 1, label: 'www.cs.biu.ac.il' },
-			{ y: 1, label: 'www.conexor.fi' },
-			{ y: 1,label: 'www.ps.uni-sb.de' },
-			{ y: 1,  label: 'www.mpi-sb' },           
-			{ y: 1,  label: 'www.hcrc.ed.ac.uk' },
-			{ y: 1,  label: 'www.people.cornell.edu' },
-			{ y: 1, label: 'www.ai.univie.ac.at' },
-			{ y: 1,  label: 'www.cicc.or.jp' },
-			{ y: 1, label: 'www.aia.bppt.go.id' },
-			{ y: 1,  label: 'nlp.aia.bppt.go.id' },
-			{ y: 1, label: 'www.tdil.gov.in' },
-			{ y: 1,  label: 'www.cdac.org.in' },
-			{ y: 1, label: 'www.links.nectec.or.th' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20000", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.iiit.net' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20001", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.ims.uni-stuttgart.de' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20002", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.muc.saic.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20003", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.sgi.com/Technology/mlc' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20004", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.ksl.Stanford.EDU/ontologies/time/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20005", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://morph.ldc.upenn.edu/Catalog/LDC99T3' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20006", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://ilk.kub.nl/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20007", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.cs.biu.ac.il/~yuvalk/MBSL' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20008", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.conexor.fi' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20009", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.ps.uni-sb.de/Papers/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200010", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.mpi-sb' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200011", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.hcrc.ed.ac.uk/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200012", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.people.cornell.edu/pages/cjc26/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200013", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.ai.univie.ac.at/~harald/handbook.html' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200014", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.cicc.or.jp/homepage/english/about/a' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200015", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.aia.bppt.go.id/mmts' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200016", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://nlp.aia.bppt.go.id/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200017", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.tdil.gov.in' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200018", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.cdac.org.in' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200019", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2000-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'http://www.links.nectec.or.th' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2001", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true, 
-		click: onClick2,
-		legendMarkerColor: "grey",
-		name: "2001",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 7, label: 'www.w3.org' },                                        
-			{ y: 3, label: 'trec.nist.gov' },               
-			{ y: 3,  label: 'www.cis.upenn.edu' },           
-			{ y: 2,  label: 'www.inria.fr' },
-			{ y: 2,  label: 'www.collocations.de' },
-			{ y: 2, label: 'www.loria.fr' },
-			{ y: 2,  label: 'cgi.portugues.mct.pt' },
-			{ y: 2,  label: 'www.ims.uni-stuttgart.de' },
-			{ y: 1, label: 'www.limsi.fr' },
-			{ y: 1, label: 'twentyone.tpd.tno.nl' },
-			{ y: 1, label: 'www.fb9-' },
-			{ y: 1,  label: 'coretex.itc.it' },           
-			{ y: 1,  label: 'www.kecl.ntt.co.jp' },
-			{ y: 1,  label: 'www.cs.columbia.edu' },
-			{ y: 1, label: 'www.electricknowledge.com' },
-			{ y: 1,  label: 'www.cs.nyu.edu' },
-			{ y: 1, label: 'ilk.kub.nl' },
-			{ y: 1,  label: 'leo.stcloudstate.edu' },
-			{ y: 1, label: 'www.itri.bton.ac.uk' },
-			{ y: 1,  label: 'www.pharmweb.net' }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20010", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.w3.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20011", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'trec.nist.gov' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20012", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.cis.upenn.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20013", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.inria.fr' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20014", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.collocations.de' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20015", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.loria.fr' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20016", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'cgi.portugues.mct.pt' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20017", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.ims.uni-stuttgart.de' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20018", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.limsi.fr/tlp' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20019", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://twentyone.tpd.tno.nl/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200110", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.fb9-' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200111", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://coretex.itc.it/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200112", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.kecl.ntt.co.jp/icl/mtg/resources/altjaws.html' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200113", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.cs.columbia.edu/regina' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200114", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.electricknowledge.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200115", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.cs.nyu.edu/cs/projects/proteus/evalb/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200116", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://ilk.kub.nl/l' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200117", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://leo.stcloudstate.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200118", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.itri.bton.ac.uk/projects/rags' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200119", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2001-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.pharmweb.net' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2002", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",
-		click: onClick2,
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 2, label: 'www.altavista.com' },                                                        
-			{ y: 2, label: 'maxent.sourceforge.net' },               
-			{ y: 2,  label: 'www.google.com' },           
-			{ y: 1,  label: 'www-white.media.mit.edu' },
-			{ y: 1,  label: 'www.mozart-oz' },
-			{ y: 3, label: 'research.microsoft.com' },
-			{ y: 2,  label: 'lingo.stanford.edu' },
-			{ y: 2,  label: 'www.cs.toronto.edu' },
-			{ y: 1, label: 'www.coli.uni-sb.de' },
-			{ y: 1, label: 'www.ps.uni-sb.de' },
-			{ y: 1, label: 'fofoca.mitre.org' },
-			{ y: 1,  label: 'www.nlm.nih.gov' },           
-			{ y: 1,  label: 'opennlp.sf.net' },
-			{ y: 1,  label: 'grok.sf.net' },
-			{ y: 1, label: 'www.d.umn.edu' },
-			{ y: 1,  label: 'encarta.msn.com' },
-			{ y: 1, label: 'www.whlib.ac.cn' },
-			{ y: 1,  label: 'www.cs.waikato.ac.nz' },
-			{ y: 1, label: 'tarjim.ajeeb.com'},
-			{ y: 1,  label: 'www.muc.saic.com' }
-			
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20020", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.altavista.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20021", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'maxent.sourceforge.net' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20022", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.google.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20023", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www-white.media.mit.edu/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20024", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.mozart-oz' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20025", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://research.microsoft.com/~dmax/WinMine/Tool' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20026", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://lingo.stanford.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20027", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.cs.toronto.edu/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20028", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.coli.uni-sb.de/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20029", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.ps.uni-sb.de/oz/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200210", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://fofoca.mitre.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200211", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.nlm.nih.gov/mesh/meshhome.html;' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200212", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://opennlp.sf.net' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200213", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://grok.sf.net' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200214", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.d.umn.edu/~tpederse/data.html' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200215", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://encarta.msn.com/default.asp' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200216", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.whlib.ac.cn/sjk/bkqs.htm' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200217", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.cs.waikato.ac.nz/e' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200218", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://tarjim.ajeeb.com/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200219", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2002-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.muc.saic.com/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2003", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 
-		click: onClick2,
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 2, label: 'www.rulequest.com' },         
-			{ y: 2, label: 'www.research.att.com' },
-			{ y: 2,  label: 'maxent.sourceforge.net' },           
-			{ y: 2,  label: 'www.ldc.upenn.edu' },
-			{ y: 2,  label: 'www.cs.cmu.edu' },
-			{ y: 2, label: 'www.isi.edu' },
-			{ y: 2,  label: 'www.cs.columbia.edu' },
-			{ y: 2,  label: 'www.quiz-zone.co.uk' },
-			{ y: 1, label: 'www.greatauk.com' },
-			{ y: 1, label: 'www.nlp.cs.ritsumei.ac.jp' },
-			{ y: 1, label: 'www.cs.nyu.edu' },           
-			{ y: 1,  label: 'info.ox.ac.uk' },
-			{ y: 1,  label: 'www.cia.gov' },
-			{ y: 1,  label: 'www.hcrc.ed.ac.uk' },
-			{ y: 1, label: 'www.umiacs.umd.edu' },
-			{ y: 1,  label: 'chasen.aist-nara.ac.jp' },
-			{ y: 1, label: 'www.iijnet.or.jp' },
-			{ y: 1, label: 'www.csse.monash.edu.au' },
-			{ y: 1,  label: 'trec.nist.gov' },
-			{ y: 1, label: 'www.cogsci.princeton.edu' }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20030", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.rulequest.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20031", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.research.att.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20032", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'maxent.sourceforge.net' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20033", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.ldc.upenn.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20034", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.cmu.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20035", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.isi.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20036", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.columbia.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20037", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.quiz-zone.co.uk' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20038", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.greatauk.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20039", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.nlp.cs.ritsumei.ac.jp/qac/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200310", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.cs.nyu.edu/sekine/PROJECT/CRLQA/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200311", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://info.ox.ac.uk/bnc' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200312", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.cia.gov/cia/publications/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200313", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.hcrc.ed.ac.uk/gnome' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200314", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.umiacs.umd.edu/bonnie/verbs-English.lcs' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200315", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://chasen.aist-nara.ac.jp/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200316", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.iijnet.or.jp/edr/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200317", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.csse.monash.edu.au/jwb/edict.html' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200318", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://trec.nist.gov/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200319", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2003-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.cogsci.princeton.edu/wn/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2004", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 
-		click: onClick2,
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 7, label: 'www.nist.gov' },         
-			{ y: 5, label: 'www.isi.edu' },
-			{ y: 4,  label: 'www.research.att.com' },          
-			{ y: 4,  label: 'www.senseval.org' },
-			{ y: 3,  label: 'www.nlm.nih.gov' },
-			{ y: 3, label: 'www.cogsci.princeton.edu' },
-			{ y: 3,  label: 'www.ai.mit.edu' },
-			{ y: 2,  label: 'arXiv.org' },
-			{ y: 2, label: 'www.cs.waikato.ac.nz' },
-			{ y: 2, label:  'www.csse.monash.edu.au' },
-			{ y: 2, label: 'www.census.gov' },           
-			{ y: 2,  label: 'research.nii.ac.jp' },
-			{ y: 2,  label: 'lingo.stanford.edu' },
-			{ y: 2, label: 'nlp.cs.nyu.edu' },
-			{ y: 2,  label: 'www.cis.upenn.edu' },
-			{ y: 2, label: 'davidmlane.com' },
-			{ y: 2, label: 'lists.sourceforge.net' },
-			{ y: 1,  label: 'roa.rutgers.edu' },
-			{ y: 1, label: 'openccg.sourceforge.net' },
-			{ y: 1, label: 'www.dcs.shef.ac' }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20040", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.nist.gov' },
-			{ y: 1, label:  'http://www.itl.nist.gov/iad/894.01/' },
-			{ y: 1, label:  'trec.nist.gov' },
-			{ y: 1, label:  'http://duc.nist.gov' },
-			{ y: 1, label:  'tides.nist.gov' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20041", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.isi.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20042", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.research.att.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20043", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.senseval.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20044", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.nlm.nih.gov' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20045", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cogsci.princeton.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20046", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.ai.mit.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20047", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'arXiv.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20048", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.waikato.ac.nz' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20049", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.csse.monash.edu.au' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200410", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.census.gov' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200411", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'research.nii.ac.jp' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200412", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'lingo.stanford.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200413", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'nlp.cs.nyu.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200414", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'www.cis.upenn.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200415", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'davidmlane.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200416", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'lists.sourceforge.net' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200417", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://roa.rutgers.edu/view.php3?id=845' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200418", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://openccg.sourceforge.net' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200419", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2004-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.dcs.shef.ac' },
-			{ y: 1, label:  'http://www.dcs.shef.ac.uk' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2005", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true,
-		click: onClick2,		
-		legendMarkerColor: "grey",
-		name: "2005",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 10, label: 'www.nist.gov' },        
-			{ y: 4, label: 'chasen.org' },
-			{ y: 4,  label: 'www.clres.com' },          
-			{ y: 3,  label: 'cnts.uia.ac.be' },
-			{ y: 3,  label: 'www.d.umn.edu' },
-			{ y: 3, label: 'www.fjoch.com' },
-			{ y: 5,  label: 'upenn.edu' },
-			{ y: 3,  label: 'search.cpan.org' },
-			{ y: 2, label: 'mallet.cs.umass.edu' },
-			{ y: 2, label:  'www.cs.cornell.edu' },          
-			{ y: 2,  label: 'www.ims.uni-stuttgart.de' },
-			{ y: 2,  label: 'www.csie.ntu.edu.tw' },
-			{ y: 2, label: 'svmlight.joachims.org' },
-			{ y: 2,  label: 'nces.ed.gov' },
-			{ y: 8, label: 'sourceforge.net' },
-			{ y: 2,  label: 'biocreative.ifsm.umbc.edu' },
-			{ y: 2, label: 'www.ncbi.nlm.nih.gov'  },
-			{ y: 2, label: 'www.nlm.nih.gov' },
-			{ y: 1,  label:  'www.speech.sri.com' },
-			{ y: 2, label:  'www.sover.net' }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20050", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.nist.gov' },
-			{ y: 1, label:  'www.itl.nist.gov' },
-			{ y: 1, label:  'trec.nist.gov' },
-			{ y: 1, label:  'http://nlpir.nist.gov/projects/duc/pubs.html' },
-			{ y: 1, label:  'http://www-nlpir.nist.gov/projects/duc/' }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20051", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'chasen.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20052", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'www.clres.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20053", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'cnts.uia.ac.be' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20054", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.d.umn.edu/f' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20055", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.fjoch.com/YASMET.html' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20056", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://ldc.upenn.edu/projects/tides/' },
-			{ y: 1, label:  'www.cis.upenn.edu' },
-			{ y: 1, label:  'www.ldc.upenn.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20057", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://search.cpan.org/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20058", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'mallet.cs.umass.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20059", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.cs.cornell.edu/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200510", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.ims.uni-stuttgart.de' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200511", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.csie.ntu.edu.tw' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200512", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'svmlight.joachims.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200513", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'nces.ed.gov' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200514", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'sourceforge.net' },
-			{ y: 1, label:  'utool.sourceforge.net' },
-			{ y: 1, label:  'maxent.sourceforge.net' },
-			{ y: 1, label:  'openccg.sourceforge.net' },
-			{ y: 1, label:  'agtk.sourceforge.net' },
-			{ y: 1, label:  'senserelate.sourceforge.net' },
-			{ y: 1, label:  'senseclusters.sourceforge.net' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200515", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'biocreative.ifsm.umbc.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200516", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.ncbi.nlm.nih.gov' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200517", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.nlm.nih.gov' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200518", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.speech.sri.com/projects/srilm/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200519", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2005-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.sover.net/ozus/cinema.htm' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2006", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true,
-		click: onClick2,
-		legendMarkerColor: "grey",
-		name: "2006",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 9, label: 'nlp.cs.nyu.edu' },
-			{ y: 11, label: 'nist.gov' },
-			{ y: 8,  label: 'chasen.org' },          
-			{ y: 2,  label: 'chasen.aist-nara.ac.jp' },
-			{ y: 6,  label: 'www.isi.edu' },
-			{ y: 15, label: 'upenn.edu' },
-			{ y: 3,  label:  'www-tsujii.is.s.u-tokyo.ac.jp'},
-			{ y: 3, label: 'www.pascal-network.org' },
-			{ y: 2, label:  'www.cs.ualberta.ca' },
-			{ y: 2, label: 'www.ims.uni-stuttgart.de' },           
-			{ y: 2,  label: 'chasen.aist-nara.ac.jp' },
-			{ y: 2,  label: 'www.csie.ntu.edu.tw' },
-			{ y: 2, label: 'www.keenage.com' },
-			{ y: 2,  label: 'www.papillon-dictionary.org' },
-			{ y: 2, label: 'www.natcorp.ox.ac.uk' },
-			{ y: 2, label: 'homepages.inf.ed.ac.uk' },
-			{ y: 2,  label: 'chasen.naist.jp' },
-			{ y: 2, label: 'mila.cs.technion.ac.il'  },
-			{ y: 2, label: 'www.cnts.ua.ac.be'  },
-			{ y: 2, label: 'www.bitterlemons.org'  }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20060", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'nlp.cs.nyu.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20061", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'trec.nist.gov' },
-			{ y: 1, label:  'www-nlpir.nist.gov' },
-			{ y: 1, label:  'http://www.nist.gov/speech/tests/mt/resources/scoring.htm' },
-			{ y: 1, label:  'http://www.itl.nist.gov/iaui/894.02/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20062", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'chasen.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20063", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://chasen.aist-nara.ac.jp/hiki/ChaSen' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20064", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'www.isi.edu' },
-			{ y: 1, label:   'semantics.isi.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20065", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.ldc.upenn.edu' },
-			{ y: 1, label:  'www.cis.upenn.edu' },
-			{ y: 1, label:  'projects.ldc.upenn.edu' },
-			{ y: 1, label:  'www.cis.upenn.edu.bikel' }
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20066", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www-tsujii.is.s.u-tokyo.ac.jp/tsuruoka/postagger/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20067", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.pascal-network.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20068", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.ualberta.ca' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20069", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.ims.uni-stuttgart.de' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200610", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'chasen.aist-nara.ac.jp' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200611", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.csie.ntu.edu.tw' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200612", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.keenage.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200613", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.papillon-dictionary.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200614", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.natcorp.ox.ac.uk' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200615", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'homepages.inf.ed.ac.uk' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200616", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'chasen.naist.jp' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200617", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'mila.cs.technion.ac.il' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200618", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cnts.ua.ac.be' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200619", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2006-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.bitterlemons.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2007", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"width: 900,
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true,
-		click : onClick2,		
-		legendMarkerColor: "grey",
-		name: "2007",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 6, label: 'chasen.org' }, 
-			{ y: 6, label: 'opennlp.sourceforge.net' },
-			{ y: 6,  label: 'www.isi.edu' },          
-			{ y: 11,  label: 'upenn.edu' },
-			{ y: 4,  label: 'www.statmt.org' },
-			{ y: 4, label: 'www.csie.ntu.edu.tw' },
-			{ y: 6,  label:  'www.nist.gov'},
-			{ y: 3,  label: 'hal3.name' },
-			{ y: 3, label: 'search.cpan.org' },
-			{ y: 3, label:  'lucene.apache.org' },
-			{ y: 2, label: 'www.cs.waikato.ac.nz' },           
-			{ y: 2,  label: 'svmlight.joachims.org' },
-			{ y: 2,  label: 'corpus.leeds.ac.uk' },
-			{ y: 2,  label: 'homepages.inf.ed.ac.uk' },
-			{ y: 2, label: 'www.cnts.ua.ac.be' },
-			{ y: 2,  label: 'www.fjoch.com' },
-			{ y: 2, label: 'www.speech.sri.com' },
-			{ y: 2, label: 'www.eml-research.de' },
-			{ y: 2,  label: 'www.cs.ualberta.ca' },
-			{ y: 2, label: 'glaros.dtc.umn.edu'  }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20070", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'chasen.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20071", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'opennlp.sourceforge.net' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20072", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.isi.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20073", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.ldc.upenn.edu' },
-			{ y: 1, label:  'www.cis.upenn.edu' },
-			{ y: 1, label:  'projects.ldc.upenn.edu' },
-			{ y: 1, label:  'www.cis.upenn.edu.bikel' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20074", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.statmt.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20075", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.csie.ntu.edu.tw' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20076", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://trec.nist.gov/data/reuters/' },
-			{ y: 1, label:  'www-nlpir.nist.gov' },
-			{ y: 1, label:  'www.nist.gov' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20077", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'hal3.name' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20078", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'search.cpan.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20079", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'lucene.apache.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200710", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label: 'www.cs.waikato.ac.nz' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200711", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'svmlight.joachims.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200712", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'corpus.leeds.ac.uk' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200713", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'homepages.inf.ed.ac.uk' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200714", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cnts.ua.ac.be' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200715", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.fjoch.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200716", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.speech.sri.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200717", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.eml-research.de' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200718", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.ualberta.ca' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200719", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2007-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'glaros.dtc.umn.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2008", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true,
-		click: onClick2,
-		legendMarkerColor: "grey",
-		name: "2008",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 7, label: 'www.statmt.org' },                    
-			{ y: 6, label: 'nlp.stanford.edu' },
-			{ y: 4,  label: 'chasen.org' },          
-			{ y: 5,  label: 'www.cl.cam.ac.uk' },
-			{ y: 4,  label: 'www.cs.cmu.edu' },
-			{ y: 20, label: 'sourceforge.net' },
-			{ y: 2,  label: 'www.cs.ualberta.ca'},
-			{ y: 4,  label: 'homepages.inf.ed.ac.uk' },
-			{ y: 14, label: 'www.nist.gov' },
-			{ y: 11, label:  'upenn.edu' },
-			{ y: 3, label: 'www.w3.org' },           
-			{ y: 3,  label: 'wordnet.princeton.edu' },
-			{ y: 6,  label: 'hal3.name' },
-			{ y: 2,  label: 'answers.yahoo.com' },
-			{ y: 3, label: 'www.csie.ntu.edu.tw' },
-			{ y: 3,  label: 'www.mturk.com' },
-			{ y: 3, label: 'www.summarization.com' },
-			{ y: 2, label: 'www.cs.washington.edu' },
-			{ y: 2,  label: 'mallet.cs.umass.edu' },
-			{ y: 2, label: 'bllip.cs.brown.edu'  }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20080", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.statmt.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20081", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'nlp.stanford.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20082", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'chasen.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20083", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cl.cam.ac.uk' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20084", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.cmu.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20085", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-5",
-		legendText: "",
-		dataPoints: [ 
-			{ y: 1, label:  'sourceforge.net' },
-			{ y: 1, label:  'opennlp.sourceforge.net' },
-			{ y: 1, label:  'openccg.sourceforge.net' },
-			{ y: 1, label:  'maxent.sourceforge.net' },
-			{ y: 1, label:  'mecab.sourceforge.net' },
-			{ y: 1, label:  'cmusphinx.sourceforge.net' },
-			{ y: 1, label:  'minorthird.sourceforge.net' },
-			{ y: 1, label:  'jwordnet.sourceforge.net' },
-			{ y: 1, label:  'mstparser.sourceforge.net' },
-			{ y: 1, label:  'lpsolve.sourceforge.net' },
-			{ y: 1, label:  'riso.sourceforge.net' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20086", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.ualberta.ca' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20087", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'homepages.inf.ed.ac.uk' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20088", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'duc.nist.gov' },
-			{ y: 1, label:  'www.nist.gov' },
-			{ y: 1, label:  'trec.nist.gov' },
-			{ y: 1, label:  'math.nist.gov' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20089", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'projects.ldc.upenn.edu' },
-			{ y: 1, label:  'www.cis.upenn.edu' },
-			{ y: 1, label:  'www.ldc.upenn.edu' },
-			{ y: 1, label:  'www.seas.upenn.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200810", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.w3.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200811", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'wordnet.princeton.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200812", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'hal3.name' },
-			{ y: 1, label:  'pub.hal3.name' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200813", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'answers.yahoo.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200814", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.csie.ntu.edu.tw' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200815", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.mturk.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200816", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.summarization.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200817", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.washington.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200818", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'mallet.cs.umass.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200819", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2008-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'bllip.cs.brown.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2009", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2",
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true, 
-		click: onClick2,
-		legendMarkerColor: "grey",
-		name: "2009",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 9, label: 'nlp.stanford.edu' },          
-			{ y: 8, label: 'www.statmt.org' },
-			{ y: 13,  label: 'www.nist.gov' },          
-			{ y: 6,  label: 'upenn.edu' },
-			{ y: 6,  label: 'wikipedia.org' },
-			{ y: 8, label: 'google.com' },
-			{ y: 4,  label: 'www.cs.ualberta.ca' },
-			{ y: 14,  label: 'sourceforge.net' },
-			{ y: 4, label: 'svmlight.joachims.org' },
-			{ y: 4, label:  'lucene.apache.org' },
-			{ y: 3, label: 'verbs.colorado.edu' },           
-			{ y: 3,  label: 'ir.hit.edu.cn' },
-			{ y: 3,  label: 'nlp.kuee.kyoto-u.ac.jp' },
-			{ y: 3,  label: 'www.cs.pitt.edu' },
-			{ y: 3, label: 'www.cs.cornell.edu' },
-			{ y: 2,  label: 'www.flickr.com' },
-			{ y: 3, label: 'www.cnts.ua.ac.be' },
-			{ y: 3, label: 'www.speech.sri.com' },
-			{ y: 3,  label: 'mallet.cs.umass.edu' },
-			{ y: 3, label: 'edits.fbk.eu'  }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20090", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'nlp.stanford.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20091", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.statmt.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20092", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.nist.gov' },
-			{ y: 1, label:  'duc.nist.gov' },
-			{ y: 1, label:  'trec.nist.gov' },
-			{ y: 1, label:  'http://www.itl.nist.gov/iad/mig/tests/mt/2008/doc/' },
-			{ y: 1, label:  'http://www-nlpir.nist.gov/projects/duc/duc2007/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20093", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cis.upenn.edu' },
-			{ y: 1, label:  'http://www.seas.upenn.edu/~mdredze/datasets/sentiment/' },
-			{ y: 1, label:  'projects.ldc.upenn.edu' },
-			{ y: 1, label:  'www.ldc.upenn.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20094", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.wikipedia.org/'},
-			{ y: 1, label:   'download.wikipedia.org' },
-			{ y: 1, label:   'en.wikipedia.org' }
-			
-			
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20095", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'code.google.com' },
-			{ y: 1, label:  'translate.google.com' },
-			{ y: 1, label:  'labs.google.com' },
-			{ y: 1, label:  'directory.google.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20096", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.ualberta.ca' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20097", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-7",
-		legendText: "",
-		dataPoints: [
-			{ y: 1, label: 'sourceforge.net' },
-			{ y: 1, label:  'http://stardict.sourceforge.net/' },
-			{ y: 1, label:  'http://lpsolve.sourceforge.net/5.5/' },
-			{ y: 1, label:  'opennlp.sourceforge.net' },
-			{ y: 1, label: 'crfpp.sourceforge.net' },
-			{ y: 1, label: 'http://argmax.sourceforge.net/' },
-			{ y: 1, label: 'http://maxent.sourceforge.net' },
-			{ y: 1, label: 'http://jswarm-pso.sourceforge.net/' },
-			{ y: 1, label: 'http://nltk.sourceforge.net/'}
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20098", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'svmlight.joachims.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20099", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'lucene.apache.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200910", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'verbs.colorado.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200911", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'ir.hit.edu.cn' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200912", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'nlp.kuee.kyoto-u.ac.jp' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200913", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.pitt.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200914", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.cornell.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200915", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.flickr.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200916", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cnts.ua.ac.be' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200917", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.speech.sri.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200918", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'mallet.cs.umass.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer200919", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2009-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'edits.fbk.eu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2010", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true,
-		click: onClick2,
-		legendMarkerColor: "grey",
-		name: "2010",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 14, label: 'www.nist.gov' },
-			{ y: 10, label: 'nlp.stanford.edu' },
-			{ y: 8,  label: 'mallet.cs.umass.edu' },          
-			{ y: 7,  label: 'www.csie.ntu.edu.tw' },
-			{ y: 23,  label: 'sourceforge.net' },
-			{ y: 6, label: 'www.cs.chalmers.se' },
-			{ y: 5,  label: 'homepages.inf.ed.ac.uk' },
-			{ y: 9,  label: 'upenn.edu' },
-			{ y: 15, label: 'google.com' },
-			{ y: 5, label:  'www.isi.edu' },
-			{ y: 3, label: 'webdocs.cs.ualberta.ca' },           
-			{ y: 8,  label: 'www.anc.org' },
-			{ y: 4,  label: 'www.cs.washington.edu' },
-			{ y: 4,  label: 'www.amazon.com' },
-			{ y: 4, label: 'svmlight.joachims.org' },
-			{ y: 4,  label: 'www.cs.pitt.edu' },
-			{ y: 4, label: 'princeton.edu' },
-			{ y: 3, label: 'www.sil.org' },
-			{ y: 3,  label: 'hdl.handle.net' },
-			{ y: 3, label: 'lcl.uniroma1.it'  }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20100", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.nist.gov' },
-			{ y: 1, label:  'duc.nist.gov' },
-			{ y: 1, label:  'www-nlpir.nist.gov' },
-			{ y: 1, label:  'trec.nist.gov' },
-			{ y: 1, label:  'www.itl.nist.gov' },
-			{ y: 1, label:  'http://nist.gov/speech/tests' }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20101", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'nlp.stanford.edu' },
-			{ y: 1, label:  'http://nlp.stanford.edu:8080/parser/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20102", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'mallet.cs.umass.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20103", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.csie.ntu.edu.tw' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20104", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-4",
-		legendText: "",
-		dataPoints: [    
-			{ y: 1, label:  'sourceforge.net' },
-			{ y: 1, label:  'tadm.sourceforge.net' },
-			{ y: 1, label:  'http://flexcrfs.sourceforge' },
-			{ y: 1, label:  'http://texhyphj.sourceforge.net' },
-			{ y: 1, label:  'http://crfpp.sourceforge.net/' },
-			{ y: 1, label:  'http://mmax2.sourceforge.net/' },
-			{ y: 1, label:  'http://stardict.sourceforge.net/' },
-			{ y: 1, label:  'http://chasen-legacy.sourceforge.jp/' },
-			{ y: 1, label:  'http://multiparse.sourceforge.net' },
-			{ y: 1, label:  'lpsolve.sourceforge.net' },
-			{ y: 1, label:  'http://mecab.sourceforge.net' },
-			{ y: 1, label:  'http://opennlp.sourceforge' },
-			{ y: 1, label:  'http://wn-similarity.sourceforge.net/' },
-			{ y: 1, label:  'http://jwordnet.sourceforge.net/' },
-			{ y: 1, label:  'http://maxent.sourceforge.net/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20105", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'www.cs.chalmers.se' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20106", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'homepages.inf.ed.ac.uk' },
-			{ y: 1, label:  'http://homepages.inf' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20107", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cis.upenn.edu' },
-			{ y: 1, label:  'http://www.seas.upenn.edu/~mdredze/datasets/sentiment/' },
-			{ y: 1, label:  'projects.ldc.upenn.edu' },
-			{ y: 1, label:  'www.ldc.upenn.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20108", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'www.google.com' },
-			{ y: 1, label:   'translate.google.com' },
-			{ y: 1, label:   'code.google.com' },
-			{ y: 1, label:   'news.google.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20109", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.isi.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201010", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'webdocs.cs.ualberta.ca' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201011", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.anc.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201012", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.washington.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201013", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.amazon.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201014", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'svmlight.joachims.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201015", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.pitt.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201016", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'wordnet.princeton.edu' },
-			{ y: 1, label:  'http://wordnetweb.princeton.edu/perl/webwn' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201017", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.sil.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201018", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'hdl.handle.net' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201019", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2010-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'lcl.uniroma1.it' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2011", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true,
-		click: onClick2,
-		legendMarkerColor: "grey",
-		name: "2011",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 23, label: 'wikipedia.org' },
-			{ y: 19, label: 'google.com' },
-			{ y: 11,  label: 'www.statmt.org' },          
-			{ y: 10,  label: 'nlp.stanford.edu' },
-			{ y: 16,  label: 'sourceforge.net' },
-			{ y: 7, label: 'mallet.cs.umass.edu' },
-			{ y: 6,  label: 'www.csie.ntu.edu.tw' },
-			{ y: 6,  label: 'github.com' },
-			{ y: 5, label:  'cs.cmu.edu' },
-			{ y: 5, label:  'svmlight.org' },
-			{ y: 5, label: 'upenn.edu' },           
-			{ y: 9,  label: 'www.nist.gov' },
-			{ y: 4,  label: 'cogcomp.cs.illinois.edu' },
-			{ y: 4,  label: 'research.microsoft.com' },
-			{ y: 4, label: 'www.mturk.com' },
-			{ y: 3,  label: 'www.cs.cornell.edu' },
-			{ y: 3, label: 'www.wjh.harvard.edu' },
-			{ y: 3, label: 'groups.csail.mit.edu' },
-			{ y: 3,  label: 'fjoch.com' },
-			{ y: 3, label: 'www.ark.cs.cmu.edu'  }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20110", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'en.wikipedia.org' },
-			{ y: 1, label:  'www.wikipedia.org' },
-			{ y: 1, label:  'simple.wikipedia.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20111", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.google.com' },
-			{ y: 1, label:  'translate.google.com' },
-			{ y: 1, label:  'code.google.com' },
-			{ y: 1, label:  'sites.google.com' },
-			{ y: 1, label:  'http://news.google.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20112", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.statmt.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20113", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'nlp.stanford.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20114", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'sourceforge.net' },
-			{ y: 1, label:  'http://maxent.sourceforge.net' },
-			{ y: 1, label:  'crftagger.sourceforge.net' },
-			{ y: 1, label:  'crfpp.sourceforge.net' },
-			{ y: 1, label:  'opennlp.sourceforge.net' },
-			{ y: 1, label:  'http://pocket-crf-1.sourceforge.net/' },
-			{ y: 1, label:  'http://Infomap-nlp.sourceforge.net/' },
-			{ y: 1, label:  'http://gibbslda.sourceforge.net' },
-			{ y: 1, label:  'http://jazzy.sourceforge.net/' },
-			{ y: 1, label:  'http://lpsolve.sourceforge.net/' },
-			{ y: 1, label:  'http://scopefinder.sourceforge.net/' },
-			{ y: 1, label:  'http://aspell.sourceforge.net' },
-			{ y: 1, label:  'http://mecab.sourceforge.net' },
-			{ y: 1, label:  'http://wikipedia-miner.sourceforge.net' },
-			{ y: 1, label:  'http://javaxdelta.sourceforge.net/' },
-			{ y: 1, label:  'http://jung.sourceforge.net/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20115", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'mallet.cs.umass.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20116", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.csie.ntu.edu.tw' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20117", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'github.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20118", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.cmu.edu' },
-			{ y: 1, label:  'http://www.speech.cs.cmu.edu/sphinx/tutorial.html' },
-			{ y: 1, label:  'www.ark.cs.cmu.edu' },
-			{ y: 1, label:  'http://boston.lti.cs.cmu.edu/Data/clueweb09/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20119", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'svmlight.joachims.org' },
-			{ y: 1, label:  'svmlight' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201110", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-10",
-		legendText: "",
-		dataPoints: [
-			{ y: 1, label:  'www.ldc.upenn.edu' },
-			{ y: 1, label:  'projects.ldc.upenn.edu' },
-			{ y: 1, label:  'https://dbappserv.cis.upenn.edu/spell/' },
-			{ y: 1, label:  'http://www.cis.upenn.edu/' },
-			{ y: 1, label:  'http://ww.ldc.upenn.edu/Project/GALE' },
-			{ y: 1, label:  'http://www.seas.upenn.edu/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201111", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.itl.nist.gov' },
-			{ y: 1, label:  'trec.nist.gov' },
-			{ y: 1, label:  'www.nist.gov' },
-			{ y: 1, label:  'http://www-nlpir.nist.gov/related_projects/muc/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201112", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'cogcomp.cs.illinois.edu' },
-			{ y: 1, label:  'http://cogcomp.cs' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201113", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'research.microsoft.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201114", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.mturk.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201115", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.cs.cornell.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201116", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.wjh.harvard.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201117", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'groups.csail.mit.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201118", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'fjoch.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201119", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2011-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.ark.cs.cmu.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2012", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",
-		click: onClick2,
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 27, label: 'google.com' },
-			{ y: 12, label: 'nlp.stanford.edu' },
-			{ y: 10,  label: 'www.aclweb.org' },          
-			{ y: 6,  label: 'github.com' },
-			{ y: 6,  label: 'statmt.org' },
-			{ y: 6, label: 'mallet.cs.umass.edu' },
-			{ y: 9,  label: 'wikipedia.org' },
-			{ y: 4,  label: 'lucene.apache.org' },
-			{ y: 13, label: 'sourceforge.net'},
-			{ y: 4, label:  'nist.gov' },
-			{ y: 4, label: 'groups.csail.mit.edu' },           
-			{ y: 3,  label: 'upenn.edu' },
-			{ y: 3,  label: 'disi.unitn.it' },
-			{ y: 3,  label: 'lemurproject.org' },
-			{ y: 3, label: 'homepages.inf.ed.ac.uk'},
-			{ y: 3,  label: 'www.mturk.com' },
-			{ y: 3, label: 'www.speech.cs.cmu.edu'},
-			{ y: 3, label: 'www.csie.ntu.edu' },
-			{ y: 3,  label: 'www.accurat-project.eu' },
-			{ y: 2, label: 'phontron.com'  }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20120", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'sites.google.com' },
-			{ y: 1, label:  'code.google.com' },
-			{ y: 1, label:  'translate.google.com' },
-			{ y: 1, label:  'https://support.google.com/adwords/' },
-			{ y: 1, label:  'books.google.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20121", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'nlp.stanford.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20122", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.aclweb.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20123", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'github.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20124", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.statmt.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20125", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'mallet.cs.umass.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20126", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'en.wikipedia.org' },
-			{ y: 1, label:  'www.wikipedia.org' },
-			{ y: 1, label:  'simple.wikipedia.org' },
-			{ y: 1, label:  'http://zh.wikipedia.org/wiki' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20127", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'lucene.apache.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20128", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-8",
-		legendText: "",
-		dataPoints: [
-			{ y: 1, label:  'sourceforge.net' },
-			{ y: 1, label:  'opennlp.sourceforge.net' },
-			{ y: 1, label:  'crfpp.sourceforge.net' },
-			{ y: 1, label:  'http://gibbslda.sourceforge.net/' },
-			{ y: 1, label:  'http://wn-similarity.sourceforge.net' },
-			{ y: 1, label:  'mecab.sourceforge.net' },
-			{ y: 1, label:  'http://sourceforge.net/projects/opennlp/' },
-			{ y: 1, label:  'http://inprotk.sourceforge.net' },
-			{ y: 1, label:  'http://java-ml.sourceforge.net/' }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20129", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-9",
-		legendText: "",
-		dataPoints: [     
-			{ y: 1, label:  'www.nist.gov' },
-			{ y: 1, label:  'www.itl.nist.gov' },
-			{ y: 1, label:  'trec.nist.gov' },
-			{ y: 1, label:  'duc.nist.gov' }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201210", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'groups.csail.mit.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201211", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.seas.upenn.edu' },
-			{ y: 1, label:  'www.cis.upenn.edu' },
-			{ y: 1, label:  'http://projects.ldc.upenn.edu/ace' },
-			{ y: 1, label:  'www.ldc.upenn.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201212", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'disi.unitn.it' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201213", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.lemurproject.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201214", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'homepages.inf.ed.ac.uk' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201215", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://mturk.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201216", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.speech.cs.cmu.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201217", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.csie.ntu.edu.tw' },
-			{ y: 1, label:  'http://www.csie.ntu.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201218", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.accurat-project.eu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201219", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2012-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://phontron.com/pialign/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2013", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true,
-		click: onClick2,
-		legendMarkerColor: "grey",
-		name: "2013",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 29, label: 'nlp.stanford.edu' },
-			{ y: 26, label: 'google.com' },
-			{ y: 24,  label: 'wikipedia.org' },          
-			{ y: 20,  label: 'github.com' },
-			{ y: 12,  label: 'www.statmt.org' },
-			{ y: 11, label: 'mallet.cs.umass.edu' },
-			{ y: 18,  label: 'sourceforge.net' },
-			{ y: 7,  label: 'lcl.uniroma1.it' },
-			{ y: 6, label: 'www.ark.cs.cmu.edu'},
-			{ y: 6, label:  'dumps.wikimedia.org' },
-			{ y: 6, label: 'www.csie.ntu.edu.tw' },           
-			{ y: 6,  label: 'dev.twitter.com' },
-			{ y: 5,  label: 'homepages.inf.ed.ac.uk' },
-			{ y: 14,  label: 'nist.gov' },
-			{ y: 5, label: 'www.ukp.tu-darmstadt.de'},
-			{ y: 5, label: 'disi.unitn.it' },
-			{ y: 5,  label: 'nlp.ist.i.kyoto-u.ac.jp' },
-			{ y: 5, label: 'takelab.fer.hr'  },
-			{ y: 4,  label: 'ufal.mff.cuni.cz' },
-			{ y: 10,  label: 'upenn.edu' }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20130", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'nlp.stanford.edu' },
-
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20131", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-1",
-		legendText: "",
-		dataPoints: [      
-			{ y: 1, label:  'http://code.google' },
-			{ y: 1, label:  'translate.google.com' },
-			{ y: 1, label:  'https://sites.google.com/site/sancl2012/home/shared-' },
-			{ y: 1, label:  'https://support.google.com/adwords/' },
-			{ y: 1, label:  'https://play.google.com/store' },
-			{ y: 1, label:  'books.google.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20132", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-2",
-		legendText: "",
-		dataPoints: [
-	
-				{ y: 1, label:  'en.wikipedia.org' },
-				{ y: 1, label:  'http://de.wikipedia.org/wiki/' },
-				{ y: 1, label:  'http://zh.wikipedia.org/wiki/' },
-				{ y: 1, label:  'http://www.wikipedia.org/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20133", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'github.com' }
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20134", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'www.statmt.org' },
-			{ y: 1, label:   'http://www.statmt.or/wmt12' }
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20135", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'mallet.cs.umass.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20136", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'sourceforge.net' },
-			{ y: 1, label:  'http://mecab.sourceforge.net/' },
-			{ y: 1, label:  'http://stardict.sourceforge.net/' },
-			{ y: 1, label:  'http://crftagger.sourceforge.net/'},
-			{ y: 1, label:  'http://wordlist.sourceforge.net/' },
-			{ y: 1, label:  'http://lpsolve.sourceforge.net/5.5/' },
-			{ y: 1, label:  'http://crfpp.sourceforge' },
-			{ y: 1, label:  'http://openccg.sourceforge.net/' },
-			{ y: 1, label:  'http://pdftohtml.sourceforge.net/' },
-			{ y: 1, label:  'http://opennlp.sourceforge.net/projects.html' },
-			{ y: 1, label:  'http://jpf.sourceforge.net/' },
-			{ y: 1, label:  'http://java-ml.sourceforge.net/api/0.1.7/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20137", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'lcl.uniroma1.it' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20138", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.ark.cs.cmu.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20139", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'dumps.wikimedia.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201310", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'www.csie.ntu.edu.tw' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201311", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'dev.twitter.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201312", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'homepages.inf.ed.ac.uk' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201313", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-13",
-		legendText: "",
-		dataPoints: [   
-			{ y: 1, label:  'www.nist.gov' },
-			{ y: 1, label:  'www.itl.nist.gov' },
-			{ y: 1, label:  'trec.nist.gov' },
-			{ y: 1, label:  'duc.nist.gov' }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201314", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'http://www.ukp.tu-darmstadt' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201315", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'disi.unitn.it' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201316", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'nlp.ist.i.kyoto-u.ac.jp' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201317", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'takelab.fer.hr' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201318", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:  'ufal.mff.cuni.cz' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201319", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2013-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'www.ldc.upenn.edu' },
-			{ y: 1, label:  'projects.ldc.upenn.edu' },
-			{ y: 1, label:  'http://www.cis.upenn.edu/dbikel/software.html#comparator' },
-			{ y: 1, label:  'http://www.ircs.upenn.edu/arabic/Jan03release/' },
-			{ y: 1, label:  'http://www.seas.upenn.edu/strctlrn/BioTagger/BioTagger.html' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2014", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",
-		click: onClick2,
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 52, label: 'google.com' },
-			{ y: 31, label: 'github.com' },
-			{ y: 33,  label: 'nlp.stanford.edu' },          
-			{ y: 18,  label: 'wikipedia.org' },                 
-			{ y: 16,  label: 'www.aclweb.org' },
-			{ y: 12, label: 'www.cs.cmu.edu' },
-			{ y: 9,  label: 'www.statmt.org' },
-			{ y: 7,  label: 'sourceforge.net' },
-			{ y: 7, label: 'www.ark.cs.cmu.edu' },
-			{ y: 7, label:  'ufal.mff.cuni.cz' },
-			{ y: 11, label: 'nist.gov' },           
-			{ y: 5,  label: 'homepages.inf.ed' },
-			{ y: 5,  label: 'clic.cimec.unitn.it' },       
-			{ y: 5,  label: 'arxiv.org' },
-			{ y: 13, label: 'upenn.edu'},
-			{ y: 5, label: 'opennlp.apache.org' },
-			{ y: 5,  label: 'mallet.cs.umass.edu' },
-			{ y: 4, label: 'qwone.com'  },
-			{ y: 4,  label: 'svmlight.joachims.org' },
-			{ y: 4, label: 'www.mturk.com' }
-			
-			
-			
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20140", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-0",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'code.google.com' },
-			{ y: 1, label:   'https://plus.google.com/' },
-			{ y: 1, label:   'developers.google.com' },
-			{ y: 1, label:   'sites.google.com' },
-			{ y: 1, label:   'books.google.com' },
-			{ y: 1, label:   'translate.google.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20141", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-1",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'www.github.com' },
-			{ y: 1, label:  'hltfbk.github.io' },
-			{ y: 1, label:  'http://lex4all.github.io/lex4all/' }
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20142", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-2",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'nlp.stanford.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20143", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-3",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'en.wikipedia.org' },
-			{ y: 1, label:  'http://simple.wikipedia.org' },
-			{ y: 1, label:  'http://www.wikipedia.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20144", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-4",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'aclweb.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20145", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-5",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'www.cs.cmu.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20146", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-6",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'www.statmt.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20147", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-7",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'sourceforge.net' },
-			{ y: 1, label:  'gibbslda.sourceforge.net' },
-			{ y: 1, label:  'http://lpsolve.sourceforge.net/5.5/' },
-			{ y: 1, label:  'http://chasen-legacy.sourceforge.jp/' },
-			{ y: 1, label:  'http://mstparser.sourceforge.net' },
-			{ y: 1, label:  'http://pmd.sourceforge.net' },
-			{ y: 1, label:  'http://meka.sourceforge.net' },
-			{ y: 1, label:  'http://libots.sourceforge.net/' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20148", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-8",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'http://www.ark.cs.cmu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer20149", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-9",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'ufal.mff.cuni.cz' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201410", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-10",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'www.nist.gov' },
-			{ y: 1, label:  'www.itl.nist.gov' },
-			{ y: 1, label:  'duc.nist.gov' },
-			{ y: 1, label:  'www-nlpir.nist.gov' },
-			{ y: 1, label:  'http://ww.itl.nist.gov/iad/mig/tools' }
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201411", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-11",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'http://homepages.inf.ed.ac' },
-			{ y: 1, label:  'homepages.inf.ed.ac.uk' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201412", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-12",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'clic.cimec.unitn.it' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201413", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-13",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'arxiv.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201414", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-14",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'www.cis.upenn.edu' },
-			{ y: 1, label:  'www.ldc.upenn.edu' },
-			{ y: 1, label:  'catalog.ldc.upenn.edu' },
-			{ y: 1, label:  'http://www.ling.upenn.edu/' },
-			{ y: 1, label:  'http://projects.ldc.upenn.edu/kbp/data' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201415", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-15",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'opennlp.apache.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201416", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-16",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'mallet.cs.umass.edu' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201417", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-17",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'qwone.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201418", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-18",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'svmlight.joachims.org' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer201419", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-	axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC", 		
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "2014-19",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1, label:   'www.mturk.com' }
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2015", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "ACL : 2015 URLs",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 75, label: 'github.com' },
-			{ y: 54, label: 'google.com' },
-			{ y: 40,  label: 'nlp.stanford.edu' },              
-			{ y: 30,  label: 'en.wikipedia.org' },                 
-			{ y: 9,  label: 'research.microsoft.com' },
-			{ y: 9, label: 'www.statmt.org' },
-			{ y: 7,  label: 'scikit-learn.org' },
-			{ y: 7,  label: 'sourceforge.net' },
-			{ y: 6, label: 'upenn.edu' },
-			{ y: 6, label:  'www.ark.cs.cmu.edu' },
-			{ y: 6, label: 'bitbucket.org' },           
-			{ y: 6,  label: 'umass.edu' },
-			{ y: 6,  label: 'www.csie.ntu.edu.tw' },       
-			{ y: 5,  label: 'arxiv.org' },
-			{ y: 4, label: 'cogcomp.cs.illinois.edu'},
-			{ y: 4, label: 'lucene.apache.org' },
-			{ y: 4,  label: 'www.natcorp.ox.ac.uk' },
-			{ y: 4, label: 'clic.cimec.unitn.it'  },
-			{ y: 4,  label: 'mpqa.cs.pitt.edu' },
-			{ y: 4, label: 'labs.priberam.com' }
-			
-			
-			
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2016", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "ACL : 2016 URLs",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 136, label: 'github.com' },    
-			{ y: 92, label: 'google.com' },
-			{ y: 20,  label: 'nlp.stanford.edu' },              
-			{ y: 12,  label: 'upenn.edu' },                 
-			{ y: 10,  label: 'www.statmt.org' },
-			{ y: 10, label: 'bitbucket.org' },
-			{ y: 10,  label: 'arxiv.org' },
-			{ y: 13,  label: 'en.wikipedia.org' },
-			{ y: 7, label: 'scikit-learn.org' },
-			{ y: 7, label:  'www.cs.cmu.edu' },
-			{ y: 6, label: 'cogcomp.cs.illinois.edu' },           
-			{ y: 5,  label: 'ronan.collobert.com' },
-			{ y: 5,  label: 'www.csie.ntu.edu.tw' },       
-			{ y: 4,  label: 'www.ncbi.nlm.nih.gov'},
-			{ y: 4, label: 'sourceforge.net'},
-			{ y: 4, label: 'www.kaggle.com' },
-			{ y: 4,  label: 'allenai.org' },
-			{ y: 4, label: 'qwone.com'  },
-			{ y: 4,  label: 'universaldependencies.org' },
-			{ y: 4, label: 'www.ukp.tu-darmstadt.de' }
-			
-			
-			
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2017", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "ACL : 2017 URLs",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 1119, label: 'www.aclweb.org' },
-			{ y: 209, label: 'arxiv.org' },
-			{ y: 178,  label: 'github.com' },              
-			{ y: 113,  label: 'dl.acm.org' },                 
-			{ y: 34,  label: 'papers.nips.cc' },
-			{ y: 24, label: 'google.com' },
-			{ y: 19,  label: 'dx.doi.org' },
-			{ y: 17,  label: 'nlp.stanford.edu' },
-			{ y: 33, label: 'aclanthology.info' },
-			{ y: 14, label:  'jmlr.org' },
-			{ y: 12, label: 'upenn.edu' },           
-			{ y: 11,  label: 'en.wikipedia.org' },
-			{ y: 11,  label: 'www.ncbi.nlm.nih.gov' },       
-			{ y: 10,  label: 'doi.acm.org'},
-			{ y: 16, label: 'www.tensorflow.org' },
-			{ y: 7, label: 'transacl.org' },
-			{ y: 7,  label: 'www.statmt.org' },
-			{ y: 7, label: 'www.nlm.nih.gov'  },
-			{ y: 6,  label: 'www.cs.jhu.edu' },
-			{ y: 6, label: 'hdl.handle.net' }
-			
-			
-			
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var chart = new CanvasJS.Chart("chartContainer2018", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	width: 900,
-	title:{
-		text: ""
-	},
-		axisX: {
-		interval: 1,
-		
-	},
-	axisY: {
-		title: ""
-	},
-	data: [{        
-		type: "column",  
-      	color: "#0303AC",                                              
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		name: "ACL : 2018 URLs",
-		legendText: "",
-		dataPoints: [                                         
-			{ y: 317, label: 'github.com' },
-			{ y: 408, label: 'www.aclweb.org' },
-			{ y: 152,  label: 'arxiv.org' },              
-			{ y: 34,  label: 'dl.acm.org' },                 
-			{ y: 29,  label: 'nlp.stanford.edu' },
-			{ y: 18, label: 'papers.nips.cc' },
-			{ y: 21,  label: 'en.wikipedia.org' },
-			{ y: 10,  label: 'upenn.edu' },
-			{ y: 10, label: 'openreview.net' },
-			{ y: 10, label:  'google.com' },
-			{ y: 9, label: 'www.statmt.org' },           
-			{ y: 9,  label: 'spacy.io' },
-			{ y: 8,  label: 'homes.cs.washington.edu' },       
-			{ y: 8,  label: 'www.tensorflow.org'},
-			{ y: 8, label: 'dx.doi.org' },
-			{ y: 7, label: 'transacl.org' },
-			{ y: 7,  label: 'lucene.apache.org' },
-			{ y: 7, label: 'bitbucket.org'  },
-			{ y: 6,  label: 'saifmohammad.com' },
-			{ y: 6, label: 'cogcomp.org' },
-			{ y: 6, label: 'nltk.org' }
-			
-			
-			
-			
-			
-		]
-	}]
-});
-chart.render();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -24985,78 +1663,4123 @@ function toolTipContent(e) {
 
 
 function onClick(e) {
+		
+		
+		
+		
+		var myNode = document.getElementById("chartContainer6details");
+		myNode.innerHTML = '';
+		var myNode2 = document.getElementById("chartContainer6details2");
+		myNode2.innerHTML = '';
+		
+		
 		var dt= e.dataPoint.x.getFullYear();
-		//alert(  e.dataSeries.type + ", dataPoint { x:" + dt + ", y: "+ e.dataPoint.y + " }" );
+		
 		var str1= "chartContainer";
 		var res = str1.concat(dt);
-		var x = document.getElementById(res);
-		if (x.style.display === "none") {
-			//	x.style.position = 'static';
-				//x.style.visibility = "visible";
-				var i;
-				for(i=1996;i<2019;i++)
-				{
-					var str = "chartContainer";
-					var res1 = str.concat(i);
-					for(j=0;j<20;j++)
-					{
-						var res2=res1.concat(j);
-						try{
-						var x5 = document.getElementById(res2);
-						x5.style.display = "none";
-						}
-						catch(err){
-							continue;
-						}
-					}
-					var x1 = document.getElementById(res1);
-					x1.style.display='none';
-				}
-				x.style.display = "block";
-				} else {
-				x.style.display = "none";
-				}
+		//alert(  e.dataSeries.type + ", dataPoint { x:" + res + ", y: "+ e.dataPoint.y + " }" );
+		var idiv = document.createElement('div');
+		idiv.id = res;
+		idiv.className = res;
+		var x2 = document.getElementById("chartContainer6details");
+		x2.appendChild(idiv);
 		
-	}
-	
-function onClick2(e) {
 		
-		var dt =  e.dataSeries.name;
-		//alert(  e.dataSeries.type + ", dataPoint { x:" + dt + ", y: "+ e.dataPoint.x + " }" ) ;
-		var x1 = e.dataPoint.x;
-		y1 = 'chartContainer';
-		var res1 = dt.concat(x1);
-		var res2 = y1.concat(res1);
-		var x2 = document.getElementById(res2);
-		//alert(res1);
-		//alert(x2);
-		for(i=0;i<21;i++)
+		var yr = dt;
+		if (dt==1996)
 		{
-			var x3= dt.concat(i);
-			var res3 = y1.concat(x3);
-			try{
-			var x4 = document.getElementById(res3);
-			x4.style.display = "none";
-			}
-			catch(err){
-				continue;
-			}
+		
+		dp = [                                         
+			{ y: 1, label: 'www.cs.rochester.edu' },
+			{ y: 1,label: 'ufpe.br' },
+			{ y: 1,  label: 'nphil.uni-tuebingen' }
 			
+		]
+		}
+		else if(dt==1997){
+			
+			dp = [     
+			
+			{ y: 1, label: 'att.com' },
+			{ y: 1,label: 'www.coling.uni-freiburg.de' },
+			{ y: 1,  label: 'hpsg.stanford.edu' },           
+			{ y: 2,  label: 'ruccs.rutgers.edu' },
+			{ y: 1,  label: 'uni-stuttgart.de' },
+			{ y: 2, label: 'uni-sb.de' },
+			{ y: 1,  label: 'www.globalink.com' },
+			{ y: 1, label: 'www.logos-ca.com' },
+			{ y: 1, label: 'systranmt.com' }
+			
+			
+		]
+		}
+		else if(dt==1998){
+			dp = [ 
+			{ y: 1, label: 'ijs.si' },
+			{ y: 1, label: 'collins.co.uk' },         
+			{ y: 1,label: 'www.conexor.fi' },
+			{ y: 1,  label: 'nist.gov' },           
+			{ y: 1,  label: 'biu.ac.il' },
+			{ y: 1,  label: 'www.ims.uni-' },
+			{ y: 1, label: 'earth.let.uva.nl' },
+			{ y: 1,  label: 'jhu.edu' },
+			{ y: 1, label: 'upenn.edu' },
+			{ y: 3, label: 'www.gmat.org' },
+			{ y: 2,label: 'www.toefl.org' },
+			{ y: 1,  label: 'www.gmat.orff' },           
+			{ y: 1,  label: 'www.toetl.org' },
+			{ y: 1,  label: 'research.microsoft.com' },
+			{ y: 1, label: 'www.ee.umd' },
+			{ y: 1,  label: 'cs.urnass.edu' },
+			{ y: 1,  label: 'www.ids-mannheim.de' },
+			{ y: 1, label: 'bton.ac.uk' },
+			{ y: 1,  label: 'www.georgetown.edu' },
+			{ y: 1, label: 'doc.ic.ac.uk' }
+			
+			
+		]
+		}
+		else if(dt==1999){
+			dp =  [                                         
+			{ y: 1, label: 'cmu.edu' },         
+			{ y: 1,label: 'mitre.org' },               
+			{ y: 2,  label: 'jhu.edu' },           
+			{ y: 1,  label: 'umd.edu' },
+			{ y: 1,  label: 'www.gcorgetown.edu' },
+			{ y: 1, label: 'nmsu.edu' },
+			{ y: 1,  label: 'auc.dk' },
+			{ y: 1, label: 'www.morphologic.hu' },
+			{ y: 1, label: 'umanitoba.ca' },
+			{ y: 1,label: 'umanitob&.ca' },
+			{ y: 1,  label: 'www.askjeeves.com' },           
+			{ y: 1,  label: 'www.electricmonk.com' },
+			{ y: 1,  label: 'altavista.com' },
+			{ y: 1, label: 'gla.ac.uk' },
+			{ y: 1,  label: 'uni-mainz.de' },
+			{ y: 1, label: 'cmu.edu' },
+			{ y: 1,  label: 'xerox.com' },
+			{ y: 1, label: 'xxx.lanl.gov' },
+			{ y: 1,  label: 'www.tipster.org' },
+			{ y: 1, label: 'www.ltg.ed.ac.uk' }
+			
+		]
+		}
+		else if(dt==2000){
+			dp =  [                                         
+			{ y: 3, label: 'www.iiit.net' },                                   
+			{ y: 2, label: 'uni-stuttgart.de' },               
+			{ y: 2,  label: 'saic.com' },           
+			{ y: 1,  label: 'www.sgi.com' },
+			{ y: 1,  label: 'Stanford.EDU' },
+			{ y: 1, label: 'upenn.edu' },
+			{ y: 1,  label: 'ilk.kub.nl' },
+			{ y: 1, label: 'biu.ac.il' },
+			{ y: 1, label: 'www.conexor.fi' },
+			{ y: 1,label: 'uni-sb.de' },
+			{ y: 1,  label: 'www.mpi-sb' },           
+			{ y: 1,  label: 'www.hcrc.ed.ac.uk' },
+			{ y: 1,  label: 'cornell.edu' },
+			{ y: 1, label: 'univie.ac.at' },
+			{ y: 1,  label: 'www.cicc.or.jp' },
+			{ y: 1, label: 'bppt.go.id' },
+			{ y: 1,  label: 'bppt.go.id' },
+			{ y: 1, label: 'www.tdil.gov.in' },
+			{ y: 1,  label: 'www.cdac.org.in' },
+			{ y: 1, label: 'nectec.or.th' }
+			
+		]
+		}
+		else if(dt==2001){
+			dp =  [                                         
+			{ y: 7, label: 'www.w3.org' },                                        
+			{ y: 3, label: 'nist.gov' },               
+			{ y: 3,  label: 'upenn.edu' },           
+			{ y: 2,  label: 'www.inria.fr' },
+			{ y: 2,  label: 'www.collocations.de' },
+			{ y: 2, label: 'www.loria.fr' },
+			{ y: 2,  label: 'portugues.mct.pt' },
+			{ y: 2,  label: 'uni-stuttgart.de' },
+			{ y: 1, label: 'www.limsi.fr' },
+			{ y: 1, label: 'tno.nl' },
+			{ y: 1, label: 'www.fb9-' },
+			{ y: 1,  label: 'coretex.itc.it' },           
+			{ y: 1,  label: 'ntt.co.jp' },
+			{ y: 1,  label: 'columbia.edu' },
+			{ y: 1, label: 'www.electricknowledge.com' },
+			{ y: 1,  label: 'nyu.edu' },
+			{ y: 1, label: 'kub.nl' },
+			{ y: 1,  label: 'leo.stcloudstate.edu' },
+			{ y: 1, label: 'bton.ac.uk' },
+			{ y: 1,  label: 'www.pharmweb.net' }
+			
+			
+		]
+		}
+		else if(dt==2002){
+			dp =  [                                         
+			{ y: 2, label: 'www.altavista.com' },                                                        
+			{ y: 2, label: 'sourceforge.net' },               
+			{ y: 2,  label: 'www.google.com' },           
+			{ y: 1,  label: 'media.mit.edu' },
+			{ y: 1,  label: 'www.mozart-oz' },
+			{ y: 3, label: 'research.microsoft.com' },
+			{ y: 2,  label: 'stanford.edu' },
+			{ y: 2,  label: 'toronto.edu' },
+			{ y: 1, label: 'www.epinions.com' },
+			{ y: 1, label: 'uni-sb.de' },
+			{ y: 1, label: 'mitre.org' },
+			{ y: 1,  label: 'nih.gov' },           
+			{ y: 1,  label: 'opennlp.sf.net' },
+			{ y: 1,  label: 'grok.sf.net' },
+			{ y: 1, label: 'www.d.umn.edu' },
+			{ y: 1,  label: 'encarta.msn.com' },
+			{ y: 1, label: 'www.whlib.ac.cn' },
+			{ y: 1,  label: 'waikato.ac.nz' },
+			{ y: 1, label: 'tarjim.ajeeb.com'},
+			{ y: 1,  label: 'saic.com' }
+			
+			
+			
+		]
+		}
+		else if(dt==2003){
+			dp = [                                         
+			{ y: 2, label: 'www.rulequest.com' },         
+			{ y: 2, label: 'att.com' },
+			{ y: 2,  label: 'sourceforge.net' },           
+			{ y: 2,  label: 'upenn.edu' },
+			{ y: 2,  label: 'cmu.edu' },
+			{ y: 2, label: 'www.isi.edu' },
+			{ y: 2,  label: 'columbia.edu' },
+			{ y: 2,  label: 'www.quiz-zone.co.uk' },
+			{ y: 1, label: 'www.greatauk.com' },
+			{ y: 1, label: 'ritsumei.ac.jp' },
+			{ y: 1, label: 'nyu.edu' },           
+			{ y: 1,  label: 'ox.ac.uk' },
+			{ y: 1,  label: 'www.cia.gov' },
+			{ y: 1,  label: 'www.hcrc.ed.ac.uk' },
+			{ y: 1, label: 'www.umiacs.umd.edu' },
+			{ y: 1,  label: 'chasen.aist-nara.ac.jp' },
+			{ y: 1, label: 'www.iijnet.or.jp' },
+			{ y: 1, label: 'monash.edu.au' },
+			{ y: 1,  label: 'nist.gov' },
+			{ y: 1, label: 'princeton.edu' }
+			
+			
+		]
+		}
+		else if(dt==2004){
+			dp = [                                         
+			{ y: 7, label: 'www.nist.gov' },         
+			{ y: 5, label: 'www.isi.edu' },
+			{ y: 4,  label: 'att.com' },          
+			{ y: 4,  label: 'www.senseval.org' },
+			{ y: 3,  label: 'nih.gov' },
+			{ y: 3, label: 'princeton.edu' },
+			{ y: 3,  label: 'mit.edu' },
+			{ y: 2,  label: 'arXiv.org' },
+			{ y: 2, label: 'waikato.ac.nz' },
+			{ y: 2, label:  'monash.edu.au' },
+			{ y: 2, label: 'www.census.gov' },           
+			{ y: 2,  label: 'research.nii.ac.jp' },
+			{ y: 2,  label: 'stanford.edu' },
+			{ y: 2, label: 'nyu.edu' },
+			{ y: 2,  label: 'upenn.edu' },
+			{ y: 2, label: 'davidmlane.com' },
+			{ y: 2, label: 'sourceforge.net' },
+			{ y: 1,  label: 'roa.rutgers.edu' },
+			{ y: 1, label: 'rochester.edu' },
+			{ y: 1, label: 'www.dcs.shef.ac' }
+			
+			
+		]
+		}
+		else if(dt==2005){
+			dp = [                                         
+			{ y: 10, label: 'www.nist.gov' },        
+			{ y: 4, label: 'chasen.org' },
+			{ y: 4,  label: 'www.clres.com' },          
+			{ y: 3,  label: 'cnts.uia.ac.be' },
+			{ y: 3,  label: 'umn.edu' },
+			{ y: 3, label: 'www.fjoch.com' },
+			{ y: 5,  label: 'upenn.edu' },
+			{ y: 3,  label: 'cpan.org' },
+			{ y: 2, label: 'umass.edu' },
+			{ y: 2, label:  'cornell.edu' },          
+			{ y: 2,  label: 'uni-stuttgart.de' },
+			{ y: 2,  label: 'ntu.edu.tw' },
+			{ y: 2, label: 'svmlight.joachims.org' },
+			{ y: 2,  label: 'nces.ed.gov' },
+			{ y: 8, label: 'sourceforge.net' },
+			{ y: 2,  label: 'ifsm.umbc.edu' },
+			{ y: 2, label: 'nih.gov'  },
+			{ y: 2, label: 'www.csail' },
+			{ y: 1,  label:  'sri.com' },
+			{ y: 2, label:  'www.sover.net' }
+			
+			
+		]
+		}
+		else if(dt==2006){
+			dp = [                                         
+			{ y: 9, label: 'nyu.edu' },
+			{ y: 11, label: 'nist.gov' },
+			{ y: 8,  label: 'chasen.org' },          
+			{ y: 2,  label: 'aist-nara.ac.jp' },
+			{ y: 6,  label: 'www.isi.edu' },
+			{ y: 15, label: 'upenn.edu' },
+			{ y: 3,  label:  'www-tsujii.is.s.u-tokyo.ac.jp'},
+			{ y: 3, label: 'www.pascal-network.org' },
+			{ y: 2, label:  'ualberta.ca' },
+			{ y: 2, label: 'uni-stuttgart.de' },           
+			{ y: 2,  label: 'hcrc.ed.ac.uk' },
+			{ y: 2,  label: 'ntu.edu.tw' },
+			{ y: 2, label: 'www.keenage.com' },
+			{ y: 2,  label: 'www.papillon-dictionary.org' },
+			{ y: 2, label: 'www.natcorp.ox.ac.uk' },
+			{ y: 2, label: 'homepages.inf.ed.ac.uk' },
+			{ y: 2,  label: 'naist.jp' },
+			{ y: 2, label: 'technion.ac.il'  },
+			{ y: 2, label: 'www.cnts.ua.ac.be'  },
+			{ y: 2, label: 'www.bitterlemons.org'  }
+			
+			
+		]
+		}
+		else if(dt==2007){
+			dp = [                                         
+			{ y: 6, label: 'chasen.org' }, 
+			{ y: 6, label: 'sourceforge.net' },
+			{ y: 6,  label: 'www.isi.edu' },          
+			{ y: 11,  label: 'upenn.edu' },
+			{ y: 4,  label: 'www.statmt.org' },
+			{ y: 4, label: 'ntu.edu.tw' },
+			{ y: 6,  label:  'www.nist.gov'},
+			{ y: 3,  label: 'hal3.name' },
+			{ y: 3, label: 'cpan.org' },
+			{ y: 3, label:  'apache.org' },
+			{ y: 2, label: 'waikato.ac.nz' },           
+			{ y: 2,  label: 'svmlight.joachims.org' },
+			{ y: 2,  label: 'leeds.ac.uk' },
+			{ y: 2,  label: 'homepages.inf.ed.ac.uk' },
+			{ y: 2, label: 'www.cnts.ua.ac.be' },
+			{ y: 2,  label: 'www.fjoch.com' },
+			{ y: 2, label: 'sri.com' },
+			{ y: 2, label: 'www.eml-research.de' },
+			{ y: 2,  label: 'ualberta.ca' },
+			{ y: 2, label: 'dtc.umn.edu'  }
+			
+			
+		]
+		}
+		else if(dt==2008){
+			dp = [                                         
+			{ y: 7, label: 'www.statmt.org' },                    
+			{ y: 6, label: 'stanford.edu' },
+			{ y: 4,  label: 'chasen.org' },          
+			{ y: 5,  label: 'cam.ac.uk' },
+			{ y: 4,  label: 'cmu.edu' },
+			{ y: 20, label: 'sourceforge.net' },
+			{ y: 2,  label: 'ualberta.ca'},
+			{ y: 4,  label: 'homepages.inf.ed.ac.uk' },
+			{ y: 14, label: 'www.nist.gov' },
+			{ y: 11, label:  'upenn.edu' },
+			{ y: 3, label: 'www.w3.org' },           
+			{ y: 3,  label: 'princeton.edu' },
+			{ y: 6,  label: 'hal3.name' },
+			{ y: 2,  label: 'yahoo.com' },
+			{ y: 3, label: 'ntu.edu.tw' },
+			{ y: 3,  label: 'www.mturk.com' },
+			{ y: 3, label: 'www.summarization.com' },
+			{ y: 2, label: 'washington.edu' },
+			{ y: 2,  label: 'umass.edu' },
+			{ y: 2, label: 'bllip.cs.brown.edu'  }
+			
+			
+		]
+		}
+		else if(dt==2009){
+			dp = [                                         
+			{ y: 9, label: 'stanford.edu' },          
+			{ y: 8, label: 'www.statmt.org' },
+			{ y: 13,  label: 'www.nist.gov' },          
+			{ y: 6,  label: 'upenn.edu' },
+			{ y: 6,  label: 'wikipedia.org' },
+			{ y: 8, label: 'google.com' },
+			{ y: 4,  label: 'ualberta.ca' },
+			{ y: 14,  label: 'sourceforge.net' },
+			{ y: 4, label: 'svmlight.joachims.org' },
+			{ y: 4, label:  'apache.org' },
+			{ y: 3, label: 'colorado.edu' },           
+			{ y: 3,  label: 'ir.hit.edu.cn' },
+			{ y: 3,  label: 'kyoto-u.ac.jp' },
+			{ y: 3,  label: 'pitt.edu' },
+			{ y: 3, label: 'cornell.edu' },
+			{ y: 2,  label: 'www.flickr.com' },
+			{ y: 3, label: 'ua.ac.be' },
+			{ y: 3, label: 'sri.com' },
+			{ y: 3,  label: 'umass.edu' },
+			{ y: 3, label: 'fbk.eu'  }
+			
+			
+		]
+		}
+		else if(dt==2010){
+			dp = [                                         
+			{ y: 14, label: 'www.nist.gov' },
+			{ y: 10, label: 'stanford.edu' },
+			{ y: 8,  label: 'umass.edu' },          
+			{ y: 7,  label: 'ntu.edu.tw' },
+			{ y: 23,  label: 'sourceforge.net' },
+			{ y: 6, label: 'chalmers.se' },
+			{ y: 5,  label: 'homepages.inf.ed.ac.uk' },
+			{ y: 9,  label: 'upenn.edu' },
+			{ y: 15, label: 'google.com' },
+			{ y: 5, label:  'www.isi.edu' },
+			{ y: 3, label: 'ualberta.ca' },           
+			{ y: 8,  label: 'www.anc.org' },
+			{ y: 4,  label: 'washington.edu' },
+			{ y: 4,  label: 'www.amazon.com' },
+			{ y: 4, label: 'svmlight.joachims.org' },
+			{ y: 4,  label: 'pitt.edu' },
+			{ y: 4, label: 'princeton.edu' },
+			{ y: 3, label: 'www.sil.org' },
+			{ y: 3,  label: 'handle.net' },
+			{ y: 3, label: 'uniroma1.it'  }
+			
+			
+		]
+		}
+		else if(dt==2011){
+			dp = [                                         
+			{ y: 23, label: 'wikipedia.org' },
+			{ y: 19, label: 'google.com' },
+			{ y: 11,  label: 'www.statmt.org' },          
+			{ y: 10,  label: 'stanford.edu' },
+			{ y: 16,  label: 'sourceforge.net' },
+			{ y: 7, label: 'umass.edu' },
+			{ y: 6,  label: 'ntu.edu.tw' },
+			{ y: 6,  label: 'github.com' },
+			{ y: 5, label:  'cmu.edu' },
+			{ y: 5, label:  'svmlight.org' },
+			{ y: 5, label: 'upenn.edu' },           
+			{ y: 9,  label: 'www.nist.gov' },
+			{ y: 4,  label: 'illinois.edu' },
+			{ y: 4,  label: 'microsoft.com' },
+			{ y: 4, label: 'www.mturk.com' },
+			{ y: 3,  label: 'wcornell.edu' },
+			{ y: 3, label: 'harvard.edu' },
+			{ y: 3, label: 'mit.edu' },
+			{ y: 3,  label: 'fjoch.com' },
+			{ y: 3, label: 'cmu.edu'  }
+			
+			
+		]
+		}
+		else if(dt==2012){
+			dp = [                                         
+			{ y: 27, label: 'google.com' },
+			{ y: 12, label: 'stanford.edu' },
+			{ y: 10,  label: 'www.aclweb.org' },          
+			{ y: 6,  label: 'github.com' },
+			{ y: 6,  label: 'statmt.org' },
+			{ y: 6, label: 'umass.edu' },
+			{ y: 9,  label: 'wikipedia.org' },
+			{ y: 4,  label: 'apache.org' },
+			{ y: 13, label: 'sourceforge.net'},
+			{ y: 4, label:  'nist.gov' },
+			{ y: 4, label: 'mit.edu' },           
+			{ y: 3,  label: 'upenn.edu' },
+			{ y: 3,  label: 'unitn.it' },
+			{ y: 3,  label: 'lemurproject.org' },
+			{ y: 3, label: 'homepages.inf.ed.ac.uk'},
+			{ y: 3,  label: 'www.mturk.com' },
+			{ y: 3, label: 'cmu.edu'},
+			{ y: 3, label: 'ntu.edu' },
+			{ y: 3,  label: 'www.accurat-project.eu' },
+			{ y: 2, label: 'phontron.com'  }
+			
+			
+		]
+		}
+		else if(dt==2013){
+			dp = [                                         
+			{ y: 29, label: 'stanford.edu' },
+			{ y: 26, label: 'google.com' },
+			{ y: 24,  label: 'wikipedia.org' },          
+			{ y: 20,  label: 'github.com' },
+			{ y: 12,  label: 'www.statmt.org' },
+			{ y: 15, label: 'umass.edu' },
+			{ y: 18,  label: 'sourceforge.net' },
+			{ y: 7,  label: 'uniroma1.it' },
+			{ y: 6, label: 'cmu.edu'},
+			{ y: 6, label:  'wikimedia.org' },
+			{ y: 6, label: 'ntu.edu.tw' },           
+			{ y: 6,  label: 'twitter.com' },
+			{ y: 5,  label: 'homepages.inf.ed.ac.uk' },
+			{ y: 14,  label: 'nist.gov' },
+			{ y: 5, label: 'tu-darmstadt.de'},
+			{ y: 5, label: 'unitn.it' },
+			{ y: 5,  label: 'kyoto-u.ac.jp' },
+			{ y: 5, label: 'takelab.fer.hr'  },
+			{ y: 4,  label: 'cuni.cz' },
+			{ y: 10,  label: 'upenn.edu' }
+			
+			
+		]
+		}
+		else if(dt==2014){
+			dp = [                                         
+			{ y: 52, label: 'google.com' },
+			{ y: 31, label: 'github.com' },
+			{ y: 33,  label: 'stanford.edu' },          
+			{ y: 18,  label: 'wikipedia.org' },                 
+			{ y: 16,  label: 'www.aclweb.org' },
+			{ y: 12, label: 'cmu.edu' },
+			{ y: 9,  label: 'www.statmt.org' },
+			{ y: 7,  label: 'sourceforge.net' },
+			{ y: 7, label: 'cmu.edu' },
+			{ y: 7, label:  'cuni.cz' },
+			{ y: 11, label: 'nist.gov' },           
+			{ y: 5,  label: 'homepages.inf.ed' },
+			{ y: 5,  label: 'unitn.it' },       
+			{ y: 5,  label: 'arxiv.org' },
+			{ y: 13, label: 'upenn.edu'},
+			{ y: 11, label: 'apache.org' },
+			{ y: 9,  label: 'umass.edu' },
+			{ y: 4, label: 'qwone.com'  },
+			{ y: 4,  label: 'svmlight.joachims.org' },
+			{ y: 4, label: 'www.mturk.com' }
+			
+			
+			
+			
+			
+		]
+		}
+		else if(dt==2015){
+			dp = [                                         
+			{ y: 75, label: 'github.com' },
+			{ y: 54, label: 'google.com' },
+			{ y: 40,  label: 'stanford.edu' },              
+			{ y: 30,  label: 'wikipedia.org' },                 
+			{ y: 9,  label: 'microsoft.com' },
+			{ y: 9, label: 'www.statmt.org' },
+			{ y: 7,  label: 'scikit-learn.org' },
+			{ y: 12,  label: 'sourceforge.net' },
+			{ y: 14, label: 'upenn.edu' },
+			{ y: 12, label:  'cmu.edu' },
+			{ y: 6, label: 'bitbucket.org' },           
+			{ y: 7,  label: 'umass.edu' },
+			{ y: 6,  label: 'ntu.edu.tw' },       
+			{ y: 5,  label: 'arxiv.org' },
+			{ y: 4, label: 'illinois.edu'},
+			{ y: 11, label: 'apache.org' },
+			{ y: 4,  label: 'www.natcorp.ox.ac.uk' },
+			{ y: 4, label: 'unitn.it'  },
+			{ y: 4,  label: 'pitt.edu' },
+			{ y: 4, label: 'priberam.com' }
+			
+			
+			
+			
+			
+		]
+		}
+		else if(dt==2016){
+			dp = [                                         
+			{ y: 136, label: 'github.com' },    
+			{ y: 92, label: 'google.com' },
+			{ y: 20,  label: 'stanford.edu' },              
+			{ y: 12,  label: 'upenn.edu' },                 
+			{ y: 10,  label: 'www.statmt.org' },
+			{ y: 10, label: 'bitbucket.org' },
+			{ y: 10,  label: 'arxiv.org' },
+			{ y: 13,  label: 'wikipedia.org' },
+			{ y: 7, label: 'scikit-learn.org' },
+			{ y: 7, label:  'cmu.edu' },
+			{ y: 6, label: 'illinois.edu' },           
+			{ y: 5,  label: 'collobert.com' },
+			{ y: 5,  label: 'ntu.edu.tw' },       
+			{ y: 4,  label: 'nih.gov'},
+			{ y: 4, label: 'sourceforge.net'},
+			{ y: 4, label: 'www.kaggle.com' },
+			{ y: 4,  label: 'allenai.org' },
+			{ y: 4, label: 'qwone.com'  },
+			{ y: 4,  label: 'universaldependencies.org' },
+			{ y: 4, label: 'tu-darmstadt.de' }
+			
+			
+			
+			
+			
+		]
+		}
+		else if(dt==2017){
+			dp =[                                         
+			{ y: 1119, label: 'www.aclweb.org' },
+			{ y: 209, label: 'arxiv.org' },
+			{ y: 178,  label: 'github.com' },              
+			{ y: 113,  label: 'acm.org' },                 
+			{ y: 34,  label: 'nips.cc' },
+			{ y: 24, label: 'google.com' },
+			{ y: 19,  label: 'doi.org' },
+			{ y: 17,  label: 'stanford.edu' },
+			{ y: 33, label: 'aclanthology.info' },
+			{ y: 14, label:  'jmlr.org' },
+			{ y: 12, label: 'upenn.edu' },           
+			{ y: 11,  label: 'wikipedia.org' },
+			{ y: 11,  label: 'nih.gov' },       
+			{ y: 10,  label: 'acm.org'},
+			{ y: 16, label: 'www.tensorflow.org' },
+			{ y: 7, label: 'transacl.org' },
+			{ y: 7,  label: 'www.statmt.org' },
+			{ y: 6, label: 'bitbucket.org'  },
+			{ y: 6,  label: 'jhu.edu' },
+			{ y: 6, label: 'handle.net' }
+			
+			
+			
+			
+			
+		]
+		}
+		else {
+			dp = [                                         
+			{ y: 317, label: 'github.com' },
+			{ y: 408, label: 'www.aclweb.org' },
+			{ y: 152,  label: 'arxiv.org' },              
+			{ y: 34,  label: 'acm.org' },                 
+			{ y: 29,  label: 'stanford.edu' },
+			{ y: 18, label: 'nips.cc' },
+			{ y: 21,  label: 'wikipedia.org' },
+			{ y: 10,  label: 'upenn.edu' },
+			{ y: 10, label: 'openreview.net' },
+			{ y: 10, label:  'google.com' },
+			{ y: 9, label: 'www.statmt.org' },           
+			{ y: 9,  label: 'spacy.io' },
+			{ y: 8,  label: 'washington.edu' },       
+			{ y: 8,  label: 'www.tensorflow.org'},
+			{ y: 8, label: 'doi.org' },
+			{ y: 7, label: 'transacl.org' },
+			{ y: 7,  label: 'apache.org' },
+			{ y: 7, label: 'bitbucket.org'  },
+			{ y: 6,  label: 'saifmohammad.com' },
+			{ y: 6, label: 'cogcomp.org' },
+			{ y: 6, label: 'nltk.org' }
+			
+			
+			
+			
+			
+		]
 		}
 		
-		if(x2.style.display == 'none')
-		{
-			x2.style.display = "block";
-		}
-		else
-		{
-			x2.style.display = "none";
-		}
-				
 		
+		
+	var chart = new CanvasJS.Chart(res, {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	height: 320,
+	width: 900,
+	title:{
+		text: yr
+	},
+	axisX: {
+		interval: 1,
+		
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC", 
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		click: onClick2,
+		name: yr.toString() ,
+		legendText: "",
+		dataPoints: dp
+	}]
+});
+chart.render();
+		
+}
+
+
+function onClick2(e)
+{
+	//alert(  e.dataSeries.name + ", dataPoint { x:" + e.dataPoint.x + ", y: "+ e.dataPoint.y + " }" );
+	
+	
+	
+	
+	
+	
+	
+	
+
+	var node = document.getElementById("chartContainer6details2");
+	node.innerHTML = '';
+	var dt= e.dataSeries.name;
+	var dtp = dt.concat(e.dataPoint.x);
+	var str1= "chartContainer";
+	var res = str1.concat(dtp);
+		//alert(  e.dataSeries.type + ", dataPoint { x:" + res + ", y: "+ e.dataPoint.y + " }" );
+	//alert(  res + ", dataPoint { x:" + e.dataPoint.x + ", y: "+ e.dataPoint.y + " }" );
+	var idiv2 = document.createElement('div');
+	idiv2.id = res;
+	idiv2.className = res;
+	var x3 = document.getElementById("chartContainer6details2");
+	x3.appendChild(idiv2);
+	
+	var n1 = dt.concat('-');
+	var n2 = n1.concat(e.dataPoint.x);
+	
+	
+	
+	
+	if (dtp=='19960')
+	{
+		dp = [                                         
+			{ y: 1, label: 'http://www.cs.rochester.edu/research/trains/ACL96' }
+			
+		]
+	}
+	else if (dtp=='19961')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.di.ufpe.br/~jr' }
+			
+		]
+	}
+	else if (dtp=='19962')
+	{
+		dp =  [                                         
+			{ y: 1, label: "http://www.sfs.nphil.uni-tuebingen/'minnen" }
+			
+		]
+	}
+	else if (dtp=='19970')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.research.att.com/lewis' }
+			
+		]
+	}
+	else if (dtp=='19971')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.coling.uni-freiburg.de/' }
+			
+		]
+	}
+	else if (dtp=='19972')
+	{
+		dp = [                                         
+			{ y: 1, label: 'http://hpsg.stanford.edu/hpsg/sag.html' }
+			
+		]
+	}
+	else if (dtp=='19973')
+	{
+		dp = [                                         
+			{ y: 1, label: 'ruccs.rutgers.edu' }
+			
+		]
+	}
+	else if (dtp=='19974')
+	{
+		dp = [                                         
+			{ y: 1, label: "http://www.ims.uni-stuttgart.de/'jochen/CBSem" }
+			
+		]
+	}
+	else if (dtp=='19975')
+	{
+		dp = [                                         
+			{ y: 1, label: 'www.ps.uni-sb.de' }
+			
+		]
+	}
+	else if (dtp=='19976')
+	{
+		dp = [                                         
+			{ y: 1, label: 'http://www.globalink.com/home.html' }
+			
+		]
+	}
+	else if (dtp=='19977')
+	{
+		dp = [                                         
+			{ y: 1, label: 'http://www.logos-ca.com/' }
+			
+		]
+	}
+	else if (dtp=='19978')
+	{
+		dp =[                                         
+			{ y: 1, label: 'http://systranmt.com/' }
+			
+		]
+	}
+	else if (dtp=='19980')
+	{
+		dp = [                                         
+			{ y: 1, label: 'http://titania.cobuild.collins.co.uk/boe_info.html' }
+			
+		]
+	}
+	else if (dtp=='19981')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.conexor.fi/analysers.html' }
+			
+		]
+	}
+	else if (dtp=='19982')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.itl.nist.gov/div894' }
+			
+		]
+	}
+	else if (dtp=='19983')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.cs.biu.ac.il/,-~yuvalk/MBSL' }
+			
+		]
+	}
+	else if (dtp=='19984')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.ims.uni-' }
+			
+		]
+	}
+	else if (dtp=='19985')
+	{
+		dp =   [                                         
+			{ y: 1, label: 'http://earth.let.uva.nl/-rens' }
+			
+		]
+	}
+	else if (dtp=='19986')
+	{
+		dp =   [                                         
+			{ y: 1, label: 'http://www.cs.jhu.edu/-brill' }
+			
+		]
+	}
+	else if (dtp=='19987')
+	{
+		dp =   [                                         
+			{ y: 1, label: 'http://www.cis.upenn.edu/-adwait' }
+			
+		]
+	}
+	else if (dtp=='19988')
+	{
+		dp =    [                                         
+			{ y: 1, label: 'www.gmat.org' }
+			
+		]
+	}
+	else if (dtp=='19989')
+	{
+		dp =   [                                         
+			{ y: 1, label: 'www.toefl.org' }
+			
+		]
+	}
+	else if (dtp=='199810')
+	{
+		dp =   [                                         
+			{ y: 1, label: 'http://www.gmat.orff' }
+			
+		]
+	}
+	else if (dtp=='199811')
+	{
+		dp =   [                                         
+			{ y: 1, label: 'http://www.toetl.org/tstprpmt.htm!' }
+			
+		]
+	}
+	else if (dtp=='199812')
+	{
+		dp =   [                                         
+			{ y: 1, label: 'http://research.microsoft.com/nlp/' }
+			
+		]
+	}
+	else if (dtp=='199813')
+	{
+		dp =   [                                         
+			{ y: 1, label: 'http://www.ee.umd' }
+			
+		]
+	}
+	else if (dtp=='199814')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://ciir.cs.urnass.edu/info/psfiles/tepubs/tepu' }
+			
+		]
+	}
+	else if (dtp=='199815')
+	{
+		dp = [                                         
+			{ y: 1, label: 'http://nl.ijs.si/ME/CD/docs/mte-d' }
+			
+		]
+	}
+	else if (dtp=='199816')
+	{
+		dp = [                                         
+			{ y: 1, label: 'http://www.ids-mannheim.de/telril' }
+			
+		]
+	}
+	else if (dtp=='199817')
+	{
+		dp = [                                         
+			{ y: 1, label: 'http://www.itri.bton.ac.uk/events/senseval' }
+			
+		]
+	}
+	else if (dtp=='199818')
+	{
+		dp = [                                         
+			{ y: 1, label: 'http://www.georgetown.edu/luperfoy/Discourse-' }
+			
+		]
+	}
+	else if (dtp=='199819')
+	{
+		dp = [                                         
+			{ y: 1, label: 'http://wombat.doc.ic.ac.uk' }
+			
+		]
+	}
+	else if (dtp=='19990')
+	{
+		dp =[                                         
+			{ y: 1, label: 'http://www.link.cs.cmu.edu/lexfn' }
+			
+		]
+	}
+	else if (dtp=='19991')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://fofoca.mitre.org' }
+			
+		]
+	}
+	else if (dtp=='19992')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'nlp.cs.jhu.edu' }
+			
+		]
+	}
+	else if (dtp=='19993')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.ee.umd.edu/medlab/filter/paperslmlir.ps' }
+			
+		]
+	}
+	else if (dtp=='19994')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.gcorgetown.edu/luperfoy/Discourse-' }
+			
+		]
+	}
+	else if (dtp=='19995')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.cs.nmsu.edu/~wiebe/projects' }
+			
+		]
+	}
+	else if (dtp=='19996')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://web.math.auc.dk/-jhb/CoCo' }
+			
+		]
+	}
+	else if (dtp=='19997')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.morphologic.hu' }
+			
+		]
+	}
+	else if (dtp=='19998')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.cs.umanitoba.ca' }
+			
+		]
+	}
+	else if (dtp=='19999')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.cs.umanitob&.ca/-lindek/nlldemo.htm/' }
+			
+		]
+	}
+	else if (dtp=='199910')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.askjeeves.com'  }
+			
+		]
+	}
+	else if (dtp=='199911')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.electricmonk.com' }
+			
+		]
+	}
+	else if (dtp=='199911')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.electricmonk.com' }
+			
+		]
+	}
+	else if (dtp=='199912')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://altavista.com' }
+			
+		]
+	}
+	else if (dtp=='199913')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.dcs.gla.ac.uk/prosper/' }
+			
+		]
+	}
+	else if (dtp=='199914')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.fask.uni-mainz.de/user/rappl' }
+			
+		]
+	}
+	else if (dtp=='199915')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.cs.cmu.edu/' },
+			{ y: 1, label: '~dougb/ident.html' }
+			
+		]
+	}
+	else if (dtp=='199916')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.rxrc.xerox.com/research/' }
+			
+		]
+	}
+	else if (dtp=='199917')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://xxx.lanl.gov/ps/cmp-' }
+			
+		]
+	}
+	else if (dtp=='199918')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.tipster.org' }
+			
+		]
+	}
+	else if (dtp=='199919')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.ltg.ed.ac.uk/software/index.html' }
+			
+		]
+	}
+	else if (dtp=='20000')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.iiit.net' }
+			
+		]
+	}
+	else if (dtp=='20001')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.ims.uni-stuttgart.de' }
+			
+		]
+	}
+	else if (dtp=='20002')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.muc.saic.com' }
+			
+		]
+	}
+	else if (dtp=='20003')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.sgi.com/Technology/mlc' }
+			
+		]
+	}
+	else if (dtp=='20004')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.ksl.Stanford.EDU/ontologies/time/' }
+			
+		]
+	}
+	else if (dtp=='20005')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://morph.ldc.upenn.edu/Catalog/LDC99T3' }
+			
+		]
+	}
+	else if (dtp=='20006')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://ilk.kub.nl/' }
+			
+		]
+	}
+	else if (dtp=='20007')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.cs.biu.ac.il/~yuvalk/MBSL' }
+			
+		]
+	}
+	else if (dtp=='20008')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.conexor.fi' }
+			
+		]
+	}
+	else if (dtp=='20009')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.ps.uni-sb.de/Papers/' }
+			
+		]
+	}
+	else if (dtp=='200010')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.mpi-sb' }
+			
+		]
+	}
+	else if (dtp=='200011')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.hcrc.ed.ac.uk/' }
+			
+		]
+	}
+	else if (dtp=='200012')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.people.cornell.edu/pages/cjc26/' }
+			
+		]
+	}
+	else if (dtp=='200013')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.ai.univie.ac.at/~harald/handbook.html' }
+			
+		]
+	}
+	else if (dtp=='200014')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.cicc.or.jp/homepage/english/about/a' }
+			
+		]
+	}
+	else if (dtp=='200015')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.aia.bppt.go.id/mmts' }
+			
+		]
+	}
+	else if (dtp=='200016')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://nlp.aia.bppt.go.id/' }
+			
+		]
+	}
+	else if (dtp=='200017')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.tdil.gov.in' }
+			
+		]
+	}
+	else if (dtp=='200018')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.cdac.org.in' }
+			
+		]
+	}
+	else if (dtp=='200019')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'http://www.links.nectec.or.th' }
+			
+		]
+	}
+	else if (dtp=='20010')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.w3.org' }
+			
+		]
+	}
+	else if (dtp=='20011')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'trec.nist.gov' }
+			
+		]
+	}
+	else if (dtp=='20012')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.cis.upenn.edu' }
+			
+		]
+	}
+	else if (dtp=='20013')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.inria.fr' }
+			
+		]
+	}
+	else if (dtp=='20014')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.collocations.de' }
+			
+		]
+	}
+	else if (dtp=='20015')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.loria.fr' }
+			
+		]
+	}
+	else if (dtp=='20016')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'cgi.portugues.mct.pt' }
+			
+		]
+	}
+	else if (dtp=='20017')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.ims.uni-stuttgart.de' }
+			
+		]
+	}
+	else if (dtp=='20018')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.limsi.fr/tlp' }
+			
+		]
+	}
+	else if (dtp=='20019')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://twentyone.tpd.tno.nl/' }
+			
+		]
+	}
+	else if (dtp=='200110')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.fb9-' }
+			
+		]
+	}
+	else if (dtp=='200111')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://coretex.itc.it/' }
+			
+		]
+	}
+	else if (dtp=='200112')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.kecl.ntt.co.jp/icl/mtg/resources/altjaws.html' }
+			
+		]
+	}
+	else if (dtp=='200113')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.cs.columbia.edu/regina' }
+			
+		]
+	}
+	else if (dtp=='200114')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.electricknowledge.com' }
+			
+		]
+	}
+	else if (dtp=='200115')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.cs.nyu.edu/cs/projects/proteus/evalb/' }
+			
+		]
+	}
+	else if (dtp=='200116')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://ilk.kub.nl/l' }
+			
+		]
+	}
+	else if (dtp=='200117')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://leo.stcloudstate.edu' }
+			
+		]
+	}
+	else if (dtp=='200118')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.itri.bton.ac.uk/projects/rags' }
+			
+		]
+	}
+	else if (dtp=='200119')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.pharmweb.net' }
+			
+		]
+	}
+	else if (dtp=='20020')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'www.altavista.com' }
+			
+		]
+	}
+	else if (dtp=='20021')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'maxent.sourceforge.net' }
+			
+		]
+	}
+	else if (dtp=='20022')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'www.google.com' }
+			
+		]
+	}
+	else if (dtp=='20023')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www-white.media.mit.edu/' }
+			
+		]
+	}
+	else if (dtp=='20024')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.mozart-oz' }
+			
+		]
+	}
+	else if (dtp=='20025')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://research.microsoft.com/~dmax/WinMine/Tool' }
+			
+		]
+	}
+	else if (dtp=='20026')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://lingo.stanford.edu' }
+			
+		]
+	}
+	else if (dtp=='20027')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.cs.toronto.edu/' }
+			
+		]
+	}
+	else if (dtp=='20028')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'www.epinions.com' }
+			
+		]
+	}
+	else if (dtp=='20029')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.ps.uni-sb.de/oz/' },
+			{ y: 1, label:  'http://www.coli.uni-sb.de/' }
+			
+		]
+	}
+	else if (dtp=='200210')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://fofoca.mitre.org' }
+			
+		]
+	}
+	else if (dtp=='200211')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.nlm.nih.gov/mesh/meshhome.html;' }
+			
+		]
+	}
+	else if (dtp=='200212')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://opennlp.sf.net' }
+			
+		]
+	}
+	else if (dtp=='200213')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://grok.sf.net' }
+			
+		]
+	}
+	else if (dtp=='200214')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.d.umn.edu/~tpederse/data.html' }
+			
+		]
+	}
+	else if (dtp=='200215')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://encarta.msn.com/default.asp' }
+			
+		]
+	}
+	else if (dtp=='200216')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.whlib.ac.cn/sjk/bkqs.htm' }
+			
+		]
+	}
+	else if (dtp=='200217')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.cs.waikato.ac.nz/e' }
+			
+		]
+	}
+	else if (dtp=='200218')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://tarjim.ajeeb.com/' }
+			
+		]
+	}
+	else if (dtp=='200219')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.muc.saic.com/' }
+			
+		]
+	}
+	else if (dtp=='20030')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'www.rulequest.com' }
+			
+		]
+	}
+	else if (dtp=='20031')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'www.research.att.com' }
+			
+		]
+	}
+	else if (dtp=='20032')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'maxent.sourceforge.net' }
+			
+		]
+	}
+	else if (dtp=='20033')
+	{
+		dp =   [                                         
+			{ y: 1, label: 'www.ldc.upenn.edu' }
+			
+		]
+	}
+	else if (dtp=='20034')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'www.cs.cmu.edu' }
+			
+		]
+	}
+	else if (dtp=='20035')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'www.isi.edu' }
+			
+		]
+	}
+	else if (dtp=='20036')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'www.cs.columbia.edu' }
+			
+		]
+	}
+	else if (dtp=='20037')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.quiz-zone.co.uk' }
+			
+		]
+	}
+	else if (dtp=='20038')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.greatauk.com' }
+			
+		]
+	}
+	else if (dtp=='20039')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.nlp.cs.ritsumei.ac.jp/qac/' }
+			
+		]
+	}
+	else if (dtp=='200310')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'http://www.cs.nyu.edu/sekine/PROJECT/CRLQA/' }
+			
+		]
+	}
+	else if (dtp=='200311')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://info.ox.ac.uk/bnc' }
+			
+		]
+	}
+	else if (dtp=='200312')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.cia.gov/cia/publications/' }
+			
+		]
+	}
+	else if (dtp=='200313')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.hcrc.ed.ac.uk/gnome' }
+			
+		]
+	}
+	else if (dtp=='200314')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.umiacs.umd.edu/bonnie/verbs-English.lcs' }
+			
+		]
+	}
+	else if (dtp=='200315')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://chasen.aist-nara.ac.jp/' }
+			
+		]
+	}
+	else if (dtp=='200316')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.iijnet.or.jp/edr/' }
+			
+		]
+	}
+	else if (dtp=='200317')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.csse.monash.edu.au/jwb/edict.html' }
+			
+		]
+	}
+	else if (dtp=='200318')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://trec.nist.gov/' }
+			
+		]
+	}
+	else if (dtp=='200319')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.cogsci.princeton.edu/wn/' }
+			
+		]
+	}
+	else if (dtp=='20040')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.nist.gov' },
+			{ y: 1, label:  'http://www.itl.nist.gov/iad/894.01/' },
+			{ y: 1, label:  'trec.nist.gov' },
+			{ y: 1, label:  'http://duc.nist.gov' },
+			{ y: 1, label:  'tides.nist.gov' }
+			
+		]
+	}
+	else if (dtp=='20041')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.isi.edu' }
+			
+		]
+	}
+	else if (dtp=='20042')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.research.att.com' }
+			
+		]
+	}
+	else if (dtp=='20043')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.senseval.org' }
+			
+		]
+	}
+	else if (dtp=='20044')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.nlm.nih.gov' }
+			
+		]
+	}
+	else if (dtp=='20045')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.cogsci.princeton.edu' }
+			
+		]
+	}
+	else if (dtp=='20046')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.ai.mit.edu' }
+			
+		]
+	}
+	else if (dtp=='20047')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'arXiv.org' }
+			
+		]
+	}
+	else if (dtp=='20048')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.cs.waikato.ac.nz' }
+			
+		]
+	}
+	else if (dtp=='20049')
+	{
+		dp =   [                                         
+			{ y: 1, label:  'www.csse.monash.edu.au' }
+			
+		]
+	}
+	else if (dtp=='200410')
+	{
+		dp =[                                         
+			{ y: 1, label:  'www.census.gov' }
+			
+		]
+	}
+	else if (dtp=='200411')
+	{
+		dp = [                                         
+			{ y: 1, label:  'research.nii.ac.jp' }
+			
+		]
+	}
+	else if (dtp=='200412')
+	{
+		dp = [                                         
+			{ y: 1, label:  'lingo.stanford.edu' }
+			
+		]
+	}
+	else if (dtp=='200413')
+	{
+		dp = [                                         
+			{ y: 1, label:  'nlp.cs.nyu.edu' }
+			
+		]
+	}
+	else if (dtp=='200414')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.cis.upenn.edu' }
+			
+		]
+	}
+	else if (dtp=='200415')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'davidmlane.com' }
+			
+		]
+	}
+	else if (dtp=='200416')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'lists.sourceforge.net' },
+			{ y: 1, label:  'http://openccg.sourceforge.net' }
+			
+		]
+	}
+	else if (dtp=='200417')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://roa.rutgers.edu/view.php3?id=845' }
+			
+		]
+	}
+	else if (dtp=='200418')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.cs.rochester.edu'}
+			
+			
+		]
+	}
+	else if (dtp=='200419')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.dcs.shef.ac' },
+			{ y: 1, label:  'http://www.dcs.shef.ac.uk' }
+			
+		]
+	}
+	else if (dtp=='20050')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.nist.gov' },
+			{ y: 1, label:  'www.itl.nist.gov' },
+			{ y: 1, label:  'trec.nist.gov' },
+			{ y: 1, label:  'http://nlpir.nist.gov/projects/duc/pubs.html' },
+			{ y: 1, label:  'http://www-nlpir.nist.gov/projects/duc/' }
+			
+			
+		]
+	}
+	else if (dtp=='20051')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'chasen.org' }
+			
+		]
+	}
+	else if (dtp=='20052')
+	{
+		dp =  [                                         
+			{ y: 1, label:   'www.clres.com' }
+			
+		]
+	}
+	else if (dtp=='20053')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'cnts.uia.ac.be' }
+			
+		]
+	}
+	else if (dtp=='20054')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.d.umn.edu/f' }
+			
+		]
+	}
+	else if (dtp=='20055')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.fjoch.com/YASMET.html' }
+			
+		]
+	}
+	else if (dtp=='20056')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://ldc.upenn.edu/projects/tides/' },
+			{ y: 1, label:  'www.cis.upenn.edu' },
+			{ y: 1, label:  'www.ldc.upenn.edu' }
+			
+		]
+	}
+	else if (dtp=='20057')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://search.cpan.org/' }
+			
+		]
+	}
+	else if (dtp=='20058')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'mallet.cs.umass.edu' },
+			{ y: 1, label:  'www.cs.umass.edu' }
+			
+		]
+	}
+	else if (dtp=='20059')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.cs.cornell.edu/' }
+			
+		]
+	}
+	else if (dtp=='200510')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.ims.uni-stuttgart.de' }
+			
+		]
+	}
+	else if (dtp=='200511')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.csie.ntu.edu.tw' }
+			
+		]
+	}
+	else if (dtp=='200512')
+	{
+		dp =  [                                         
+			{ y: 1, label:   'svmlight.joachims.org' }
+			
+		]
+	}
+	else if (dtp=='200513')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'nces.ed.gov' }
+			
+		]
+	}
+	else if (dtp=='200514')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'sourceforge.net' },
+			{ y: 1, label:  'utool.sourceforge.net' },
+			{ y: 1, label:  'maxent.sourceforge.net' },
+			{ y: 1, label:  'openccg.sourceforge.net' },
+			{ y: 1, label:  'agtk.sourceforge.net' },
+			{ y: 1, label:  'senserelate.sourceforge.net' },
+			{ y: 1, label:  'senseclusters.sourceforge.net' }
+			
+		]
+	}
+	else if (dtp=='200515')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'biocreative.ifsm.umbc.edu' }
+			
+		]
+	}
+	else if (dtp=='200516')
+	{
+		dp =  [      
+			{ y: 1, label:  'www.nlm.nih.gov' },
+			{ y: 1, label:  'www.ncbi.nlm.nih.gov' }
+			
+		]
+	}
+	else if (dtp=='200517')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.csail' }
+			
+		]
+	}
+	else if (dtp=='200518')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.speech.sri.com/projects/srilm/' }
+			
+		]
+	}
+	else if (dtp=='200519')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.sover.net/ozus/cinema.htm' }
+			
+		]
+	}
+	else if (dtp=='20060')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'nlp.cs.nyu.edu' }
+			
+		]
+	}
+	else if (dtp=='20061')
+	{
+		dp =  [                         
+			{ y: 1, label:  'trec.nist.gov' },
+			{ y: 1, label:  'www-nlpir.nist.gov' },
+			{ y: 1, label:  'http://www.nist.gov/speech/tests/mt/resources/scoring.htm' },
+			{ y: 1, label:  'http://www.itl.nist.gov/iaui/894.02/' }
+			
+		]
+	}
+	else if (dtp=='20062')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.chasen.org' }
+			
+		]
+	}
+	else if (dtp=='20063')
+	{
+		dp =  [                         
+			{ y: 1, label:  'chasen.aist-nara.ac.jp' }
+			
+		]
+	}
+	else if (dtp=='20064')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.isi.edu' },
+			{ y: 1, label:  'semantics.isi.edu' }
+			
+		]
+	}
+	else if (dtp=='20065')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.ldc.upenn.edu' },
+			{ y: 1, label:  'acl.ldc.upenn.edu' },
+			{ y: 1, label:  'projects.ldc.upenn.edu' },
+			{ y: 1, label:  'www.cis.upenn.edu' }			
+		]
+	}
+	else if (dtp=='20066')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www-tsujii.is.s.u-tokyo.ac.jp' }			
+		]
+	}
+	else if (dtp=='20067')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.pascal-network.org' }			
+		]
+	}
+	else if (dtp=='20068')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.cs.ualberta.ca' }			
+		]
+	}
+	else if (dtp=='20069')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.ims.uni-stuttgart.de' }			
+		]
+	}
+	else if (dtp=='200610')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.hcrc.ed.ac.uk' }			
+		]
+	}
+	else if (dtp=='200611')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.csie.ntu.edu.tw' }			
+		]
+	}
+	else if (dtp=='200612')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.keenage.com' }			
+		]
+	}
+	else if (dtp=='200613')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.papillon-dictionary.org' }			
+		]
+	}
+	else if (dtp=='200614')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.natcorp.ox.ac.uk' }			
+		]
+	}
+	else if (dtp=='200615')
+	{
+		dp =  [                         
+			{ y: 1, label:  'homepages.inf.ed.ac.uk' }			
+		]
+	}
+	else if (dtp=='200616')
+	{
+		dp =  [                         
+			{ y: 1, label:  'chasen.naist.jp' }			
+		]
+	}
+	else if (dtp=='200617')
+	{
+		dp =  [                         
+			{ y: 1, label:  'mila.cs.technion.ac.il' }			
+		]
+	}
+	else if (dtp=='200618')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.cnts.ua.ac.be' }			
+		]
+	}
+	else if (dtp=='200619')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.bitterlemons.org' }			
+		]
+	}
+	else if (dtp=='20070')
+	{
+		dp =  [                         
+			{ y: 1, label:  'chasen.org' }			
+		]
+	}
+	else if (dtp=='20071')
+	{
+		dp =  [                         
+			{ y: 1, label:  'opennlp.sourceforge.net' }	,
+			{ y: 1, label:  'http://nltk.sourceforge.net' },
+			{ y: 1, label:  'http://audacity.sourceforge.net/' },
+			{ y: 1, label:  'http://sourceforge.net/projects/mstparser' },
+			{ y: 1, label:  'http://oscar3-chem.sourceforge.net/' },
+			{ y: 1, label:  'http://poliqarp.sourceforge.net/' },
+			{ y: 1, label:  'http://maxent.sourceforge.net' }
+		]
+	}
+	else if (dtp=='20072')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.isi.edu' }			
+		]
+	}
+	else if (dtp=='20073')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.ldc.upenn.edu' },
+			{ y: 1, label:  'www.cis.upenn.edu' },
+			{ y: 1, label:  'projects.ldc.upenn.edu' },
+			{ y: 1, label:  'www.cis.upenn.edu.bikel' }
+			
+		]
+	}
+	else if (dtp=='20074')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.statmt.org' }			
+		]
+	}
+	else if (dtp=='20075')
+	{
+		dp =  [                         
+			{ y: 1, label:  'www.csie.ntu.edu.tw' }			
+		]
+	}
+	else if (dtp=='20076')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://trec.nist.gov/data/reuters/' },
+			{ y: 1, label:  'www-nlpir.nist.gov' },
+			{ y: 1, label:  'www.nist.gov' }
+			
+		]
+	}
+	else if (dtp=='20077')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'hal3.name' }
+			
+		]
+	}
+	else if (dtp=='20078')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'search.cpan.org' }
+			
+		]
+	}
+	else if (dtp=='20079')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'lucene.apache.org' }
+			
+		]
+	}
+	else if (dtp=='200710')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.cs.waikato.ac.nz' }
+			
+		]
+	}
+	else if (dtp=='200711')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'svmlight.joachims.org' }
+			
+		]
+	}
+	else if (dtp=='200712')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'corpus.leeds.ac.uk' }
+			
+		]
+	}
+	else if (dtp=='200713')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'homepages.inf.ed.ac.uk' }
+			
+		]
+	}
+	else if (dtp=='200714')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.cnts.ua.ac.be' }
+			
+		]
+	}
+	else if (dtp=='200715')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.fjoch.com' }
+			
+		]
+	}
+	else if (dtp=='200716')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.speech.sri.com' }
+			
+		]
+	}
+	else if (dtp=='200717')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.eml-research.de' }
+			
+		]
+	}
+	else if (dtp=='200718')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.cs.ualberta.ca' }
+			
+		]
+	}
+	else if (dtp=='200719')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'glaros.dtc.umn.edu' }
+			
+		]
+	}
+	else if (dtp=='20080')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.statmt.org' }
+			
+		]
+	}
+	else if (dtp=='20081')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.statmt.org' }
+			
+		]
+	}
+	else if (dtp=='20082')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'chasen.org' }
+			
+		]
+	}
+	else if (dtp=='20083')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.cl.cam.ac.uk' }
+			
+		]
+	}
+	else if (dtp=='20084')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.cs.cmu.edu' }
+			
+		]
+	}
+	else if (dtp=='20085')
+	{
+		dp =  [ 
+			{ y: 1, label:  'sourceforge.net' },
+			{ y: 1, label:  'opennlp.sourceforge.net' },
+			{ y: 1, label:  'openccg.sourceforge.net' },
+			{ y: 1, label:  'maxent.sourceforge.net' },
+			{ y: 1, label:  'mecab.sourceforge.net' },
+			{ y: 1, label:  'cmusphinx.sourceforge.net' },
+			{ y: 1, label:  'minorthird.sourceforge.net' },
+			{ y: 1, label:  'jwordnet.sourceforge.net' },
+			{ y: 1, label:  'mstparser.sourceforge.net' },
+			{ y: 1, label:  'lpsolve.sourceforge.net' },
+			{ y: 1, label:  'riso.sourceforge.net' }
+			
+		]
+	}
+	else if (dtp=='20086')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.cs.ualberta.ca' }
+			
+		]
+	}
+	else if (dtp=='20087')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'homepages.inf.ed.ac.uk' }
+			
+		]
+	}
+	else if (dtp=='20088')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'duc.nist.gov' },
+			{ y: 1, label:  'www.nist.gov' },
+			{ y: 1, label:  'trec.nist.gov' },
+			{ y: 1, label:  'math.nist.gov' }
+			
+		]
+	}
+	else if (dtp=='20089')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'projects.ldc.upenn.edu' },
+			{ y: 1, label:  'www.cis.upenn.edu' },
+			{ y: 1, label:  'www.ldc.upenn.edu' },
+			{ y: 1, label:  'www.seas.upenn.edu' }
+			
+		]
+	}
+	else if (dtp=='200810')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'www.w3.org' }
+			
+		]
+	}
+	else if (dtp=='200811')
+	{
+		dp =  [                                         
+			{ y: 1, label: 'wordnet.princeton.edu' }
+			
+		]
+	}
+	else if (dtp=='200812')
+	{
+		dp = [                                         
+			{ y: 1, label:  'hal3.name' },
+			{ y: 1, label:  'pub.hal3.name' }
+			
+		]
+	}
+	else if (dtp=='200813')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'answers.yahoo.com' }
+			
+		]
+	}
+	else if (dtp=='200814')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.csie.ntu.edu.tw' }
+			
+		]
+	}
+	else if (dtp=='200815')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.mturk.com' }
+			
+		]
+	}
+	else if (dtp=='200816')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.summarization.com' }
+			
+		]
+	}
+	else if (dtp=='200817')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.cs.washington.edu' }
+			
+		]
+	}
+	else if (dtp=='200818')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'mallet.cs.umass.edu' }
+			
+		]
+	}
+	else if (dtp=='200819')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'bllip.cs.brown.edu' }
+			
+		]
+	}
+	else if (dtp=='20090')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'nlp.stanford.edu'  }
+			
+		]
+	}
+	else if (dtp=='20091')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.statmt.org'  }
+			
+		]
+	}
+	else if (dtp=='20092')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.nist.gov' },
+			{ y: 1, label:  'duc.nist.gov' },
+			{ y: 1, label:  'trec.nist.gov' },
+			{ y: 1, label:  'http://www.itl.nist.gov/iad/mig/tests/mt/2008/doc/' },
+			{ y: 1, label:  'http://www-nlpir.nist.gov/projects/duc/duc2007/' }
+			
+		]
+	}
+	else if (dtp=='20093')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.cis.upenn.edu' },
+			{ y: 1, label:  'http://www.seas.upenn.edu/~mdredze/datasets/sentiment/' },
+			{ y: 1, label:  'projects.ldc.upenn.edu' },
+			{ y: 1, label:  'www.ldc.upenn.edu' }
+			
+		]
+	}
+	else if (dtp=='20094')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'http://www.wikipedia.org/'},
+			{ y: 1, label:   'download.wikipedia.org' },
+			{ y: 1, label:   'en.wikipedia.org' }
+			
+			
+			
+			
+		]
+	}
+	else if (dtp=='20095')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'code.google.com' },
+			{ y: 1, label:  'translate.google.com' },
+			{ y: 1, label:  'labs.google.com' },
+			{ y: 1, label:  'directory.google.com' }
+			
+		]
+	}
+	else if (dtp=='20096')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'www.cs.ualberta.ca' }
+			
+		]
+	}
+	else if (dtp=='20097')
+	{
+		dp =  [
+			{ y: 1, label: 'sourceforge.net' },
+			{ y: 1, label:  'http://stardict.sourceforge.net/' },
+			{ y: 1, label:  'http://lpsolve.sourceforge.net/5.5/' },
+			{ y: 1, label:  'opennlp.sourceforge.net' },
+			{ y: 1, label: 'crfpp.sourceforge.net' },
+			{ y: 1, label: 'http://argmax.sourceforge.net/' },
+			{ y: 1, label: 'http://maxent.sourceforge.net' },
+			{ y: 1, label: 'http://jswarm-pso.sourceforge.net/' },
+			{ y: 1, label: 'http://nltk.sourceforge.net/'}
+			
+		]
+	}
+	else if (dtp=='20098')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'svmlight.joachims.org' }
+			
+		]
+	}
+	else if (dtp=='20099')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'lucene.apache.org' }
+			
+		]
+	}
+	else if (dtp=='200910')
+	{
+		dp =  [                                         
+			{ y: 1, label:   'verbs.colorado.edu' }
+			
+		]
+	}
+	else if (dtp=='200911')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'ir.hit.edu.cn' }
+			
+		]
+	}
+	else if (dtp=='200912')
+	{
+		dp = [                                         
+			{ y: 1, label:  'nlp.kuee.kyoto-u.ac.jp' }
+			
+		]
+	}
+	else if (dtp=='200913')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.cs.pitt.edu' }
+			
+		]
+	}
+	else if (dtp=='200914')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.cs.cornell.edu' }
+			
+		]
+	}
+	else if (dtp=='200915')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.flickr.com' }
+			
+		]
+	}
+	else if (dtp=='200916')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.cnts.ua.ac.be' }
+			
+		]
+	}
+	else if (dtp=='200917')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.speech.sri.com' }
+			
+		]
+	}
+	else if (dtp=='200918')
+	{
+		dp = [                                         
+			{ y: 1, label:  'mallet.cs.umass.edu' }
+			
+		]
+	}
+	else if (dtp=='200919')
+	{
+		dp = [                                         
+			{ y: 1, label:  'edits.fbk.eu' }
+			
+		]
+	}
+	else if (dtp=='20100')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.nist.gov' },
+			{ y: 1, label:  'duc.nist.gov' },
+			{ y: 1, label:  'www-nlpir.nist.gov' },
+			{ y: 1, label:  'trec.nist.gov' },
+			{ y: 1, label:  'www.itl.nist.gov' },
+			{ y: 1, label:  'http://nist.gov/speech/tests' }
+			
+			
+		]
+	}
+	else if (dtp=='20101')
+	{
+		dp = [                                         
+			{ y: 1, label:  'nlp.stanford.edu' },
+			{ y: 1, label:  'http://nlp.stanford.edu:8080/parser/' }
+			
+		]
+	}
+	else if (dtp=='20102')
+	{
+		dp = [                                         
+			{ y: 1, label:  'mallet.cs.umass.edu' }
+			
+		]
+	}
+	else if (dtp=='20103')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.csie.ntu.edu.tw' }
+			
+		]
+	}
+	else if (dtp=='20104')
+	{
+		dp = [    
+			{ y: 1, label:  'sourceforge.net' },
+			{ y: 1, label:  'tadm.sourceforge.net' },
+			{ y: 1, label:  'http://flexcrfs.sourceforge' },
+			{ y: 1, label:  'http://texhyphj.sourceforge.net' },
+			{ y: 1, label:  'http://crfpp.sourceforge.net/' },
+			{ y: 1, label:  'http://mmax2.sourceforge.net/' },
+			{ y: 1, label:  'http://stardict.sourceforge.net/' },
+			{ y: 1, label:  'http://chasen-legacy.sourceforge.jp/' },
+			{ y: 1, label:  'http://multiparse.sourceforge.net' },
+			{ y: 1, label:  'lpsolve.sourceforge.net' },
+			{ y: 1, label:  'http://mecab.sourceforge.net' },
+			{ y: 1, label:  'http://opennlp.sourceforge' },
+			{ y: 1, label:  'http://wn-similarity.sourceforge.net/' },
+			{ y: 1, label:  'http://jwordnet.sourceforge.net/' },
+			{ y: 1, label:  'http://maxent.sourceforge.net/' }
+			
+		]
+	}
+	else if (dtp=='20105')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.cs.chalmers.se' }
+			
+		]
+	}
+	else if (dtp=='20106')
+	{
+		dp = [                                         
+			{ y: 1, label:  'homepages.inf.ed.ac.uk' },
+			{ y: 1, label:  'http://homepages.inf' }
+			
+		]
+	}
+	else if (dtp=='20107')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.cis.upenn.edu' },
+			{ y: 1, label:  'http://www.seas.upenn.edu/~mdredze/datasets/sentiment/' },
+			{ y: 1, label:  'projects.ldc.upenn.edu' },
+			{ y: 1, label:  'www.ldc.upenn.edu' }
+			
+		]
+	}
+	else if (dtp=='20108')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.google.com' },
+			{ y: 1, label:   'translate.google.com' },
+			{ y: 1, label:   'code.google.com' },
+			{ y: 1, label:   'news.google.com' }
+			
+		]
+	}
+	else if (dtp=='20109')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.isi.edu' }
+			
+		]
+	}
+	else if (dtp=='201010')
+	{
+		dp = [                                         
+			{ y: 1, label:  'webdocs.cs.ualberta.ca' }
+			
+		]
+	}
+	else if (dtp=='201011')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.anc.org' }
+			
+		]
+	}
+	else if (dtp=='201012')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.cs.washington.edu' }
+			
+		]
+	}
+	else if (dtp=='201013')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.amazon.com' }
+			
+		]
+	}
+	else if (dtp=='201014')
+	{
+		dp = [                                         
+			{ y: 1, label:  'svmlight.joachims.org' }
+			
+		]
+	}
+	else if (dtp=='201015')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.cs.pitt.edu' }
+			
+		]
+	}
+	else if (dtp=='201016')
+	{
+		dp = [                                         
+			{ y: 1, label:  'wordnet.princeton.edu' },
+			{ y: 1, label:  'http://wordnetweb.princeton.edu/perl/webwn' }
+			
+		]
+	}
+	else if (dtp=='201017')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.sil.org' }
+			
+		]
+	}
+	else if (dtp=='201018')
+	{
+		dp = [                                         
+			{ y: 1, label:  'hdl.handle.net' }
+			
+		]
+	}
+	else if (dtp=='201019')
+	{
+		dp = [                                         
+			{ y: 1, label:  'lcl.uniroma1.it' }
+			
+		]
+	}
+	else if (dtp=='20110')
+	{
+		dp = [                                         
+			{ y: 1, label:  'en.wikipedia.org' },
+			{ y: 1, label:  'www.wikipedia.org' },
+			{ y: 1, label:  'simple.wikipedia.org' }
+			
+		]
+	}
+	else if (dtp=='20111')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.google.com' },
+			{ y: 1, label:  'translate.google.com' },
+			{ y: 1, label:  'code.google.com' },
+			{ y: 1, label:  'sites.google.com' },
+			{ y: 1, label:  'http://news.google.com' }
+			
+		]
+	}
+	else if (dtp=='20112')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.statmt.org' }
+			
+		]
+	}
+	else if (dtp=='20113')
+	{
+		dp = [                                         
+			{ y: 1, label:  'nlp.stanford.edu' }
+			
+		]
+	}
+	else if (dtp=='20114')
+	{
+		dp = [                                         
+			{ y: 1, label:  'sourceforge.net' },
+			{ y: 1, label:  'http://maxent.sourceforge.net' },
+			{ y: 1, label:  'crftagger.sourceforge.net' },
+			{ y: 1, label:  'crfpp.sourceforge.net' },
+			{ y: 1, label:  'opennlp.sourceforge.net' },
+			{ y: 1, label:  'http://pocket-crf-1.sourceforge.net/' },
+			{ y: 1, label:  'http://Infomap-nlp.sourceforge.net/' },
+			{ y: 1, label:  'http://gibbslda.sourceforge.net' },
+			{ y: 1, label:  'http://jazzy.sourceforge.net/' },
+			{ y: 1, label:  'http://lpsolve.sourceforge.net/' },
+			{ y: 1, label:  'http://scopefinder.sourceforge.net/' },
+			{ y: 1, label:  'http://aspell.sourceforge.net' },
+			{ y: 1, label:  'http://mecab.sourceforge.net' },
+			{ y: 1, label:  'http://wikipedia-miner.sourceforge.net' },
+			{ y: 1, label:  'http://javaxdelta.sourceforge.net/' },
+			{ y: 1, label:  'http://jung.sourceforge.net/' }
+			
+		]
+	}
+	else if (dtp=='20115')
+	{
+		dp = [                                         
+			{ y: 1, label:  'mallet.cs.umass.edu' },
+			{ y: 1, label:  'ciir.cs.umass.edu' },
+			{ y: 1, label:  'www.cs.umass.edu' }
+			
+		]
+	}
+	else if (dtp=='20116')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.csie.ntu.edu.tw' }
+			
+		]
+	}
+	else if (dtp=='20117')
+	{
+		dp = [                                         
+			{ y: 1, label:  'github.com' }
+			
+		]
+	}
+	else if (dtp=='20118')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.cs.cmu.edu' },
+			{ y: 1, label:  'http://www.speech.cs.cmu.edu/sphinx/tutorial.html' },
+			{ y: 1, label:  'www.ark.cs.cmu.edu' },
+			{ y: 1, label:  'http://boston.lti.cs.cmu.edu/Data/clueweb09/' }
+			
+		]
+	}
+	else if (dtp=='20119')
+	{
+		dp = [                                         
+			{ y: 1, label:  'svmlight.joachims.org' },
+			{ y: 1, label:  'svmlight' }
+			
+		]
+	}
+	else if (dtp=='201110')
+	{
+		dp = [
+			{ y: 1, label:  'www.ldc.upenn.edu' },
+			{ y: 1, label:  'projects.ldc.upenn.edu' },
+			{ y: 1, label:  'https://dbappserv.cis.upenn.edu/spell/' },
+			{ y: 1, label:  'http://www.cis.upenn.edu/' },
+			{ y: 1, label:  'http://ww.ldc.upenn.edu/Project/GALE' },
+			{ y: 1, label:  'http://www.seas.upenn.edu/' }
+			
+		]
+	}
+	else if (dtp=='201111')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.itl.nist.gov' },
+			{ y: 1, label:  'trec.nist.gov' },
+			{ y: 1, label:  'www.nist.gov' },
+			{ y: 1, label:  'http://www-nlpir.nist.gov/related_projects/muc/' }
+			
+		]
+	}
+	else if (dtp=='201112')
+	{
+		dp = [                                         
+			{ y: 1, label:  'cogcomp.cs.illinois.edu' },
+			{ y: 1, label:  'http://cogcomp.cs' }
+			
+		]
+	}
+	else if (dtp=='201113')
+	{
+		dp = [                                         
+			{ y: 1, label:  'research.microsoft.com' }
+			
+		]
+	}
+	else if (dtp=='201114')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.mturk.com' }
+			
+		]
+	}
+	else if (dtp=='201115')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.cs.cornell.edu' }
+			
+		]
+	}
+	else if (dtp=='201116')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.wjh.harvard.edu' }
+			
+		]
+	}
+	else if (dtp=='201117')
+	{
+		dp = [                                         
+			{ y: 1, label:  'groups.csail.mit.edu' }
+			
+		]
+	}
+	else if (dtp=='201118')
+	{
+		dp = [                                         
+			{ y: 1, label:  'fjoch.com' }
+			
+		]
+	}
+	else if (dtp=='201119')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.ark.cs.cmu.edu' }
+			
+		]
+	}
+	else if (dtp=='20120')
+	{
+		dp = [                                         
+			{ y: 1, label:  'sites.google.com' },
+			{ y: 1, label:  'code.google.com' },
+			{ y: 1, label:  'translate.google.com' },
+			{ y: 1, label:  'https://support.google.com/adwords/' },
+			{ y: 1, label:  'books.google.com' }
+			
+		]
+	}
+	else if (dtp=='20121')
+	{
+		dp = [                                         
+			{ y: 1, label:  'nlp.stanford.edu' }
+			
+		]
+	}
+	else if (dtp=='20122')
+	{
+		dp =[                                         
+			{ y: 1, label:  'www.aclweb.org' }
+			
+		]
+	}
+	else if (dtp=='20123')
+	{
+		dp = [                                         
+			{ y: 1, label:  'github.com' }
+			
+		]
+	}
+	else if (dtp=='20124')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.statmt.org' }
+			
+		]
+	}
+	else if (dtp=='20125')
+	{
+		dp = [                                         
+			{ y: 1, label:  'mallet.cs.umass.edu' },
+			{ y: 1, label:  'www.iesl.cs.umass.edu' }
+			
+		]
+	}
+	else if (dtp=='20126')
+	{
+		dp = [                                         
+			{ y: 1, label:  'en.wikipedia.org' },
+			{ y: 1, label:  'www.wikipedia.org' },
+			{ y: 1, label:  'simple.wikipedia.org' },
+			{ y: 1, label:  'http://zh.wikipedia.org/wiki' }
+			
+		]
+	}
+	else if (dtp=='20127')
+	{
+		dp = [                                         
+			{ y: 1, label:  'lucene.apache.org' }
+			
+		]
+	}
+	else if (dtp=='20128')
+	{
+		dp = [
+			{ y: 1, label:  'sourceforge.net' },
+			{ y: 1, label:  'opennlp.sourceforge.net' },
+			{ y: 1, label:  'crfpp.sourceforge.net' },
+			{ y: 1, label:  'http://gibbslda.sourceforge.net/' },
+			{ y: 1, label:  'http://wn-similarity.sourceforge.net' },
+			{ y: 1, label:  'mecab.sourceforge.net' },
+			{ y: 1, label:  'http://sourceforge.net/projects/opennlp/' },
+			{ y: 1, label:  'http://inprotk.sourceforge.net' },
+			{ y: 1, label:  'http://java-ml.sourceforge.net/' }
+			
+			
+		]
+	}
+	else if (dtp=='20129')
+	{
+		dp = [     
+			{ y: 1, label:  'www.nist.gov' },
+			{ y: 1, label:  'www.itl.nist.gov' },
+			{ y: 1, label:  'trec.nist.gov' },
+			{ y: 1, label:  'duc.nist.gov' }
+			
+			
+		]
+	}
+	else if (dtp=='201210')
+	{
+		dp = [                                         
+			{ y: 1, label:  'groups.csail.mit.edu' }
+			
+		]
+	}
+	else if (dtp=='201211')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.seas.upenn.edu' },
+			{ y: 1, label:  'www.cis.upenn.edu' },
+			{ y: 1, label:  'http://projects.ldc.upenn.edu/ace' },
+			{ y: 1, label:  'www.ldc.upenn.edu' }
+			
+		]
+	}
+	else if (dtp=='201212')
+	{
+		dp = [                                         
+			{ y: 1, label:  'disi.unitn.it' }
+			
+		]
+	}
+	else if (dtp=='201213')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.lemurproject.org' }
+			
+		]
+	}
+	else if (dtp=='201214')
+	{
+		dp = [                                         
+			{ y: 1, label:  'homepages.inf.ed.ac.uk' }
+			
+		]
+	}
+	else if (dtp=='201215')
+	{
+		dp = [                                         
+			{ y: 1, label:  'http://mturk.com' }
+			
+		]
+	}
+	else if (dtp=='201216')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.speech.cs.cmu.edu' }
+			
+		]
+	}
+	else if (dtp=='201217')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.csie.ntu.edu.tw' },
+			{ y: 1, label:  'http://www.csie.ntu.edu' }
+			
+		]
+	}
+	else if (dtp=='201218')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.accurat-project.eu' }
+			
+		]
+	}
+	else if (dtp=='201219')
+	{
+		dp = [                                         
+			{ y: 1, label:  'http://phontron.com/pialign/' }
+			
+		]
+	}
+	else if (dtp=='20130')
+	{
+		dp = [                                         
+			{ y: 1, label:  'nlp.stanford.edu' },
+
+			
+		]
+	}
+	else if (dtp=='20131')
+	{
+		dp = [      
+			{ y: 1, label:  'http://code.google' },
+			{ y: 1, label:  'translate.google.com' },
+			{ y: 1, label:  'https://sites.google.com/site/sancl2012/home/shared-' },
+			{ y: 1, label:  'https://support.google.com/adwords/' },
+			{ y: 1, label:  'https://play.google.com/store' },
+			{ y: 1, label:  'books.google.com' }
+			
+		]
+	}
+	else if (dtp=='20132')
+	{
+		dp = [
+	
+				{ y: 1, label:  'en.wikipedia.org' },
+				{ y: 1, label:  'http://de.wikipedia.org/wiki/' },
+				{ y: 1, label:  'http://zh.wikipedia.org/wiki/' },
+				{ y: 1, label:  'http://www.wikipedia.org/' }
+			
+		]
+	}
+	else if (dtp=='20133')
+	{
+		dp = [                                         
+			{ y: 1, label:  'github.com' }
+		]
+	}
+	else if (dtp=='20134')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.statmt.org' },
+			{ y: 1, label:   'http://www.statmt.or/wmt12' }
+		]
+	}
+	else if (dtp=='20135')
+	{
+		dp = [                                         
+			{ y: 1, label:  'mallet.cs.umass.edu' },
+			{ y: 1, label:  'http://ciir.cs.umass.edu/pubfiles/' },
+			{ y: 1, label:  'http://www.cs.umass.edu/' },
+			{ y: 1, label:  'http://people.cs.umass.edu/' },
+			{ y: 1, label:  'http://factorie.cs.umass.edu' }
+			
+		]
+	}
+	else if (dtp=='20136')
+	{
+		dp = [                                         
+			{ y: 1, label:  'sourceforge.net' },
+			{ y: 1, label:  'http://mecab.sourceforge.net/' },
+			{ y: 1, label:  'http://stardict.sourceforge.net/' },
+			{ y: 1, label:  'http://crftagger.sourceforge.net/'},
+			{ y: 1, label:  'http://wordlist.sourceforge.net/' },
+			{ y: 1, label:  'http://lpsolve.sourceforge.net/5.5/' },
+			{ y: 1, label:  'http://crfpp.sourceforge' },
+			{ y: 1, label:  'http://openccg.sourceforge.net/' },
+			{ y: 1, label:  'http://pdftohtml.sourceforge.net/' },
+			{ y: 1, label:  'http://opennlp.sourceforge.net/projects.html' },
+			{ y: 1, label:  'http://jpf.sourceforge.net/' },
+			{ y: 1, label:  'http://java-ml.sourceforge.net/api/0.1.7/' }
+			
+		]
+	}
+	else if (dtp=='20137')
+	{
+		dp = [                                         
+			{ y: 1, label:  'lcl.uniroma1.it' }
+			
+		]
+	}
+	else if (dtp=='20138')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.ark.cs.cmu.edu' }
+			
+		]
+	}
+	else if (dtp=='20139')
+	{
+		dp = [                                         
+			{ y: 1, label:  'dumps.wikimedia.org' }
+			
+		]
+	}
+	else if (dtp=='201310')
+	{
+		dp = [                                         
+			{ y: 1, label:  'www.csie.ntu.edu.tw' }
+			
+		]
+	}
+	else if (dtp=='201311')
+	{
+		dp = [                                         
+			{ y: 1, label:  'dev.twitter.com' }
+			
+		]
+	}
+	else if (dtp=='201312')
+	{
+		dp = [                                         
+			{ y: 1, label:  'homepages.inf.ed.ac.uk' }
+			
+		]
+	}
+	else if (dtp=='201313')
+	{
+		dp = [   
+			{ y: 1, label:  'www.nist.gov' },
+			{ y: 1, label:  'www.itl.nist.gov' },
+			{ y: 1, label:  'trec.nist.gov' },
+			{ y: 1, label:  'duc.nist.gov' }
+			
+			
+		]
+	}
+	else if (dtp=='201314')
+	{
+		dp = [                                         
+			{ y: 1, label:  'http://www.ukp.tu-darmstadt' }
+			
+		]
+	}
+	else if (dtp=='201315')
+	{
+		dp = [                                         
+			{ y: 1, label:  'disi.unitn.it' }
+			
+		]
+	}
+	else if (dtp=='201316')
+	{
+		dp = [                                         
+			{ y: 1, label:  'nlp.ist.i.kyoto-u.ac.jp' }
+			
+		]
+	}
+	else if (dtp=='201317')
+	{
+		dp =  [                                         
+			{ y: 1, label:  'takelab.fer.hr' }
+			
+		]
+	}
+	else if (dtp=='201318')
+	{
+		dp = [                                         
+			{ y: 1, label:  'ufal.mff.cuni.cz' }
+			
+		]
+	}
+	else if (dtp=='201319')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.ldc.upenn.edu' },
+			{ y: 1, label:  'projects.ldc.upenn.edu' },
+			{ y: 1, label:  'http://www.cis.upenn.edu/dbikel/software.html#comparator' },
+			{ y: 1, label:  'http://www.ircs.upenn.edu/arabic/Jan03release/' },
+			{ y: 1, label:  'http://www.seas.upenn.edu/strctlrn/BioTagger/BioTagger.html' }
+			
+		]
+	}
+	else if (dtp=='20140')
+	{
+		dp = [                                         
+			{ y: 1, label:   'code.google.com' },
+			{ y: 1, label:   'https://plus.google.com/' },
+			{ y: 1, label:   'developers.google.com' },
+			{ y: 1, label:   'sites.google.com' },
+			{ y: 1, label:   'books.google.com' },
+			{ y: 1, label:   'translate.google.com' }
+			
+		]
+	}
+	else if (dtp=='20141')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.github.com' },
+			{ y: 1, label:  'hltfbk.github.io' },
+			{ y: 1, label:  'http://lex4all.github.io/lex4all/' }
+		]
+	}
+	else if (dtp=='20142')
+	{
+		dp = [                                         
+			{ y: 1, label:   'nlp.stanford.edu' }
+			
+		]
+	}
+	else if (dtp=='20143')
+	{
+		dp = [                                         
+			{ y: 1, label:   'en.wikipedia.org' },
+			{ y: 1, label:  'http://simple.wikipedia.org' },
+			{ y: 1, label:  'http://www.wikipedia.org' }
+			
+		]
+	}
+	else if (dtp=='20144')
+	{
+		dp = [                                         
+			{ y: 1, label:   'aclweb.org' }
+			
+		]
+	}
+	else if (dtp=='20145')
+	{
+		dp =[                                         
+			{ y: 1, label:   'www.cs.cmu.edu' }
+			
+		]
+	}
+	else if (dtp=='20146')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.statmt.org' }
+			
+		]
+	}
+	else if (dtp=='20147')
+	{
+		dp = [                                         
+			{ y: 1, label:   'sourceforge.net' },
+			{ y: 1, label:  'gibbslda.sourceforge.net' },
+			{ y: 1, label:  'http://lpsolve.sourceforge.net/5.5/' },
+			{ y: 1, label:  'http://chasen-legacy.sourceforge.jp/' },
+			{ y: 1, label:  'http://mstparser.sourceforge.net' },
+			{ y: 1, label:  'http://pmd.sourceforge.net' },
+			{ y: 1, label:  'http://meka.sourceforge.net' },
+			{ y: 1, label:  'http://libots.sourceforge.net/' }
+			
+		]
+	}
+	else if (dtp=='20148')
+	{
+		dp = [                                         
+			{ y: 1, label:   'http://www.ark.cs.cmu' }
+			
+		]
+	}
+	else if (dtp=='20149')
+	{
+		dp = [                                         
+			{ y: 1, label:   'ufal.mff.cuni.cz' }
+			
+		]
+	}
+	else if (dtp=='201410')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.nist.gov' },
+			{ y: 1, label:  'www.itl.nist.gov' },
+			{ y: 1, label:  'duc.nist.gov' },
+			{ y: 1, label:  'www-nlpir.nist.gov' },
+			{ y: 1, label:  'http://ww.itl.nist.gov/iad/mig/tools' }
+			
+			
+		]
+	}
+	else if (dtp=='201411')
+	{
+		dp = [                                         
+			{ y: 1, label:   'http://homepages.inf.ed.ac' },
+			{ y: 1, label:  'homepages.inf.ed.ac.uk' }
+			
+		]
+	}
+	else if (dtp=='201412')
+	{
+		dp = [                                         
+			{ y: 1, label:   'clic.cimec.unitn.it' }
+			
+		]
+	}
+	else if (dtp=='201413')
+	{
+		dp = [                                         
+			{ y: 1, label:   'arxiv.org' }
+			
+		]
+	}
+	else if (dtp=='201414')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.cis.upenn.edu' },
+			{ y: 1, label:  'www.ldc.upenn.edu' },
+			{ y: 1, label:  'catalog.ldc.upenn.edu' },
+			{ y: 1, label:  'http://www.ling.upenn.edu/' },
+			{ y: 1, label:  'http://projects.ldc.upenn.edu/kbp/data' }
+			
+		]
+	}
+	else if (dtp=='201415')
+	{
+		dp = [
+			{ y: 1, label:   'http://maven.apache.org/' },
+			{ y: 1, label:   'opennlp.apache.org' },
+			{ y: 1, label:   'http://storm.incubator.apache.org/' },
+			{ y: 1, label:   'http://uima.apache.org/' }
+			
+			
+		]
+	}
+	else if (dtp=='201416')
+	{
+		dp = [
+			{ y: 1, label:   'www.cs.umass.edu' },
+			{ y: 1, label:   'mallet.cs.umass.edu' },
+			{ y: 1, label:   'iesl.cs.umass.edu' },
+			{ y: 1, label:   'http://people.cs.umass.edu/' }
+			
+		]
+	}
+	else if (dtp=='201417')
+	{
+		dp = [                                         
+			{ y: 1, label:   'qwone.com' }
+			
+		]
+	}
+	else if (dtp=='201418')
+	{
+		dp = [                                         
+			{ y: 1, label:   'svmlight.joachims.org' }
+			
+		]
+	}
+	else if (dtp=='201419')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.mturk.com' }
+			
+		]
+	}
+	else if (dtp=='20150')
+	{
+		dp = [                                         
+			{ y: 1, label:   'github.com' },
+			{ y: 1, label:   'http://www.github.com/jmielens/gpc-acl-2015' },
+			{ y: 1, label:   'https://github.comw/yoonkim/CNN_sentence' }
+			
+		]
+	}
+	else if (dtp=='20151')
+	{
+		dp = [                                         
+			{ y: 1, label:   'code.google.com' },
+			{ y: 1, label:   'http://translate.google.com' },
+			{ y: 1, label:   'http://books.google.com/ngrams/datasets' },
+			{ y: 1, label:   'http://www.google.com' },
+			{ y: 1, label:   'sites.google.com' },
+			{ y: 1, label:   'https://drive.google.com/file/d/0B7XkCwpI5KDYNl' },
+			{ y: 1, label:   'https://developers.google.com/' },
+			{ y: 1, label:   'https://play.google.com/store/apps/details?id=com.oopsapp' },
+			{ y: 1, label:   'https://groups.google.com/d/' }
+			
+		]
+	}
+	else if (dtp=='20152')
+	{
+		dp = [                                         
+			{ y: 1, label:   'nlp.stanford.edu' },
+			{ y: 1, label:   'http://nlp.stanford.edu:8080/parser/' },
+			{ y: 1, label:   'http://ai.stanford.edu/amaas/data/sentiment' },
+			{ y: 1, label:   'http://snap.stanford.edu/' }
+			
+		]
+	}
+	else if (dtp=='20153')
+	{
+		dp = [                                         
+			{ y: 1, label:   'en.wikipedia.org' },
+			{ y: 1, label:   'http://en.Wikipedia.org/wiki/' },
+			{ y: 1, label:   'https://simple.wikipedia.org' },
+			{ y: 1, label:   'http://zh.wikipedia.org/wiki/Template:CGroup' }
+			
+		]
+	}
+	else if (dtp=='20154')
+	{
+		dp = [                                         
+			{ y: 1, label:   'research.microsoft.com' },
+			{ y: 1, label:   'http://academic.research.microsoft.com' }
+			
+		]
+	}
+	else if (dtp=='20155')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.statmt.org' },
+			{ y: 1, label:   'matrix.statmt.org' }
+			
+		]
+	}
+	else if (dtp=='20156')
+	{
+		dp = [                                         
+			{ y: 1, label:   'scikit-learn.org' }
+			
+		]
+	}
+	else if (dtp=='20157')
+	{
+		dp = [                                         
+			{ y: 1, label:   'sourceforge.net' },
+			{ y: 1, label:   'http://jgibblda.sourceforge.net/' },
+			{ y: 1, label:   'http://pyke.sourceforge.net/' },
+			{ y: 1, label:   'http://kaldi.sourceforge.net/' },
+			{ y: 1, label:   'http://htmlunit.sourceforge.net/' },
+			{ y: 1, label:   'http://opennlp.sourceforge.net' }
+			
+		]
+	}
+	else if (dtp=='20158')
+	{
+		dp = [                                         
+			{ y: 1, label:   'projects.ldc.upenn.edu' },
+			{ y: 1, label:   'catalog.ldc.upenn.edu' },
+			{ y: 1, label:   'www.cis.upenn.edu' },
+			{ y: 1, label:   'http://www.sas.upenn.edu/' },
+			{ y: 1, label:   'www.ldc.upenn.edu' },
+			{ y: 1, label:   'http://bioie.ldc.upenn.edu' }
+			
+		]
+	}
+	else if (dtp=='20159')
+	{
+		dp = [                                         
+			
+			{ y: 1, label:   'www.ark.cs.cmu.edu' },
+			{ y: 1, label:   'http://rtw.ml.cmu.edu/resources/ppa' },
+			{ y: 1, label:   'http://www.speech.cs.cmu.edu/cgi-bin/cmudict' },
+			{ y: 1, label:   'http://cs.cmu.edu/' }
+			
+		]
+	}
+	else if (dtp=='201510')
+	{
+		dp = [                                         
+			{ y: 1, label:   'bitbucket.org' }
+			
+		]
+	}
+	else if (dtp=='201511')
+	{
+		dp = [                                       
+			{ y: 1, label:   'mallet.cs.umass.edu' },
+			{ y: 1, label:   'http://people.umass.edu/scable/PNWSeminar/' }
+			
+		]
+	}
+	else if (dtp=='201512')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.csie.ntu.edu.tw' }
+			
+		]
+	}
+	else if (dtp=='201513')
+	{
+		dp = [                                         
+			{ y: 1, label:   'arxiv.org' }
+			
+		]
+	}
+	else if (dtp=='201514')
+	{
+		dp = [                                         
+			{ y: 1, label:   'cogcomp.cs.illinois.edu' }
+			
+		]
+	}
+	else if (dtp=='201515')
+	{
+		dp = [                                         
+			{ y: 1, label:   'lucene.apache.org' },
+			{ y: 1, label:   'https://tika.apache.org/' },
+			{ y: 1, label:   'opennlp.apache.org' },
+			{ y: 1, label:   'http://camel.apache.org/' },
+			{ y: 1, label:   'https://uima.apache.org/ruta.html' },
+			{ y: 1, label:   'http://activemq.apache.org/' },
+			{ y: 1, label:   'http://cassandra.apache.org' }
+			
+		]
+	}
+	else if (dtp=='201516')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.natcorp.ox.ac.uk' }
+			
+		]
+	}
+	else if (dtp=='201517')
+	{
+		dp = [                                         
+			{ y: 1, label:   'clic.cimec.unitn.it' },
+			{ y: 1, label:   'disi.unitn.it' },
+			{ y: 1, label:   'http://ikernels-portal.disi.unitn.it/' }
+			
+			
+		]
+	}
+	else if (dtp=='201518')
+	{
+		dp = [                                         
+			{ y: 1, label:   'mpqa.cs.pitt.edu' }
+			
+		]
+	}
+	else if (dtp=='201519')
+	{
+		dp = [                                         
+			{ y: 1, label:   'labs.priberam.com' }
+			
+		]
+	}
+	else if (dtp=='20160')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.github.com' }
+			
+		]
+	}
+	else if (dtp=='20161')
+	{
+		dp = [                                         
+			{ y: 1, label:   'code.google.com' },
+			{ y: 1, label:   'translate.google.com' },
+			{ y: 1, label:   'sites.google.com' },
+			{ y: 1, label:   'images.google.com' },
+			{ y: 1, label:   'https://news.google.com/' }
+			
+			
+		]
+	}
+	else if (dtp=='20162')
+	{
+		dp = [                                         
+			{ y: 1, label:   'nlp.stanford.edu' },
+			{ y: 1, label:   'http://web.stanford.edu/%7ejurafsky/ws97/' },
+			{ y: 1, label:   'http://ai.stanford.edu/' }
+			
+		]
+	}
+	else if (dtp=='20163')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.seas.upenn.edu' },
+			{ y: 1, label:   'https://www.ling.upenn.edu/courses/Fall_' },
+			{ y: 1, label:   'catalog.ldc.upenn.edu' }
+			
+		]
+	}
+	else if (dtp=='20164')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.statmt.org' },
+			{ y: 1, label:   'http://matrix.statmt.org/matrix/systems' }
+			
+		]
+	}
+	else if (dtp=='20165')
+	{
+		dp = [                                         
+			{ y: 1, label:   'bitbucket.org' }
+			
+		]
+	}
+	else if (dtp=='20166')
+	{
+		dp = [                                         
+			{ y: 1, label:   'arxiv.org' }
+			
+		]
+	}
+	else if (dtp=='20167')
+	{
+		dp = [                                         
+			{ y: 1, label:   'en.wikipedia.org' },
+			{ y: 1, label:   'https://zh.wikipedia.org' }
+			
+		]
+	}
+	else if (dtp=='20168')
+	{
+		dp = [                                         
+			{ y: 1, label:   'scikit-learn.org' }
+			
+		]
+	}
+	else if (dtp=='20169')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.cs.cmu.edu' },
+			{ y: 1, label:   'www.speech.cs.cmu.edu' }
+			
+		]
+	}
+	else if (dtp=='201610')
+	{
+		dp = [                                         
+			{ y: 1, label:   'cogcomp.cs.illinois.edu' },
+			{ y: 1, label:   'http://nlp.cs.illinois.edu/' }
+			
+			
+		]
+	}
+	else if (dtp=='201611')
+	{
+		dp = [                                         
+			{ y: 1, label:   'ronan.collobert.com' }
+			
+		]
+	}
+	else if (dtp=='201612')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.csie.ntu.edu.tw' }
+			
+		]
+	}
+	else if (dtp=='201613')
+	{
+		dp = [                 
+			{ y: 1, label:   'www.ncbi.nlm.nih.gov' },
+			{ y: 1, label:   'https://www.nlm.nih.gov/pubs/' }
+			
+		]
+	}
+	else if (dtp=='201614')
+	{
+		dp = [                                         
+			{ y: 1, label:   'sourceforge.net' },
+			{ y: 1, label:   'http://zql.sourceforge.net' },
+			{ y: 1, label:   'http://espeak.sourceforge.net' },
+			{ y: 1, label:   'http://kaldi.sourceforge.net/' },
+			{ y: 1, label:   'http://cmusphinx.sourceforge.net' }
+			
+		]
+	}
+	else if (dtp=='201615')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.kaggle.com' }
+			
+		]
+	}
+	else if (dtp=='201616')
+	{
+		dp = [                                         
+			{ y: 1, label:   'allenai.org' }
+			
+		]
+	}
+	else if (dtp=='201617')
+	{
+		dp = [                                         
+			{ y: 1, label:   'qwone.com' }
+			
+		]
+	}
+	else if (dtp=='201618')
+	{
+		dp = [                                         
+			{ y: 1, label:   'universaldependencies.org' }
+			
+		]
+	}
+	else if (dtp=='201619')
+	{
+		dp = [
+			{ y: 1, label:   'http://www.aiphes.tu-darmstadt.de' },
+			{ y: 1, label:   'http://bev.lt.informatik.tu-darmstadt.de/' },
+			{ y: 1, label:   'www.ukp.tu-darmstadt.de' }
+			
+		]
+	}
+	else if (dtp=='20170')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.aclweb.org' },
+			{ y: 1, label:   'anthology.aclweb.org' }
+			
+		]
+	}
+	else if (dtp=='20171')
+	{
+		dp = [                                         
+			{ y: 1, label:   'arxiv.org' }
+			
+		]
+	}
+	else if (dtp=='20172')
+	{
+		dp = [                                         
+			{ y: 1, label:   'github.com' }
+			
+		]
+	}
+	else if (dtp=='20173')
+	{
+		dp = [                                         
+			{ y: 1, label:   'dl.acm.org' },
+			{ y: 1, label:   'doi.acm.org' },
+			{ y: 1, label:   'http://portal.acm.org/citation.cfm?id=1289260' }
+			
+		]
+	}
+	else if (dtp=='20174')
+	{
+		dp = [                                         
+			{ y: 1, label:   'papers.nips.cc' }
+			
+		]
+	}
+	else if (dtp=='20175')
+	{
+		dp = [                                         
+			{ y: 1, label:   'http://developers.google.com/' },
+			{ y: 1, label:   'code.google.com' },
+			{ y: 1, label:   'translate.google.com' },
+			{ y: 1, label:   'https://books.google.com/books?id=I8svAAAAYAAJ' },
+			{ y: 1, label:   'https://www.google.com/sheets' },
+			{ y: 1, label:   'sites.google.com' },
+			{ y: 1, label:   'assistant.google.com' },
+			{ y: 1, label:   'https://cloud.google.com/speech' }
+			
+			
+		]
+	}
+	else if (dtp=='20176')
+	{
+		dp = [                                         
+			{ y: 1, label:   'doi.org' },
+			{ y: 1, label:   'dx.doi.org' }
+			
+		]
+	}
+	else if (dtp=='20177')
+	{
+		dp = [
+			{ y: 1, label:   'nlp.stanford.edu' },
+			{ y: 1, label:   'https://cs224d.stanford.edu/' },
+			{ y: 1, label:   'http://nlp.stanford.edu:8080/sentiment/rntnDemo.html' },
+			{ y: 1, label:   'http://cs.stanford.edu/' },
+			{ y: 1, label:   'https://snap.stanford.edu/data/cit-HepTh.html' },
+			{ y: 1, label:   'http://ai.Stanford.edu/amaas/data/' }
+			
+		]
+	}
+	else if (dtp=='20178')
+	{
+		dp = [                                         
+			{ y: 1, label:   'aclanthology.info' }
+			
+		]
+	}
+	else if (dtp=='20179')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.jmlr.org' }
+			
+		]
+	}
+	else if (dtp=='201710')
+	{
+		dp = [                                         
+			{ y: 1, label:   'catalog.ldc.upenn.edu' },
+			{ y: 1, label:   'http://projects.ldc.upenn.edu/ace/' },
+			{ y: 1, label:   'www.seas.upenn.edu' },
+			{ y: 1, label:   'http://www.cis.upenn.edu/' }
+			
+		]
+	}
+	else if (dtp=='201711')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.wikipedia.org' },
+			{ y: 1, label:   'en.wikipedia.org' }
+			
+		]
+	}
+	else if (dtp=='201712')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.ncbi.nlm.nih.gov' },
+			{ y: 1, label:   'www.nlm.nih.gov' },
+			{ y: 1, label:   'https://pubchem.ncbi.nlm.nih.gov' }
+			
+		]
+	}
+	else if (dtp=='201713')
+	{
+		dp = [                                         
+			{ y: 1, label:   'dl.acm.org' },
+			{ y: 1, label:   'doi.acm.org' },
+			{ y: 1, label:   'http://portal.acm.org/citation.cfm?id=1289260' }
+			
+		]
+	}
+	else if (dtp=='201714')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.tensorflow.org' }
+			
+		]
+	}
+	else if (dtp=='201715')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.transacl.org' }
+			
+		]
+	}
+	else if (dtp=='201716')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.statmt.org' },
+			{ y: 1, label:   'http://data.statmt.org/' }
+			
+		]
+	}
+	else if (dtp=='201717')
+	{
+		dp = [                                         
+			{ y: 1, label:   'bitbucket.org' }
+			
+		]
+	}
+	else if (dtp=='201718')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.cs.jhu.edu' },
+			{ y: 1, label:   'http://cs.jhu.edu/' }
+			
+		]
+	}
+	else if (dtp=='201719')
+	{
+		dp = [                                         
+			{ y: 1, label:   'hdl.handle.net' }
+			
+		]
+	}
+	else if (dtp=='20180')
+	{
+		dp = [                                         
+			{ y: 1, label:   'github.com' },
+			{ y: 1, label:   'https://gist.github.com/' },
+			{ y: 1, label:   'http://www.github.com/webis-de/ACL-18' }
+			
+		]
+	}
+	else if (dtp=='20181')
+	{
+		dp = [                                         
+			{ y: 1, label:   'aclweb.org' },
+			{ y: 1, label:   'anthology.aclweb.org' },
+			{ y: 1, label:   'http://www.anthology.aclweb.org/N/N13/N13-' }
+			
+		]
+	}
+	else if (dtp=='20182')
+	{
+		dp = [                                         
+			{ y: 1, label:   'arxiv.org' }
+			
+		]
+	}
+	else if (dtp=='20183')
+	{
+		dp = [                                         
+			{ y: 1, label:   'dl.acm.org' },
+			{ y: 1, label:   'doi.acm.org' }
+			
+		]
+	}
+	else if (dtp=='20184')
+	{
+		dp = [                                         
+			{ y: 1, label:   'nlp.stanford.edu' },
+			{ y: 1, label:   'https://kbpo.stanford.edu' },
+			{ y: 1, label:   'https://cs.stanford.edu/people/alecmgo/papers/' },
+			{ y: 1, label:   'http://nlp.stanford.edu:8080/corenlp/process' }
+			
+		]
+	}
+	else if (dtp=='20185')
+	{
+		dp = [                                         
+			{ y: 1, label:   'papers.nips.cc' }
+			
+		]
+	}
+	else if (dtp=='20186')
+	{
+		dp = [                                         
+			{ y: 1, label:   'en.wikipedia.org' }
+			
+		]
+	}
+	else if (dtp=='20187')
+	{
+		dp = [                                         
+			{ y: 1, label:   'catalog.ldc.upenn.edu' },
+			{ y: 1, label:   'https://www.ldc.upenn.edu/sites/' },
+			{ y: 1, label:    'www.ldc.upenn.edu/files/english-' },
+			{ y: 1, label:   'https://web.sas.upenn.edu/danielpr/resources/' },
+			{ y: 1, label:   'http://repository.upenn.edu/cis' },
+			{ y: 1, label:   'http://projects.ldc.upenn.edu/ace/' }
+			
+		]
+	}
+	else if (dtp=='20188')
+	{
+		dp = [                                         
+			{ y: 1, label:  'openreview.net' }
+			
+		]
+	}
+	else if (dtp=='20189')
+	{
+		dp = [                                         
+			{ y: 1, label:   'books.google.com' },
+			{ y: 1, label:   'sites.google.com' },
+			{ y: 1, label:   'code.google.com' },
+			{ y: 1, label:   'https://play.google.com/store?hl=en' },
+			{ y: 1, label:   'https://translate.google.com' },
+			{ y: 1, label:   'https://developers.google.com/' }
+			
+		]
+	}
+	else if (dtp=='201810')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.statmt.org' },
+			{ y: 1, label:   'http://data.statmt.org/wmt17/translation-' },
+			{ y: 1, label:   'matrix.statmt.org' }
+			
+		]
+	}
+	else if (dtp=='201811')
+	{
+		dp = [                                         
+			{ y: 1, label:   'spacy.io' }
+			
+		]
+	}
+	else if (dtp=='201812')
+	{
+		dp = [                                         
+			{ y: 1, label:   'nlp.cs.washington.edu' },
+			{ y: 1, label:   'homes.cs.washington.edu' }
+			
+		]
+	}
+	else if (dtp=='201813')
+	{
+		dp = [                                         
+			{ y: 1, label:   'www.tensorflow.org' }
+			
+		]
+	}
+	else if (dtp=='201814')
+	{
+		dp = [                                         
+			{ y: 1, label:   'doi.org' },
+			{ y: 1, label:   'dx.doi.org' }
+			
+		]
+	}
+	else if (dtp=='201815')
+	{
+		dp = [                                         
+			{ y: 1, label:   'transacl.org' }
+			
+		]
+	}
+	else if (dtp=='201816')
+	{
+		dp = [                                         
+			{ y: 1, label:   'lucene.apache.org' },
+			{ y: 1, label:   'https://lucenent.apache.org/' },
+			{ y: 1, label:   'opennlp.apache.org' },
+			{ y: 1, label:   'https://lucenenet.apache.org/' }
+			
+			
+		]
+	}
+	else if (dtp=='201817')
+	{
+		dp = [                                         
+			{ y: 1, label:   'bitbucket.org' }
+			
+		]
+	}
+	else if (dtp=='201818')
+	{
+		dp = [                                         
+			{ y: 1, label:   'saifmohammad.com' }
+			
+		]
+	}
+	else if (dtp=='201819')
+	{
+		dp = [                                         
+			{ y: 1, label:   'cogcomp.org' }
+			
+		]
+	}
+	else if (dtp=='201820')
+	{
+		dp = [                                         
+			{ y: 1, label:   'https://nltk.org' },
+			{ y: 1, label:   'www.nltk.org' }
+			
+		]
+	}
+	else
+	{
+	
+		dp = [                                         
+			{ y: 1, label: 'sayak' }
+			
+		]
+	}
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	var chart = new CanvasJS.Chart(res, {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	height: 320,
+	width: 900,
+	title:{
+		text: ''
+	},
+	axisX: {
+		interval: 1,
+		
+	},
+	axisY: {
+		title: ""
+	},
+	data: [{        
+		type: "column",  
+      	color: "#0303AC", 
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		legendText: "",
+		name : n2,
+		dataPoints: dp
+	}]
+});
+chart.render();
 
 
 }
+
+
+
+
+
 
 
 }
