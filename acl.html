@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0029)https://mayank4490.github.io/ -->
+
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	 <!-- begin SEO -->
 	<title>NLP Conference Analysis</title>
@@ -7,12 +7,14 @@
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="./sayak/main.css">
-	<link rel="stylesheet" href="./sayak/style2.css">
+	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="style2.css">
 <!--	 -->
 	 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 	 <script type="text/javascript" src="acl.js"></script>
 	 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+	 	<link rel="stylesheet" href="autocomplete.css">
+	<script type="text/javascript" src="autocomplete.js"></script>
 
 	
 	
@@ -32,11 +34,20 @@
 			
 			<ul class="visible-links">
 			
+				<li>
+				<form autocomplete="off" action="catch.html">
+						<div class="autocomplete" style="width:300px;">
+						<input id="myInput" type="text" name="myCountry" placeholder="Search Conference">
+						</div>
+						<input type="submit" value='go'>
+				</form>
+				</li>
+			
 				<li class="masthead__menu-item masthead__menu-item--lg">
 				
 					<a href="index.html">Home</a>
 				</li>
-
+				
 				<li class="masthead__menu-item">
 					<a href="acl.html">ACL</a>
 				</li>
@@ -218,7 +229,9 @@
 			</div>
 		</article>
 	</div>
-
+<script>
+autocomplete(document.getElementById("myInput"), countries);
+</script>
 
 
 

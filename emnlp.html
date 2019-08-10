@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0029)https://mayank4490.github.io/ -->
+
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	 <!-- begin SEO -->
 	<title>NLP Conference Analysis</title>
@@ -7,12 +7,22 @@
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="./sayak/main.css">
-	<link rel="stylesheet" href="./sayak/style2.css">
+	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="style2.css">
 		<script type="text/javascript" src="emnlp.js"></script>
 	<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 	
 	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+	
+	
+	
+	
+	
+	
+	
+	
+	<link rel="stylesheet" href="autocomplete.css">
+	<script type="text/javascript" src="autocomplete.js"></script>
 	
 
 </head>
@@ -27,6 +37,15 @@
 				</div>
 			</button>
 			<ul class="visible-links">
+				
+				<li>
+				<form autocomplete="off" action="catch.html">
+						<div class="autocomplete" style="width:300px;">
+						<input id="myInput" type="text" name="myCountry" placeholder="Search Conference">
+						</div>
+						<input type="submit" value='go'>
+				</form>
+				</li>
 				<li class="masthead__menu-item masthead__menu-item--lg">
 					<a href="index.html">Home</a>
 				</li>
@@ -121,44 +140,17 @@
 					
 					
 					
-					<h1 class="page__title" itemprop="headline">6) Avg. Number of URLS per paper per Year (Click on bar for primary url domains)
-					</h1>
+					<h1 class="page__title" itemprop="headline">6) Avg. Number of URLS per paper per Year (click on bar for primary url domains) </h1>
 				
-					<div id="chartContainer6" style="height: 370px; width: 100%;"></div>
+					 <div id="chartContainer6wrapper">
+					 <div id="chartContainer6" style="height: 370px; width: 100%;"></div>
+					 <br>
+					 <h3 class="page__title" itemprop="headline">6.1 Primary URL Domains (click on a bar above) </h3>
+					 <div id="chartContainer6details" class="size_fix" > </div>
+					 <h3 class="page__title" itemprop="headline">6.2 Full URLs (click on a bar above) </h3>
+					 <div id="chartContainer6details2"  class="size_fix" > </div>
 					
-					
-					
-					<div id="chartContainer1996" class="size_fix" style="display:none"></div>
-					<div id="chartContainer1997" class="size_fix" style="display:none"></div>
-					<div id="chartContainer1998" class="size_fix" style="display:none"></div>
-					<div id="chartContainer1999" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2000" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2001" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2002" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2003" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2004" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2005" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2006" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2007" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2008" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2009" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2010" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2011" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2012" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2013" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2014" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2015" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2016" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2017" class="size_fix" style="display:none"></div>
-					<div id="chartContainer2018" class="size_fix" style="display:none"></div>
-					
-					
-					
-					
-					
-					
-					
-					<br><br><br>
+					 </div>
 
 				<h1 class="page__title" itemprop="headline">7) Avg. number of URLs in Footnote per Paper per Year
 					</h1>
@@ -213,10 +205,8 @@
 			</div>
 		</article>
 	</div>
-
-
-
-<script src="./Dr. Mayank Singh_files/main.js.download">
+<script>
+autocomplete(document.getElementById("myInput"), countries);
 </script>
 
 

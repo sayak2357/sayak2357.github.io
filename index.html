@@ -6,10 +6,15 @@
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="./sayak/main.css">
-	<link rel="stylesheet" href="./sayak/style2.css">
+	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="style2.css">
 	
 	
+	
+	
+	
+	<link rel="stylesheet" href="autocomplete.css">
+	<script type="text/javascript" src="autocomplete.js"></script>
 
 </head>
 
@@ -24,9 +29,24 @@
 				</div>
 			</button>
 			<ul class="visible-links">
+			
+			
+			
+				<li>
+				<form autocomplete="off" action="catch.html">
+						<div class="autocomplete" style="width:300px;">
+						<input id="myInput" type="text" name="myCountry" placeholder="Search Conference">
+						</div>
+						<input type="submit" value='go'>
+				</form>
+				</li>
+				
+				
+				
 				<li class="masthead__menu-item masthead__menu-item--lg">
 					<a href="index.html">Home</a>
 				</li>
+				
 
 				<li class="masthead__menu-item">
 					<a href="acl.html">ACL</a>
@@ -126,7 +146,9 @@
 		</article>
 	</div>
 
-
+<script>
+autocomplete(document.getElementById("myInput"), countries);
+</script>
 
 
 
