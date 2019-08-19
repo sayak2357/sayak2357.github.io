@@ -1923,7 +1923,7 @@ function onClick(e) {
 		else if(dt==2006){
 			dp = [                                         
 			{ y: 9, label: 'nyu.edu' },
-			{ y: 11, label: 'nist.gov' },
+			{ y: 9, label: 'nist.gov' },
 			{ y: 8,  label: 'chasen.org' },          
 			{ y: 2,  label: 'aist-nara.ac.jp' },
 			{ y: 6,  label: 'www.isi.edu' },
