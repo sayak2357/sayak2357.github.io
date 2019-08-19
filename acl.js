@@ -1949,7 +1949,7 @@ function onClick(e) {
 		else if(dt==2007){
 			dp = [                                         
 			{ y: 6, label: 'chasen.org' }, 
-			{ y: 6, label: 'sourceforge.net' },
+			{ y: 12, label: 'sourceforge.net' },
 			{ y: 6,  label: 'www.isi.edu' },          
 			{ y: 11,  label: 'upenn.edu' },
 			{ y: 4,  label: 'www.statmt.org' },
@@ -1975,7 +1975,7 @@ function onClick(e) {
 		else if(dt==2008){
 			dp = [                                         
 			{ y: 7, label: 'www.statmt.org' },                    
-			{ y: 6, label: 'stanford.edu' },
+			{ y: 7, label: 'stanford.edu' },
 			{ y: 4,  label: 'chasen.org' },          
 			{ y: 5,  label: 'cam.ac.uk' },
 			{ y: 4,  label: 'cmu.edu' },
@@ -1983,7 +1983,7 @@ function onClick(e) {
 			{ y: 2,  label: 'ualberta.ca'},
 			{ y: 4,  label: 'homepages.inf.ed.ac.uk' },
 			{ y: 14, label: 'www.nist.gov' },
-			{ y: 11, label:  'upenn.edu' },
+			{ y: 10, label:  'upenn.edu' },
 			{ y: 3, label: 'www.w3.org' },           
 			{ y: 3,  label: 'princeton.edu' },
 			{ y: 6,  label: 'hal3.name' },
