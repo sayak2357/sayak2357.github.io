@@ -3760,7 +3760,7 @@ function onClick2(e)
 	{
 		dp =  [                                         
 			{ y: 1, label:  'http://trec.nist.gov/data/reuters/' },
-			{ y: 2, label:  'www-nlpir.nist.gov' },
+			{ y: 1, label:  'www-nlpir.nist.gov' },
 			{ y: 4, label:  'www.nist.gov' }
 			
 		]
