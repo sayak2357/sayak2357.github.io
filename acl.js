@@ -1870,7 +1870,7 @@ function onClick(e) {
 		}
 		else if(dt==2004){
 			dp = [                                         
-			{ y: 7, label: 'www.nist.gov' },         
+			{ y: 10, label: 'www.nist.gov' },         
 			{ y: 5, label: 'www.isi.edu' },
 			{ y: 4,  label: 'att.com' },          
 			{ y: 4,  label: 'www.senseval.org' },
