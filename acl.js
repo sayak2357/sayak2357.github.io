@@ -3034,7 +3034,7 @@ function onClick2(e)
 	else if (dtp=='20025')
 	{
 		dp =   [                                         
-			{ y: 1, label:  'http://research.microsoft.com/~dmax/WinMine/Tool' }
+			{ y: 3, label:  'http://research.microsoft.com/~dmax/WinMine/Tool' }
 			
 		]
 	}
