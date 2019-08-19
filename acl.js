@@ -2002,12 +2002,12 @@ function onClick(e) {
 			dp = [                                         
 			{ y: 9, label: 'stanford.edu' },          
 			{ y: 8, label: 'www.statmt.org' },
-			{ y: 13,  label: 'www.nist.gov' },          
-			{ y: 6,  label: 'upenn.edu' },
-			{ y: 6,  label: 'wikipedia.org' },
+			{ y: 15,  label: 'www.nist.gov' },          
+			{ y: 12,  label: 'upenn.edu' },
+			{ y: 8,  label: 'wikipedia.org' },
 			{ y: 8, label: 'google.com' },
 			{ y: 4,  label: 'ualberta.ca' },
-			{ y: 14,  label: 'sourceforge.net' },
+			{ y: 15,  label: 'sourceforge.net' },
 			{ y: 4, label: 'svmlight.joachims.org' },
 			{ y: 4, label:  'apache.org' },
 			{ y: 3, label: 'colorado.edu' },           
@@ -2026,7 +2026,7 @@ function onClick(e) {
 		}
 		else if(dt==2010){
 			dp = [                                         
-			{ y: 14, label: 'www.nist.gov' },
+			{ y: 24, label: 'www.nist.gov' },
 			{ y: 13, label: 'stanford.edu' },
 			{ y: 8,  label: 'umass.edu' },          
 			{ y: 7,  label: 'ntu.edu.tw' },
@@ -2088,7 +2088,7 @@ function onClick(e) {
 			{ y: 4,  label: 'apache.org' },
 			{ y: 13, label: 'sourceforge.net'},
 			{ y: 7, label:  'nist.gov' },
-			{ y: 4, label: 'mit.edu' },           
+			{ y: 5, label: 'mit.edu' },           
 			{ y: 8,  label: 'upenn.edu' },
 			{ y: 4,  label: 'unitn.it' },
 			{ y: 3,  label: 'lemurproject.org' },
@@ -3997,7 +3997,7 @@ function onClick2(e)
 	else if (dtp=='200817')
 	{
 		dp =  [                                         
-			{ y: 1, label:  'alchemy.cs.washington.edu' }
+			{ y: 2, label:  'alchemy.cs.washington.edu' }
 			
 		]
 	}
@@ -4054,10 +4054,9 @@ function onClick2(e)
 	else if (dtp=='20094')
 	{
 		dp =  [                                         
-			{ y: 1, label:  'http://www.wikipedia.org/'},
 			{ y: 1, label:   'download.wikipedia.org' },
 			{ y: 6, label:   'en.wikipedia.org' },
-			{ y: 6, label:   'ja.wikipedia.org' }
+			{ y: 1, label:   'ja.wikipedia.org' }
 			
 			
 			
@@ -4127,7 +4126,7 @@ function onClick2(e)
 	else if (dtp=='200912')
 	{
 		dp = [                                         
-			{ y: 1, label:  'nlp.kuee.kyoto-u.ac.jp' }
+			{ y: 3, label:  'nlp.kuee.kyoto-u.ac.jp' }
 			
 		]
 	}
@@ -4266,7 +4265,7 @@ function onClick2(e)
 	else if (dtp=='20108')
 	{
 		dp = [                                         
-			{ y: 1, label:   'www.google.com' },
+			{ y: 3, label:   'www.google.com' },
 			{ y: 5, label:   'translate.google.com' },
 			{ y: 5, label:   'code.google.com' },
 			{ y: 2, label:   'news.google.com' }
@@ -4621,7 +4620,9 @@ function onClick2(e)
 	else if (dtp=='201210')
 	{
 		dp = [                                         
-			{ y: 3, label:  'groups.csail.mit.edu' }
+			{ y: 3, label:  'groups.csail.mit.edu' },
+			{ y: 1, label:  'http://jmlr.csail.mit.edu/papers/volume5/lewis04a/a11-smart-stop-' },
+			{ y: 1, label:  'http://people.csail.mit.edu/jrennie/20Newsgroups' }
 			
 		]
 	}
