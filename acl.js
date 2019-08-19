@@ -3419,8 +3419,7 @@ function onClick2(e)
 	else if (dtp=='200419')
 	{
 		dp =  [                                         
-			{ y: 1, label:  'http://www.dcs.shef.ac' },
-			{ y: 1, label:  'http://www.dcs.shef.ac.uk' }
+			{ y: 1, label:  'http://www.dcs.shef.ac' }
 			
 		]
 	}
