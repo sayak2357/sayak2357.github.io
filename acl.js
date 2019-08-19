@@ -3474,7 +3474,7 @@ function onClick2(e)
 	else if (dtp=='20056')
 	{
 		dp =  [                                         
-			{ y: 1, label:  'http://ldc.upenn.edu/projects/tides/' },
+
 			{ y: 2, label:  'www.cis.upenn.edu' },
 			{ y: 3, label:  'www.ldc.upenn.edu' }
 			
