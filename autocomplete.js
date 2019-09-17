@@ -1,6 +1,6 @@
-var countries = ["acl","emnlp","naacl"];
+var countries = ["acl","emnlp","naacl","anlp"];
 
-autocomplete(document.getElementById("myInput"), countries);
+
 
 function autocomplete(inp, arr) {
   /*the autocomplete function takes two arguments,
