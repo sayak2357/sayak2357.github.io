@@ -1046,7 +1046,8 @@ var chart = new CanvasJS.Chart("chartContainer10", {
 		legendMarkerColor: "grey",
 		name: "EMNLP : Most Popular primary URL domains & their Frequencies",
 		legendText: "",
-		dataPoints: [      
+		dataPoints: [
+			{ y: 104,  label: 'upenn.edu' },		
 			{ y: 825, label: 'github.com' },                           
 			{ y: 315,  label: 'www.aclweb.org' },
 			{ y: 193,  label: 'nlp.stanford.edu' },    
@@ -1057,7 +1058,6 @@ var chart = new CanvasJS.Chart("chartContainer10", {
 			{ y: 101, label: 'www.nist.gov' },
 			{ y: 42,  label: 'mallet.cs.umass.edu' },
 			{ y: 42,  label: 'www.cs.cmu.edu' },
-			{ y: 104,  label: 'upenn.edu' },
 			{ y: 36,  label: 'www.csie.ntu.edu.tw' },
 			{ y: 36, label: 'sourceforge.net' },
 			{ y: 29,  label: 'svmlight.joachims.org' },
@@ -1188,7 +1188,8 @@ var chart = new CanvasJS.Chart("chartContainer12", {
 		legendMarkerColor: "grey",
 		name: "EMNLP : Top University Pages",
 		legendText: "",
-		dataPoints: [                                         
+		dataPoints: [      
+			{ y: 19,  label: 'MIT' },
 			{ y: 79, label: 'University of Washington' },                         
 			{ y: 73,label: 'Carnegie Mellon University Silicon Valley' },
 			{ y: 45,  label: 'Stanford University' },
@@ -1207,8 +1208,8 @@ var chart = new CanvasJS.Chart("chartContainer12", {
 			{ y: 21, label: 'Brown University' },
 			{ y: 20,  label: 'Institute for Logic' },
 			{ y: 20,  label: 'Harbin Institute of Technology' },
-			{ y: 20,  label: 'University of Edinburgh' },
-			{ y: 19,  label: 'MIT' }
+			{ y: 20,  label: 'University of Edinburgh' }
+			
 		]
 	}]
 });

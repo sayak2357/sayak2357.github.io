@@ -809,7 +809,8 @@ var chart = new CanvasJS.Chart("chartContainer10", {
 		legendMarkerColor: "grey",
 		name: "NAACL: Most Popular primary URL domains & their Frequencies",
 		legendText: "",
-		dataPoints: [      
+		dataPoints: [  
+			{ y: 47,  label: 'nist.gov' },
 			{ y: 559, label: 'www.aclweb.org' },   
 			{ y: 374,label: 'github.com' },
 			{ y: 151,  label: 'arxiv.org' },
@@ -823,7 +824,6 @@ var chart = new CanvasJS.Chart("chartContainer10", {
 			{ y: 22,  label: 'papers.nips.cc ' },
 			{ y: 63,  label: 'upenn.edu' },
 			{ y: 19, label: 'www.isi.edu' },
-			{ y: 47,  label: 'nist.gov' },
 			{ y: 44,  label: 'cs.cmu.edu' },
 			{ y: 16, label: 'bitbucket.org' },
 			{ y: 14,  label: 'www.csie.ntu.edu.tw' },
@@ -956,7 +956,8 @@ var chart = new CanvasJS.Chart("chartContainer12", {
 		legendMarkerColor: "grey",
 		name: "NAACL : Top University Pages",
 		legendText: "",
-		dataPoints: [                                         
+		dataPoints: [
+			{ y: 12, label: 'AT&T' },
 			{ y: 30, label: 'Stanford University' },
 			{ y: 24,label: 'University of Washington' },
 			{ y: 23,  label: 'UC Berkeley' },
@@ -969,7 +970,6 @@ var chart = new CanvasJS.Chart("chartContainer12", {
 			{ y: 16,  label: 'University of Southern California' },
 			{ y: 16,  label: 'Brown University' },
 			{ y: 13,  label: 'The Grand Garage' },
-			{ y: 12, label: 'AT&T' },
 			{ y: 12,  label: 'University of Pittsburgh' },
 			{ y: 12,  label: 'Carnegie Mellon University' },
 			{ y: 11, label: 'Institute of Scientific Information on Social Sciences of the Russian Academy of Sciences' },

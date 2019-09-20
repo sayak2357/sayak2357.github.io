@@ -1178,7 +1178,8 @@ var chart = new CanvasJS.Chart("chartContainer10", {
 		legendMarkerColor: "grey",
 		name: "ACL : Most Popular primary URL domains & their Frequencies",
 		legendText: "",
-		dataPoints: [      
+		dataPoints: [
+			{ y: 36, label: 'www.isi.edu' },		
 			{ y: 1529, label: 'www.aclweb.org' },
 			{ y: 685,  label: 'github.com' },
 			{ y: 368,  label: 'arxiv.org' },
@@ -1194,7 +1195,6 @@ var chart = new CanvasJS.Chart("chartContainer10", {
 			{ y: 48, label: 'www.csie.ntu.edu.tw' },
 			{ y: 116,  label: 'upenn.edu' },
 			{ y: 40,  label: 'sourceforge.net' },
-			{ y: 36, label: 'www.isi.edu' },
 			{ y: 35,  label: 'dx.doi.org' },
 			{ y: 33,  label: 'homepages.inf.ed.ac.uk' },
 			{ y: 29,  label: 'nlp.cs.nyu.edu' },
@@ -1294,7 +1294,8 @@ var chart = new CanvasJS.Chart("chartContainer12", {
 		legendMarkerColor: "grey",
 		name: "ACL : Top University Pages",
 		legendText: "",
-		dataPoints: [                                         
+		dataPoints: [   
+			{ y: 28,  label: 'MIT' },
 			{ y: 79, label: 'Penn Museum' },
 			{ y: 73,label: 'Stanford University' },
 			{ y: 45,  label: 'University of Edinburgh' },
@@ -1304,7 +1305,6 @@ var chart = new CanvasJS.Chart("chartContainer12", {
 			{ y: 31,  label: 'University of Washington' },
 			{ y: 30, label: 'Johns Hopkins Hospital' },
 			{ y: 29,  label: 'Carnegie Mellon University Silicon Valley' },
-			{ y: 28,  label: 'MIT' },
 			{ y: 26,  label: 'Brown University' },
 			{ y: 25,  label: 'Institutt for datateknikk og informasjonsvitenskap' },
 			{ y: 24, label: 'Harvard University' },
