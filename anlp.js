@@ -652,6 +652,9 @@ var chart = new CanvasJS.Chart("chartContainer11", {
 	title:{
 		text: ""
 	},
+	axisX: {
+		interval: 1
+	},
 	axisY: {
 		title: ""
 	},

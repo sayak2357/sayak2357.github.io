@@ -796,6 +796,9 @@ var chart = new CanvasJS.Chart("chartContainer10", {
 	title:{
 		text: ""
 	},
+	axisX: {
+		interval: 1
+	},
 	axisY: {
 		title: ""
 	},
@@ -863,6 +866,9 @@ var chart = new CanvasJS.Chart("chartContainer11", {
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
 	title:{
 		text: ""
+	},
+	axisX: {
+		interval: 1
 	},
 	axisY: {
 		title: ""
@@ -936,6 +942,9 @@ var chart = new CanvasJS.Chart("chartContainer12", {
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
 	title:{
 		text: ""
+	},
+	axisX: {
+		interval: 1
 	},
 	axisY: {
 		title: ""
@@ -1595,7 +1604,7 @@ function onClick(e) {
 			{ y: 2, label: 'opensubtitles.org' },            
 			{ y: 2, label: 'clg.ox.ac.uk' },
 			{ y: 2, label: 'usyd.edu.au' },
-			{ y: 2, label: 'isi.edu' }
+			{ y: 3, label: 'isi.edu' }
 			
 		]
 		}

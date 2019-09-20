@@ -1165,6 +1165,9 @@ var chart = new CanvasJS.Chart("chartContainer10", {
 	title:{
 		text: ""
 	},
+	axisX: {
+		interval: 1
+	},
 	axisY: {
 		title: ""
 	},
@@ -1216,6 +1219,9 @@ var chart = new CanvasJS.Chart("chartContainer11", {
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
 	title:{
 		text: ""
+	},
+	axisX: {
+		interval: 1
 	},
 	axisY: {
 		title: ""
@@ -1274,6 +1280,9 @@ var chart = new CanvasJS.Chart("chartContainer12", {
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
 	title:{
 		text: ""
+	},
+	axisX: {
+		interval: 1
 	},
 	axisY: {
 		title: ""
@@ -2159,9 +2168,9 @@ function onClick(e) {
 		}
 		else if(dt==2015){
 			dp = [                                         
-			{ y: 73, label: 'github.com' },
+			{ y: 72, label: 'github.com' },
 			{ y: 61, label: 'google.com' },
-			{ y: 40,  label: 'stanford.edu' },              
+			{ y: 46,  label: 'stanford.edu' },              
 			{ y: 27,  label: 'wikipedia.org' },                 
 			{ y: 10,  label: 'microsoft.com' },
 			{ y: 12, label: 'www.statmt.org' },
@@ -2176,7 +2185,7 @@ function onClick(e) {
 			{ y: 4, label: 'illinois.edu'},
 			{ y: 11, label: 'apache.org' },
 			{ y: 4,  label: 'www.natcorp.ox.ac.uk' },
-			{ y: 7, label: 'unitn.it'  },
+			{ y: 8, label: 'unitn.it'  },
 			{ y: 4,  label: 'pitt.edu' },
 			{ y: 4, label: 'priberam.com' }
 			
@@ -2189,7 +2198,7 @@ function onClick(e) {
 		else if(dt==2016){
 			dp = [                                         
 			{ y: 136, label: 'github.com' },    
-			{ y: 47, label: 'google.com' },
+			{ y: 49, label: 'google.com' },
 			{ y: 22,  label: 'stanford.edu' },              
 			{ y: 16,  label: 'upenn.edu' },                 
 			{ y: 13,  label: 'www.statmt.org' },
@@ -5014,7 +5023,7 @@ function onClick2(e)
 		dp = [
 			{ y: 1, label:   'http://maven.apache.org/' },
 			{ y: 5, label:   'opennlp.apache.org' },
-			{ y: 3, label:   'lucene.apache.org' },,
+			{ y: 3, label:   'lucene.apache.org' },
 			{ y: 1, label:   'http://storm.incubator.apache.org/' },
 			{ y: 1, label:   'http://uima.apache.org/' }
 			
@@ -5384,7 +5393,7 @@ function onClick2(e)
 	else if (dtp=='201618')
 	{
 		dp = [                                         
-			{ y: 1, label:   'universaldependencies.org' }
+			{ y: 4, label:   'universaldependencies.org' }
 			
 		]
 	}

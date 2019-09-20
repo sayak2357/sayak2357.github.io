@@ -1033,6 +1033,9 @@ var chart = new CanvasJS.Chart("chartContainer10", {
 	title:{
 		text: ""
 	},
+	axisX: {
+		interval: 1
+	},
 	axisY: {
 		title: ""
 	},
@@ -1104,6 +1107,9 @@ var chart = new CanvasJS.Chart("chartContainer11", {
 	title:{
 		text: ""
 	},
+	axisX: {
+		interval: 1
+	},
 	axisY: {
 		title: ""
 	},
@@ -1168,6 +1174,9 @@ var chart = new CanvasJS.Chart("chartContainer12", {
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
 	title:{
 		text: ""
+	},
+	axisX: {
+		interval: 1
 	},
 	axisY: {
 		title: ""
@@ -1701,7 +1710,7 @@ function onClick(e) {
 			{ y: 1, label: 'slate.com' },
 			{ y: 1, label: 'lanl.gov'},
 			{ y: 2, label: 'sourceforge.net' },
-			{ y: 1, label: 'uvt.nl' },
+			{ y: 2, label: 'uvt.nl' },
 			{ y: 2, label: 'uia.ac.be' },
 			{ y: 3, label: 'mitre.org' }
 			
@@ -1777,7 +1786,7 @@ function onClick(e) {
 			{ y: 6, label: 'berkeley.edu' },
 			{ y: 8, label: 'upenn.edu' },
 			{ y: 5, label: 'cmu.edu' },
-			{ y: 2, label: 'wikimedia.org' },
+			{ y: 3, label: 'wikimedia.org' },
 			{ y: 3, label: 'chasen.org' },
 			{ y: 3, label: 'nih.gov'},
 			{ y: 3, label: 'kyoto-u.ac.jp' },
@@ -2162,7 +2171,7 @@ function onClick2(e)
 	else if (dtp=='19997')
 	{
 		dp = [                                         
-			{ y: 2, label: 'http://www.dcs.shef.ac.uk/research/ilash' }			
+			{ y: 1, label: 'http://www.dcs.shef.ac.uk/research/ilash' }			
 		]
 	}
 	else if (dtp=='20000')
@@ -2691,13 +2700,13 @@ function onClick2(e)
 	else if (dtp=='200513')
 	{
 		dp = [                                         
-			{ y: 1, label: 'l2r.cs.uiuc.edu' }			
+			{ y: 2, label: 'l2r.cs.uiuc.edu' }			
 		]
 	}
 	else if (dtp=='200514')
 	{
 		dp = [                                         
-			{ y: 1, label: 'nrrc.mitre.org' }			
+			{ y: 2, label: 'nrrc.mitre.org' }			
 		]
 	}
 	else if (dtp=='200515')
