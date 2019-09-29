@@ -1,4 +1,4 @@
-var countries = ["acl","emnlp","naacl","anlp","cl"];
+var countries = ["ACL","EMNLP","NAACL","ANLP","CL"];
 
 
 
