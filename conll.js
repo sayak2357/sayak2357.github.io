@@ -1681,12 +1681,12 @@ function onClick(e) {
 		}
 		else if(dt==2017)
 		{
-			dp= [                                         
-			{ y: 35, label: 'github.com' },                                                               
+			dp= [ 
+			{ y: 63, label: 'doi.org'  },                                                               
 			{ y: 10, label: 'arxiv.org' },
 			{ y: 2, label: 'spacy.io'},
 			{ y: 161, label: 'aclweb.org' },
-			{ y: 63, label: 'doi.org'  },
+			{ y: 35, label: 'github.com' },
 			{ y: 10, label: 'acm.org' },
 			{ y: 8, label: 'nips.cc' },
 			{ y: 5, label: 'jmlr.org' },
@@ -3814,7 +3814,7 @@ function onClick2(e)
 			{ y: 1, label:  'http://alt.qcri.org/semeval2014/' }
 		]
 	}
-	else if (dtp=='20170')
+	else if (dtp=='20174')
 	{
 		dp = [                                         
 			{ y: 31, label:  'github.com' },
@@ -3842,7 +3842,7 @@ function onClick2(e)
 			{ y: 5, label:  'anthology.aclweb.org' }
 		]
 	}
-	else if (dtp=='20174')
+	else if (dtp=='20170')
 	{
 		dp = [                                         
 			
