@@ -909,52 +909,52 @@ var chart = new CanvasJS.Chart("chartContainer7", {
 			
 			
 			
-			{ y:0, x: new Date(1974,0) },
-			{ y:0, x: new Date(1975,0) },
-			{ y:0, x: new Date(1976,0) },
-			{ y:0, x: new Date(1977,0) },
-			{ y:0, x: new Date(1978,0) },
+			{ y:0.0, x: new Date(1974,0) },
+			{ y:0.0, x: new Date(1975,0) },
+			{ y:0.0, x: new Date(1976,0) },
+			{ y:0.0, x: new Date(1977,0) },
+			{ y:0.0, x: new Date(1978,0) },
 			{ y:0, x: new Date(1979,0) },
-			{ y:0, x: new Date(1980,0) },
-			{ y:0, x: new Date(1981,0) },
-			{ y:0, x: new Date(1982,0) },
-			{ y:0, x: new Date(1983,0) },
-			{ y:0, x: new Date(1984,0) },
-			{ y:0, x: new Date(1985,0) },
-			{ y:0, x: new Date(1986,0) },
-			{ y:0, x: new Date(1987,0) },
-			{ y:0, x: new Date(1988,0) },
-			{ y:0, x: new Date(1989,0) },
-			{ y:0, x: new Date(1990,0) },
-			{ y:0, x: new Date(1991,0) },
-			{ y:0, x: new Date(1992,0) },
-			{ y:0, x: new Date(1993,0) },
-			{ y:0, x: new Date(1994,0) },
-			{ y:0, x: new Date(1995,0) },
-			{ y:0, x: new Date(1996,0) },
-			{ y:0, x: new Date(1997,0) },
-			{ y:0, x: new Date(1998,0) },
-			{ y:0, x: new Date(1999,0) },
-			{ y:0, x: new Date(2000,0) },
-			{ y:0, x: new Date(2001,0) },
-			{ y:1, x: new Date(2002,0) },
-			{ y:1, x: new Date(2003,0) },
-			{ y:1, x: new Date(2004,0) },
-			{ y:0, x: new Date(2005,0) },
-			{ y:0, x: new Date(2006,0) },
-			{ y:7, x: new Date(2007,0) },
-			{ y:3, x: new Date(2008,0) },
-			{ y:6, x: new Date(2009,0) },
-			{ y:11, x: new Date(2010,0) },
-			{ y:30, x: new Date(2011,0) },
-			{ y:13, x: new Date(2012,0) },
-			{ y:42, x: new Date(2013,0) },
-			{ y:34, x: new Date(2014,0) },
-			{ y:34, x: new Date(2015,0) },
-			{ y:18, x: new Date(2016,0) },
-			{ y:22, x: new Date(2017,0) },
-			{ y:37, x: new Date(2018,0) },
-			{ y:4, x: new Date(2019,0) }
+			{ y:0.0, x: new Date(1980,0) },
+			{ y:0.0, x: new Date(1981,0) },
+			{ y:0.0, x: new Date(1982,0) },
+			{ y:0.0, x: new Date(1983,0) },
+			{ y:0.0, x: new Date(1984,0) },
+			{ y:0.0, x: new Date(1985,0) },
+			{ y:0.0, x: new Date(1986,0) },
+			{ y:0.0, x: new Date(1987,0) },
+			{ y:0.0, x: new Date(1988,0) },
+			{ y:0.0, x: new Date(1989,0) },
+			{ y:0.0, x: new Date(1990,0) },
+			{ y:0.0, x: new Date(1991,0) },
+			{ y:0.0, x: new Date(1992,0) },
+			{ y:0.0, x: new Date(1993,0) },
+			{ y:0.0, x: new Date(1994,0) },
+			{ y:0.0, x: new Date(1995,0) },
+			{ y:0.0, x: new Date(1996,0) },
+			{ y:0.0, x: new Date(1997,0) },
+			{ y:0.0, x: new Date(1998,0) },
+			{ y:0.0, x: new Date(1999,0) },
+			{ y:0.0, x: new Date(2000,0) },
+			{ y:0.0, x: new Date(2001,0) },
+			{ y:0.038461538461538464, x: new Date(2002,0) },
+			{ y:0.037037037037037035, x: new Date(2003,0) },
+			{ y:0.043478260869565216, x: new Date(2004,0) },
+			{ y:0.0, x: new Date(2005,0) },
+			{ y:0.0, x: new Date(2006,0) },
+			{ y:0.1891891891891892, x: new Date(2007,0) },
+			{ y:0.09375, x: new Date(2008,0) },
+			{ y:0.1935483870967742, x: new Date(2009,0) },
+			{ y:0.2619047619047619, x: new Date(2010,0) },
+			{ y:0.6976744186046512, x: new Date(2011,0) },
+			{ y:0.3611111111111111, x: new Date(2012,0) },
+			{ y:1.2352941176470589, x: new Date(2013,0) },
+			{ y:1.0303030303030303, x: new Date(2014,0) },
+			{ y:1.2142857142857142, x: new Date(2015,0) },
+			{ y:0.6428571428571429, x: new Date(2016,0) },
+			{ y:0.88, x: new Date(2017,0) },
+			{ y:1.1935483870967742, x: new Date(2018,0) },
+			{ y:1.0, x: new Date(2019,0) }
 		]
 		},
 		]
@@ -1688,7 +1688,6 @@ function onClick(e) {
 			{ y: 1, label: 'aol.com' },
 			{ y: 1, label: 'singladura.com' },
 			{ y: 1, label: 'cordis.lu' },
-			{ y: 3, label: 'upenn.edu' },
 			{ y: 1, label: 'utdallas.edu' },
 			{ y: 1, label: 'brandeis.edu' },
 			{ y: 1, label: 'unikarlsruhe.de' },
@@ -2075,7 +2074,7 @@ function onClick(e) {
 	var chart = new CanvasJS.Chart(res, {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	height: 320,
+	height: 400,
 	width: 900,
 	title:{
 		text: yr
@@ -2964,64 +2963,57 @@ function onClick2(e)
 		dp = [                                         
 			{ y: 1, label: 'http://dbs.cordis.lu' }			
 		]
-	}else if (dtp=='200410')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.ldc.upenn.edu/' },
-			{ y: 1, label: 'www.cis.upenn.edu' },
-			{ y: 1, label: 'http://morph.ldc.upenn.edu/Projects/Chinese/LDC' }
-		]
 	}
-	else if (dtp=='200411')
+	else if (dtp=='200410')
 	{
 		dp = [                                         
 			{ y: 1, label: 'http://xwn.hlt.utdallas.edu/papers.html' }			
 		]
 	}
-	else if (dtp=='200412')
+	else if (dtp=='200411')
 	{
 		dp = [                                         
 			{ y: 1, label: 'http://www.cs.brandeis.edu/paulb/CoreLex/corelex.html' }			
 		]
 	}
-	else if (dtp=='200413')
+	else if (dtp=='200412')
 	{
 		dp = [                                         
 			{ y: 1, label: 'http://www.aifb.unikarlsruhe.de/WBS/ysu/publications/eon2002' }			
 		]
 	}
-	else if (dtp=='200414')
+	else if (dtp=='200413')
 	{
 		dp = [                                         
 			{ y: 2, label: 'ol2000.aifb.uni-karlsruhe.de' },
 			{ y: 1, label: 'http://ol2001.aifb.uni-karlsruhe.de/' }
 		]
 	}
-	else if (dtp=='200415')
+	else if (dtp=='200414')
 	{
 		dp = [                                         
 			{ y: 1, label: 'http://www-i6.Informatik' }			
 		]
 	}
-	else if (dtp=='200416')
+	else if (dtp=='200415')
 	{
 		dp = [                                         
 			{ y: 1, label: 'http://edres.org/betsy/' }			
 		]
 	}
-	else if (dtp=='200417')
+	else if (dtp=='200416')
 	{
 		dp = [                                         
 			{ y: 1, label: 'http://www.wjh.harvard.edu/' }			
 		]
 	}
-	else if (dtp=='200418')
+	else if (dtp=='200417')
 	{
 		dp = [                                         
 			{ y: 1, label: 'http://www.indiana.edu/socpsy/ACT/' }			
 		]
 	}
-	else if (dtp=='200419')
+	else if (dtp=='200418')
 	{
 		dp = [                                         
 			{ y: 1, label: 'http://cswww.essex.ac.uk/staff/poesio/cbc/' }			
@@ -4789,7 +4781,7 @@ function onClick2(e)
 	var chart = new CanvasJS.Chart(res, {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	height: 320,
+	height: 400,
 	width: 900,
 	title:{
 		text: ''

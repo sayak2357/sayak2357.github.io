@@ -2293,7 +2293,7 @@ function onClick(e) {
 	var chart = new CanvasJS.Chart(res, {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	height: 320,
+	height: 400,
 	width: 900,
 	title:{
 		text: yr
@@ -5782,7 +5782,7 @@ function onClick2(e)
 	var chart = new CanvasJS.Chart(res, {
 	animationEnabled: true,
 	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	height: 320,
+	height: 400,
 	width: 900,
 	title:{
 		text: ''
