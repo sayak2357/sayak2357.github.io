@@ -9,29 +9,25 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="main.css">
 	<link rel="stylesheet" href="style2.css">
-<!--	 -->
-	 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-	 <script type="text/javascript" src="acl.js"></script>
-	 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 	<link rel="stylesheet" href="autocomplete.css">
-	<script type="text/javascript" src="autocomplete.js"></script>
-
+		<script type="text/javascript" src="tacl.js"></script>
+	<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 	
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+	
+	
+	
+	
+	
+	
+	
+	
+	<link rel="stylesheet" href="autocomplete.css">
+	<script type="text/javascript" src="autocomplete.js"></script>
 	
 
 </head>
 
-<body data-gr-c-s-loaded="true" style="" >
-
+<body data-gr-c-s-loaded="true" style="">
 	<div class="masthead" id="header"><div class="masthead__inner-wrap">
 	<div class="masthead__menu_sticky">
 		<nav id="site-nav" class="greedy-nav"> 
@@ -40,9 +36,8 @@
 
 				</div>
 			</button>
-			
 			<ul class="visible-links">
-			
+				
 				<li>
 				<form autocomplete="off" action="catch.html">
 						<div class="autocomplete" style="width:200px;">
@@ -51,12 +46,10 @@
 						<input type="submit" value='go'>
 				</form>
 				</li>
-			
 				<li class="masthead__menu-item masthead__menu-item--lg">
-				
 					<a href="index.html">Home</a>
 				</li>
-				
+
 				<li class="masthead__menu-item">
 					<a href="ACL.html">ACL</a>
 				</li>
@@ -65,14 +58,11 @@
 				</li>
 				<li class="masthead__menu-item">
 					<a href="EMNLP.html">EMNLP</a>
-					
 				</li>
 				
 				<li class="masthead__menu-item">
 					<a href="ANLP.html">ANLP</a>
 				</li>
-			
-				
 				<li class="masthead__menu-item">
 					<a href="CL.html">CL</a>
 				</li>
@@ -83,14 +73,12 @@
 					<a href="EACL.html">EACL</a>
 				</li>
 				<li class="masthead__menu-item">
-					<a href="EACL.html">EACL</a>
-				</li>
-				<li class="masthead__menu-item">
 					<a href="SEMEVAL.html">SEMEVAL</a>
 				</li>
 				<li class="masthead__menu-item">
 					<a href="TACL.html">TACL</a>
 				</li>
+				
 			
 			</ul>
 			<ul class="hidden-links hidden"></ul>
@@ -111,21 +99,23 @@
 	<li>
 		<a href="https://aclweb.org/anthology/venues/acl/" target="_blank">
 			<i class="fab fa-adn"></i>
-			<font size="3" color="red"><b>
 			ACL
-			</font></b>
 		</a>
 	</li>
 <li>
 		<a href="https://aclweb.org/anthology/venues/naacl/" target="_blank">
 			<i class="fab fa-adn"></i>
+			
 			NAACL
+			
 		</a>
 	</li>
 	<li>
 		<a href="https://aclweb.org/anthology/venues/emnlp/" target="_blank">
 			<i class="fab fa-adn"></i>
+			
 			EMNLP
+			
 		</a>
 	</li>
 	
@@ -163,7 +153,10 @@
 	<li>
 		<a href="https://aclweb.org/anthology/venues/tacl/" target="_blank">
 			<i class="fab fa-adn"></i>
+			<font size="3" color="red"><b>
+			
 			TACL
+			</font></b>
 		</a>
 	</li>
 	
@@ -176,48 +169,41 @@
 			<meta itemprop="headline" content="About me">
 			<meta itemprop="description" content="About me">
 			<div class="page__inner-wrap">
-				
+			
 				<section class="page__content" itemprop="text">
 				<br><br><br>
-				<h1 class="page__title" itemprop="headline">1) Number of Papers per Year</h1>
+				<h1 class="page__title" itemprop="headline">1) Number of Papers per Year
+					</h1>
 				
-	
-					  
+					 <div id="chartContainer" style="height: 370px; width: 100%;"></div>
 
-				<div id="chartContainer" style="height: 370px; width: 100%;"></div>
-				
-			
-			
-			
-					<h1 class="page__title" itemprop="headline">2) Number of Authors per Year</h1>
-				
-	
-					<div id="chartContainer2" style="height: 370px; width: 100%;"></div>
+
 					 
+				<h1 class="page__title" itemprop="headline">2) Number of Authors per Year
+					</h1>
 					
-
-					<h1 class="page__title" itemprop="headline">3) Number of Papers per Author Per Year</h1>
-				
+					  <div id="chartContainer2" style="height: 370px; width: 100%;"></div>
+					
+					
+					<h1 class="page__title" itemprop="headline">3) Number of Papers per Author per Year
+					</h1>
 					<div id="chartContainer3" style="height: 370px; width: 100%;"></div>
-		
 					
 					
 				
-				<h1 class="page__title" itemprop="headline">4) Average Number of Authors per Paper Per Year</h1>
+					<h1 class="page__title" itemprop="headline">4) Average number of Authors per Paper per Year
+					</h1>
 				
-	
-					 
 					  <div id="chartContainer4" style="height: 370px; width: 100%;"></div>
 					
 					
 					
-					
-						<h1 class="page__title" itemprop="headline">5) Avg. Number of References per Paper per Year </h1>
+					<h1 class="page__title" itemprop="headline">5) Avg. Number of References per Paper per Year
+					</h1>
 				
-	
-					 
-					  <div id="chartContainer5" style="height: 370px; width: 100%;"></div>
-									
+					<div id="chartContainer5" style="height: 370px; width: 100%;"></div>
+					
+					
 					
 					
 					<h1 class="page__title" itemprop="headline">6) Avg. Number of URLS per paper per Year (click on bar for primary url domains) </h1>
@@ -230,75 +216,58 @@
 					 <br><br>
 					 <h3 class="page__title" itemprop="headline">6.2 Full URLs (click on a bar above) </h3>
 					 <div id="chartContainer6details2"  class="size_fix" > </div>
-					
-					 </div>
-					
 					<br><br>
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					<h1 class="page__title" itemprop="headline">7) Avg. number of URLs in footnote per Paper per Year</h1>
+					 </div>
+
+				<h1 class="page__title" itemprop="headline">7) Avg. number of URLs in Footnote per Paper per Year
+					</h1>
 				
-	
+					 <div id="chartContainer7" style="height: 370px; width: 100%;"></div>
 					 
-					   <div id="chartContainer7" style="height: 370px; width: 100%;"></div>
-				
-					
-					
-					<h1 class="page__title" itemprop="headline">8) Avg. number of Tables per Paper per Year</h1>
-				
-					<div id="chartContainer8" style="height: 370px; width: 100%;"></div>
-					
-					
-					<h1 class="page__title" itemprop="headline">9) Avg. number of Figures per Paper per Year</h1>
-				
-	
 					 
-					 <div id="chartContainer9" style="height: 370px; width: 100%;"></div>
+					 
+					 
+					 
+				<h1 class="page__title" itemprop="headline">8) Avg. Number of Tables per paper per Year
+					</h1>
+				
+					 <div id="chartContainer8" style="height: 370px; width: 100%;"></div>
 					
 					
-								
+					
+					<h1 class="page__title" itemprop="headline">9) Avg. Number of Figures per paper per Year
+					</h1>
+				
+					  <div id="chartContainer9" style="height: 370px; width: 100%;"></div>
 					
 					
 					
-					<h1 class="page__title" itemprop="headline">10) Most Popular primary URL domains & their Frequencies</h1>
+					
+					
+					<h1 class="page__title" itemprop="headline">10) Most Popular primary URL domains  & their Frequencies</h1>
+					</h1>
 				
 					<div id="chartContainer10" style="height: 370px; width: 100%;"></div>
-					  
-					  
-										
 					
+				
 					
 					<h1 class="page__title" itemprop="headline">11) Top Unique GitHub pages</h1>
 				
 	
 					 <div id="chartContainer11" style="height: 370px; width: 100%;"></div>
-					
-					
-					
-					
-					
-					
+					 
 					<h1 class="page__title" itemprop="headline">12) Top University pages</h1>
 				
 	
-					<div id="chartContainer12" style="height: 370px; width: 100%;"></div>
-					
-					
-					
-					
+					 
+					 <div id="chartContainer12" style="height: 370px; width: 100%;"></div>
+					 <!--
 					
 					<h1 class="page__title" itemprop="headline">13) Affiliation Countries per Year</h1>
 				
+	
 					<div id="chartContainer13" style="height: 370px; width: 100%;"></div>
-					
-					
+					-->
 				</section>
 				<footer class="page__meta"></footer>
 			</div>
@@ -307,7 +276,6 @@
 <script>
 autocomplete(document.getElementById("myInput"), countries);
 </script>
-
 
 
 <span class="gr__tooltip"><span class="gr__tooltip-content"></span><i class="gr__tooltip-logo"></i><span class="gr__triangle"></span></span></div></body></html>

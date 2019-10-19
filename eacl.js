@@ -570,14 +570,14 @@ var chart = new CanvasJS.Chart("chartContainer7", {
 			{ y:0.0, x: new Date(1991,0) },
 			{ y:0.0, x: new Date(1993,0) },
 			{ y:0.0, x: new Date(1995,0) },
-			{ y:0.0, x: new Date(1997,0) },
-			{ y:0.0, x: new Date(1999,0) },
-			{ y:0.06666666666666667, x: new Date(2003,0) },
-			{ y:0.10843373493975904, x: new Date(2006,0) },
-			{ y:0.1794871794871795, x: new Date(2009,0) },
-			{ y:1.4056603773584906, x: new Date(2012,0) },
-			{ y:0.2692307692307692, x: new Date(2014,0) },
-			{ y:0.25, x: new Date(2017,0) }
+			{ y:0.2465753424657534, x: new Date(1997,0) },
+			{ y:0.7307692307692307, x: new Date(1999,0) },
+			{ y:1.1142857142857143, x: new Date(2003,0) },
+			{ y:1.6024096385542168, x: new Date(2006,0) },
+			{ y:2.5042735042735043, x: new Date(2009,0) },
+			{ y:3.650943396226415, x: new Date(2012,0) },
+			{ y:3.394230769230769, x: new Date(2014,0) },
+			{ y:3.4029850746268657, x: new Date(2017,0) }
 		]
 		},
 		]
@@ -1382,7 +1382,7 @@ function onClick(e) {
 			{ y:2, label: 'google.com' },
 			{ y:4, label: 'umass.edu' },
 			{ y:3, label: 'yellowpages.com' },
-			{ y:3, label: 'yahoo.com' },
+			{ y:4, label: 'yahoo.com' },
 			{ y:2, label: 'nndb.com' },
 			{ y:3, label: 'wikipedia.org' },
 			{ y:2, label: 'senseval.org' },
@@ -1405,7 +1405,7 @@ function onClick(e) {
 			{ y:2, label: 'lingfil.uu.se' },
 			{ y:3, label: 'upenn.edu' },
 			{ y:2, label: 'ntu.edu.tw' },
-			{ y:12, label: 'google.com' },
+			{ y:13, label: 'google.com' },
 			{ y:12, label: 'sourceforge.net' },
 			{ y:13, label: 'statmt.org' },
 			{ y:7, label: 'wikipedia.org' },
@@ -2430,8 +2430,8 @@ function onClick2(e)
 	{
 		dp = [                                         
 			{ y: 1, label: 'http://www.elda.org/article125.html' },
-			{ y: 1, label: 'myexperiment.elda.org' },
-			{ y: 1, label: 'registry.elda.org' }
+			{ y: 4, label: 'myexperiment.elda.org' },
+			{ y: 4, label: 'registry.elda.org' }
 			
 		]
 	}
