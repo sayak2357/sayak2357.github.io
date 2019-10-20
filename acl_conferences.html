@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	 <!-- begin SEO -->
 	<title>NLP Conference Analysis</title>
@@ -9,13 +8,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="main.css">
 	<link rel="stylesheet" href="style2.css">
-		<script type="text/javascript" src="emnlp.js"></script>
-	<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
-	
-	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-	
-	
-	
 	
 	
 	
@@ -23,12 +15,12 @@
 	
 	<link rel="stylesheet" href="autocomplete.css">
 	<script type="text/javascript" src="autocomplete.js"></script>
-	
 
 </head>
 
 <body data-gr-c-s-loaded="true" style="">
 	<div class="masthead" id="header"><div class="masthead__inner-wrap">
+	<!-- <div class="masthead__menu"> -->
 	<div class="masthead__menu_sticky">
 		<nav id="site-nav" class="greedy-nav"> 
 			<button class="hidden" count="0">
@@ -37,7 +29,9 @@
 				</div>
 			</button>
 			<ul class="visible-links">
-				
+			
+			
+			
 				<li>
 				<form autocomplete="off" action="catch.html">
 						<div class="autocomplete" style="width:200px;">
@@ -46,9 +40,13 @@
 						<input type="submit" value='go'>
 				</form>
 				</li>
+				
+				
+				
 				<li class="masthead__menu-item masthead__menu-item--lg">
 					<a href="index.html">Home</a>
 				</li>
+				
 
 				<li class="masthead__menu-item">
 					<a href="acl_conferences.html">ACL Conferences</a>
@@ -56,7 +54,6 @@
 				<li class="masthead__menu-item">
 					<a href="non_acl_conferences.html">Non-ACL Conferences</a>
 				</li>
-				
 			
 			</ul>
 			<ul class="hidden-links hidden"></ul>
@@ -80,20 +77,16 @@
 			ACL
 		</a>
 	</li>
-<li>
+	<li>
 		<a href="https://aclweb.org/anthology/venues/naacl/" target="_blank">
 			<i class="fab fa-adn"></i>
-			
 			NAACL
-			
 		</a>
 	</li>
 	<li>
 		<a href="https://aclweb.org/anthology/venues/emnlp/" target="_blank">
 			<i class="fab fa-adn"></i>
-			<font size="3" color="red"><b>
 			EMNLP
-			</font></b>
 		</a>
 	</li>
 	
@@ -219,112 +212,43 @@
 			<meta itemprop="headline" content="About me">
 			<meta itemprop="description" content="About me">
 			<div class="page__inner-wrap">
-			
-				<section class="page__content" itemprop="text">
+				<header>
 				<br><br><br>
-				<h1 class="page__title" itemprop="headline">1) Number of Papers per Year
+					
+				<h1 class="page__title" itemprop="headline">ACL Conferences :
 					</h1>
+				<p>  <br>
+					1) <a href="ACL.html"> ACL </a> <br>
+					2) <a href="EMNLP.html"> EMNLP </a> <br>
+					3) <a href="NAACL.html"> NAACL </a> <br>
+					4) <a href="ANLP.html"> ANLP </a> <br>
+					5) <a href="CL.html"> CL </a> <br>
+					6) <a href="CONLL.html"> CONLL </a> <br>
+					7) <a href="EACL.html"> EACL </a> <br>
+					8) <a href="SEMEVAL.html"> SEMEVAL </a> <br>
+					9) <a href="TACL.html"> TACL </a><br>
+			<!--	8) Avg. number of common urls between Footnote & Section per Paper per Year per Conference <br>
+					9) Number of Emails per Paper per Year per Conference <br>
+			-->
+				</p>
 				
-					 <div id="chartContainer" style="height: 370px; width: 100%;"></div>
+                   <br>
+					 <h5 class="page__title" itemprop="headline">
+                    </h5>
+					
 
-
-					 
-				<h1 class="page__title" itemprop="headline">2) Number of Authors per Year
-					</h1>
-					
-					  <div id="chartContainer2" style="height: 370px; width: 100%;"></div>
-					
-					
-					<h1 class="page__title" itemprop="headline">3) Number of Papers per Author per Year
-					</h1>
-					<div id="chartContainer3" style="height: 370px; width: 100%;"></div>
-					
-					
-				
-					<h1 class="page__title" itemprop="headline">4) Average number of Authors per Paper per Year
-					</h1>
-				
-					  <div id="chartContainer4" style="height: 370px; width: 100%;"></div>
-					
-					
-					
-					<h1 class="page__title" itemprop="headline">5) Avg. Number of References per Paper per Year
-					</h1>
-				
-					<div id="chartContainer5" style="height: 370px; width: 100%;"></div>
-					
-					
-					
-					
-					<h1 class="page__title" itemprop="headline">6) Avg. Number of URLS per paper per Year (click on bar for primary url domains) </h1>
-				
-					 <div id="chartContainer6wrapper">
-					 <div id="chartContainer6" style="height: 370px; width: 100%;"></div>
-					 <br>
-					 <h3 class="page__title" itemprop="headline">6.1 Primary URL Domains (click on a bar above) </h3>
-					 <div id="chartContainer6details" class="size_fix" > </div>
-					 <br><br>
-					 <h3 class="page__title" itemprop="headline">6.2 Full URLs (click on a bar above) </h3>
-					 <div id="chartContainer6details2"  class="size_fix" > </div>
-					
-					 </div>
-					<br><br>
-				<h1 class="page__title" itemprop="headline">7) Avg. number of URLs in Footnote per Paper per Year
-					</h1>
-				
-					 <div id="chartContainer7" style="height: 370px; width: 100%;"></div>
-					 
-					 
-					 
-					 
-					 
-				<h1 class="page__title" itemprop="headline">8) Avg. Number of Tables per paper per Year
-					</h1>
-				
-					 <div id="chartContainer8" style="height: 370px; width: 100%;"></div>
-					
-					
-					
-					<h1 class="page__title" itemprop="headline">9) Avg. Number of Figures per paper per Year
-					</h1>
-				
-					  <div id="chartContainer9" style="height: 370px; width: 100%;"></div>
-					
-					
-					
-					
-					
-					<h1 class="page__title" itemprop="headline">10) Most Popular primary URL domains  & their Frequencies</h1>
-					</h1>
-				
-					<div id="chartContainer10" style="height: 370px; width: 100%;"></div>
-					
-				
-					
-					<h1 class="page__title" itemprop="headline">11) Top Unique GitHub pages</h1>
-				
-	
-					 <div id="chartContainer11" style="height: 370px; width: 100%;"></div>
-					 
-					<h1 class="page__title" itemprop="headline">12) Top University pages</h1>
-				
-	
-					 
-					 <div id="chartContainer12" style="height: 370px; width: 100%;"></div>
-					
-					<h1 class="page__title" itemprop="headline">13) Affiliation Countries per Year</h1>
-				
-	
-					<div id="chartContainer13" style="height: 370px; width: 100%;"></div>
 					
 				</section>
 				<footer class="page__meta"></footer>
 			</div>
 		</article>
 	</div>
+
 <script>
 autocomplete(document.getElementById("myInput"), countries);
 </script>
+
+
 
 
 <span class="gr__tooltip"><span class="gr__tooltip-content"></span><i class="gr__tooltip-logo"></i><span class="gr__triangle"></span></span></div></body></html>
