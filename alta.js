@@ -647,29 +647,22 @@ var chart = new CanvasJS.Chart("chartContainer7", {
 			
 			
 			
-			{ y: 0, x: new Date(1996,0) },         
-			{ y: 0, x: new Date(1997,0) },
-			{ y: 0, x: new Date(1998,0) },
-			{ y: 0, x: new Date(1999,0) },
-			{ y: 0.0, x: new Date(2000,0) },
-			{ y: 0.0, x: new Date(2001,0) },
-			{ y: 0.365, x: new Date(2002,0) },
-			{ y: 0.592, x: new Date(2003,0) },
-			{ y: 0.478, x: new Date(2004,0) },
-			{ y: 0.658, x: new Date(2005,0) },
-			{ y: 0.616, x: new Date(2006,0) },
-			{ y: 0.854, x: new Date(2007,0) },
-			{ y: 0.991, x: new Date(2008,0) },
-			{ y: 0.889, x: new Date(2009,0) },
-			{ y: 1.0, x: new Date(2010,0) },
-			{ y: 0.958, x: new Date(2011,0) },
-			{ y: 1.071, x: new Date(2012,0) },
-			{ y: 1.097, x: new Date(2013,0) },
-			{ y: 1.181, x: new Date(2014,0) },
-			{ y: 1.254, x: new Date(2015,0) },
-			{ y: 1.239, x: new Date(2016,0) },
-			{ y: 1.368, x: new Date(2017,0) },
-			{ y: 1.226, x: new Date(2018,0) }
+			{ y:0.3888888888888889, x: new Date(2003,0) },
+			{ y:0.045454545454545456, x: new Date(2004,0) },
+			{ y:0.5454545454545454, x: new Date(2005,0) },
+			{ y:0.7037037037037037, x: new Date(2006,0) },
+			{ y:0.8636363636363636, x: new Date(2007,0) },
+			{ y:0.8571428571428571, x: new Date(2008,0) },
+			{ y:1.1666666666666667, x: new Date(2009,0) },
+			{ y:0.9333333333333333, x: new Date(2010,0) },
+			{ y:1.380952380952381, x: new Date(2011,0) },
+			{ y:1.45, x: new Date(2012,0) },
+			{ y:1.2380952380952381, x: new Date(2013,0) },
+			{ y:1.44, x: new Date(2014,0) },
+			{ y:1.85, x: new Date(2015,0) },
+			{ y:1.3478260869565217, x: new Date(2016,0) },
+			{ y:1.6875, x: new Date(2017,0) },
+			{ y:2.0, x: new Date(2018,0) }
 		]
 		},
 		]
@@ -732,29 +725,22 @@ var chart = new CanvasJS.Chart("chartContainer8", {
 			
 			
 			
-			{ y: 5.28, x: new Date(1996,0) },
-			{ y: 3.0, x: new Date(1997,0) },
-			{ y: 3.307, x: new Date(1998,0) },
-			{ y: 4.514, x: new Date(1999,0) },
-			{ y: 4.14, x: new Date(2000,0) },                 
-			{ y: 1.52, x: new Date(2001,0) },
-			{ y: 2.82, x: new Date(2002,0) },
-			{ y: 3.518, x: new Date(2003,0) },
-			{ y: 4.043, x: new Date(2004,0) },
-			{ y: 3.468, x: new Date(2005,0) },
-			{ y: 4.369, x: new Date(2006,0) },
-			{ y: 4.152, x: new Date(2007,0) },
-			{ y: 4.132, x: new Date(2008,0) },
-			{ y: 4.687, x: new Date(2009,0) },
-			{ y: 4.951, x: new Date(2010,0) },
-			{ y: 4.575, x: new Date(2011,0) },
-			{ y: 4.884, x: new Date(2012,0) },
-			{ y: 4.485, x: new Date(2013,0) },
-			{ y: 4.438, x: new Date(2014,0) },
-			{ y: 3.871, x: new Date(2015,0) },
-			{ y: 3.231, x: new Date(2016,0) },
-			{ y: 4.504, x: new Date(2017,0) },
-			{ y: 4.569, x: new Date(2018,0) }
+			{ y:2.5555555555555554, x: new Date(2003,0) },
+			{ y:1.7727272727272727, x: new Date(2004,0) },
+			{ y:2.4545454545454546, x: new Date(2005,0) },
+			{ y:2.4814814814814814, x: new Date(2006,0) },
+			{ y:3.619047619047619, x: new Date(2007,0) },
+			{ y:3.857142857142857, x: new Date(2008,0) },
+			{ y:3.8823529411764706, x: new Date(2009,0) },
+			{ y:3.2666666666666666, x: new Date(2010,0) },
+			{ y:3.142857142857143, x: new Date(2011,0) },
+			{ y:2.95, x: new Date(2012,0) },
+			{ y:2.6666666666666665, x: new Date(2013,0) },
+			{ y:3.32, x: new Date(2014,0) },
+			{ y:3.95, x: new Date(2015,0) },
+			{ y:3.0869565217391304, x: new Date(2016,0) },
+			{ y:3.4375, x: new Date(2017,0) },
+			{ y:2.230769230769231, x: new Date(2018,0) }
 		]
 		},
 		]
@@ -830,30 +816,22 @@ var chart = new CanvasJS.Chart("chartContainer9", {
 		dataPoints: [
 			
 			
-			
-			{ y: 4.35, x: new Date(1996,0) },
-			{ y: 4.043, x: new Date(1997,0) },                
-			{ y: 2.46, x: new Date(1998,0) },
-			{ y: 2.714, x: new Date(1999,0) },
-			{ y: 3.821, x: new Date(2000,0) },                 
-			{ y: 0.761, x: new Date(2001,0) },
-			{ y: 2.78, x: new Date(2002,0) },
-			{ y: 3.148, x: new Date(2003,0) },
-			{ y: 2.0, x: new Date(2004,0) },
-			{ y: 2.817, x: new Date(2005,0) },
-			{ y: 3.068, x: new Date(2006,0) },
-			{ y: 3.015, x: new Date(2007,0) },
-			{ y: 3.858, x: new Date(2008,0) },
-			{ y: 3.42, x: new Date(2009,0) },
-			{ y: 3.68, x: new Date(2010,0) },
-			{ y: 3.56, x: new Date(2011,0) },
-			{ y: 3.309, x: new Date(2012,0) },
-			{ y: 3.053, x: new Date(2013,0) },
-			{ y: 3.163, x: new Date(2014,0) },
-			{ y: 2.585, x: new Date(2015,0) },
-			{ y: 2.52, x: new Date(2016,0) },
-			{ y: 3.018, x: new Date(2017,0) },
-			{ y: 3.076, x: new Date(2018,0) }
+			{ y:3.1666666666666665, x: new Date(2003,0) },
+			{ y:3.909090909090909, x: new Date(2004,0) },
+			{ y:2.787878787878788, x: new Date(2005,0) },
+			{ y:1.4444444444444444, x: new Date(2006,0) },
+			{ y:1.0, x: new Date(2007,0) },
+			{ y:2.8095238095238093, x: new Date(2008,0) },
+			{ y:2.3529411764705883, x: new Date(2009,0) },
+			{ y:1.0, x: new Date(2010,0) },
+			{ y:1.8095238095238095, x: new Date(2011,0) },
+			{ y:2.0, x: new Date(2012,0) },
+			{ y:1.4285714285714286, x: new Date(2013,0) },
+			{ y:2.4, x: new Date(2014,0) },
+			{ y:2.3, x: new Date(2015,0) },
+			{ y:3.217391304347826, x: new Date(2016,0) },
+			{ y:2.3125, x: new Date(2017,0) },
+			{ y:2.6153846153846154, x: new Date(2018,0) }
 		]
 		},
 		]
@@ -913,27 +891,26 @@ var chart = new CanvasJS.Chart("chartContainer10", {
 		name: "ALTA : Most Popular primary URL domains & their Frequencies",
 		legendText: "",
 		dataPoints: [
-			{ y: 104,  label: 'upenn.edu' },		
-			{ y: 825, label: 'github.com' },                           
-			{ y: 315,  label: 'www.aclweb.org' },
-			{ y: 193,  label: 'nlp.stanford.edu' },    
-			{ y: 221,  label: 'google.com' },            
-			{ y: 118,  label: 'en.wikipedia.org' },
-			{ y: 101, label: 'www.statmt.org' },
-			{ y: 96,  label: 'arxiv.org' },
-			{ y: 101, label: 'www.nist.gov' },
-			{ y: 42,  label: 'mallet.cs.umass.edu' },
-			{ y: 42,  label: 'www.cs.cmu.edu' },
-			{ y: 36,  label: 'www.csie.ntu.edu.tw' },
-			{ y: 36, label: 'sourceforge.net' },
-			{ y: 29,  label: 'svmlight.joachims.org' },
-			{ y: 28,  label: 'sourceforge.net' },
-			{ y: 26, label: 'www.cs.cornell.edu' },
-			{ y: 25,  label: 'cogcomp.cs.illinois.edu' },
-			{ y: 23,  label: 'www.mturk.com' },
-			{ y: 23,  label: 'lucene.apache.org' },
-			{ y: 23,  label: 'www.lsi.upc.edu' },
-			{ y: 23,  label: 'homepages.inf.ed.ac.uk' }
+			{ y:14,  label:'arxiv.org'  },
+			{ y:40,  label:'github.com'  },
+			{ y:13,  label:'code.google.com'  },
+			{ y:11,  label:'www.ncbi.nlm.nih.gov'  },
+			{ y:11,  label:'en.wikipedia.org'  },
+			{ y:11,  label:'inclass.kaggle.com'  },
+			{ y:10,  label:'trove.nla.gov.au'  },
+			{ y:9,  label:'trec.nist.gov'  },
+			{ y:9,  label:'www.nlm.nih.gov'  },
+			{ y:9,  label:'www.kaggle.com'  },
+			{ y:9,  label:'www.aclweb.org'  },
+			{ y:7,  label:'nlp.stanford.edu'  },
+			{ y:7,  label:'sites.google.com'  },
+			{ y:6,  label:'www.w3.org'  },
+			{ y:6,  label:'www.ics.mq.edu.au'  },
+			{ y:6,  label:'www.csie.ntu.edu.tw'  },
+			{ y:6,  label:'www.nltk.org'  },
+			{ y:6,  label:'www.geonames.org'  },
+			{ y:6,  label:'dbpedia.org'  },
+			{ y:6,  label:'aclweb.org'  }
 		]
 	}]
 });
@@ -986,27 +963,27 @@ var chart = new CanvasJS.Chart("chartContainer11", {
 		legendMarkerColor: "grey",
 		name: "ALTA : Top Unique GitHub Pages",
 		legendText: "",
-		dataPoints: [      
-			{ y: 7, label: 'UKPLab/' },
-			{ y: 11,label: 'facebookresearch/' },          
-			{ y: 5,  label: 'facebook/NAMAS' },
-			{ y: 5,  label: 'OpenNMT/OpenNMT-py' },
-			{ y: 4,  label: 'edx/ease' },
-			{ y: 4, label: 'mynlp/ccg2lambda' },
-			{ y: 4,  label: 'fxsjy/jieba' },
-			{ y: 4, label: 'nmrksic/' },
-			{ y: 4,  label: 'tensorflow/nmt' },
-			{ y: 4,  label: 'gabrielStanovsky/' },
-			{ y: 3,  label: 'saffsd/langid.py' },
-			{ y: 3,  label: 'moses-smt/mosesdecoder/' },
-			{ y: 3, label: 'glorotxa/SME' },
-			{ y: 3,  label: 'piskvorky/gensim/' },
-			{ y: 3,  label: 'mfaruqui/' },
-			{ y: 3, label: 'douwekiela/mmfeat' },
-			{ y: 3,  label: 'knowitall/openie ' },
-			{ y: 2,  label: 'Leonard-Xu/CWE ' },
-			{ y: 3,  label: 'isi-nlp/Zoph' },
-			{ y: 3,  label: 'clab/cnn' }
+		dataPoints: [  
+			{ y: 1, label: 'xavi-ai/' },
+			{ y: 2, label: 'ldevine/AFM' },
+			{ y: 1, label: 'saffsd/forum_' },
+			{ y: 1, label: 'ansjsun/ansj' },
+			{ y: 1, label: 'maxxkia/g-ssl-crf' },
+			{ y: 1, label: 'tesseract-ocr' },
+			{ y: 1, label: 'yasserg/crawler4j' },
+			{ y: 1, label: 'kohlschutter/boilerpipe' },
+			{ y: 1, label: 'tesseract-' },
+			{ y: 1, label: 'stevecassidy/' },
+			{ y: 1, label: 'jhlau/topic' },
+			{ y: 1, label: 'rsennrich/ParZu' },
+			{ y: 1, label: 'clab/cnn/tree/' },
+			{ y: 1, label: 'gittykhirbat/nary_' },
+			{ y: 1, label: 'myleott/ark-twokenize-py' },
+			{ y: 1, label: 'languagerecipes/the-' },
+			{ y: 1, label: 'IBMMRL/medinfo2015' },
+			{ y: 1, label: 'elikip/bist-parser/tree/master/bmstparser' },
+			{ y: 1, label: 'elikip/bist-parser/tree/master/barchybrid' },
+			
 		]
 	}]
 });
@@ -1054,27 +1031,27 @@ var chart = new CanvasJS.Chart("chartContainer12", {
 		legendMarkerColor: "grey",
 		name: "ALTA : Top University Pages",
 		legendText: "",
-		dataPoints: [      
-			{ y: 19,  label: 'MIT' },
-			{ y: 79, label: 'University of Washington' },                         
-			{ y: 73,label: 'Carnegie Mellon University Silicon Valley' },
-			{ y: 45,  label: 'Stanford University' },
-			{ y: 44,  label: 'Penn Museum' },
-			{ y: 42,  label: 'Microsoft Research Asia' },
-			{ y: 39, label: 'Johns Hopkins Hospital' },
-			{ y: 31,  label: 'University of Maryland' },
-			{ y: 30, label: 'Microsoft Research' },
-			{ y: 29,  label: 'UC Berkeley' },
-			{ y: 28,  label: 'Columbia University' },
-			{ y: 26,  label: 'Singapore University of Technology and Design' },
-			{ y: 25,  label: 'IISc' },
-			{ y: 24, label: 'Cornell University' },
-			{ y: 23,  label: 'IBM' },
-			{ y: 22,  label: 'University of Michigan' },
-			{ y: 21, label: 'Brown University' },
-			{ y: 20,  label: 'Institute for Logic' },
-			{ y: 20,  label: 'Harbin Institute of Technology' },
-			{ y: 20,  label: 'University of Edinburgh' }
+		dataPoints: [
+			{ y: 11, label:'USyd' },
+			{ y: 16, label:'Macquarie University' },
+			{ y: 9, label:'Queensland University of Technology' },
+			{ y: 8, label:'Australian National University' },
+			{ y: 7, label:'Academy For Language And Technology' },
+			{ y: 7, label:'Information Technologies' },
+			{ y: 7, label:'University of Melbourne' },
+			{ y: 5, label:'Department of Computer Science' },
+			{ y: 5, label:'The Ian Potter Museum of Art' },
+			{ y: 5, label:'Grainger Museum' },
+			{ y: 3, label:'Macquarie University Library' },
+			{ y: 3, label:'Flinders University' },
+			{ y: 3, label:'Australian Minerals Research Centre' },
+			{ y: 3, label:'Monash University' },
+			{ y: 3, label:'UWA' },
+			{ y: 2, label:'University of Otago' },
+			{ y: 2, label:'Columbia University' },
+			{ y: 2, label:'Computer Engineering & Informatics Department' },
+			{ y: 2, label:'Jadavpur University' },
+			{ y: 2, label:'Sydney' }
 			
 		]
 	}]
@@ -1388,521 +1365,410 @@ function onClick(e) {
 		
 		
 		
-		if (dt==1996)
-		{
 		
-		dp = [                                         
-			{ y: 1, label: 'cspjhu.ece.j' },                         
-			{ y: 1,  label: "www.phnetik.uni-muenchen'de" }
-			
-			
-		]
-		}
-		else if(dt==1997)
+		if(dt==2003)
 		{
-			dp= [                                         
-			{ y: 1, label: 'crl.nmsu.edu' }
-			
-			
-		]
-		}
-		else if(dt==1998)
-		{
-			dp= [                                         
-			
-			
-			
-		]
-		}
-		else if(dt==1999)
-		{
-			dp= [                                         
-			{ y: 2, label: 'ling.uu.se' },
-			{ y: 1, label: 'uvw.gospelcom.net' },
-			{ y: 1, label: 'upc.es' },
-			{ y: 1, label: 'vassar.edu' },
-			{ y: 1, label: 'morph.ldc' },
-			{ y: 1, label: 'kub.nl' },
-			{ y: 1, label: 'info.ox.ac.uk' },
-			{ y: 1, label: 'shef.ac.uk' }
-			
-		]
-		}
-		else if(dt==2000)
-		{
-			dp= [                                         
-			{ y: 2, label: 'nacsis.ac.jp' },
-			{ y: 2, label: 'ilc.pi.cnr.it' },
-			{ y: 1, label: 'att.com' },
-			{ y: 1, label: 'arrakis.es' },
-			{ y: 1, label: 'linux.com' },
-			{ y: 1, label: 'uib.no' },
-			{ y: 1, label: 'brighton.ac.uk' }
-			
-		]
-		}
-		else if(dt==2001)
-		{
-			dp= [                                         
-			{ y: 1, label: 'www.acronymfinder' },
-			{ y: 1, label: 'www.infoplease.com' },
-			{ y: 1, label: 'www.onelook.com' },
-			{ y: 1, label: 'ibm.com' },
-			{ y: 1, label: 'berkeley.edu' },
-			{ y: 1, label: 'www9.org' },
-			{ y: 1, label: 'uni-stuttgart.de' }
-			
-		]
-		}
-		else if(dt==2002)
-		{
-			dp= [                                         
-			{ y: 3, label: 'cornell.edu' },
-			{ y: 2, label: 'brown.edu' },
-			{ y: 1, label: 'sharp.co.uk' },
-			{ y: 1, label: 'cmu.edu' },
-			{ y: 1, label: 'www.mindfuleye.com' },
-			{ y: 1, label: 'imdb.com' },
-			{ y: 1, label: 'svmlight.joachims.org' },
-			{ y: 1, label: 'bham.ac.uk' },
-			{ y: 1, label: 'freedict.com' },
-			{ y: 1, label: 'yahoo.com' },
-			{ y: 1, label: 'isi.edu' },
-			{ y: 1, label: 'att.com' },
-			{ y: 1, label: 'mizar.org' },
-			{ y: 1, label: 'www.cogsci.ed.ac.uk' },
-			{ y: 1, label: 'kyoto-u.ac.jp' },
-			{ y: 1, label: 'aist-nara.ac.jp' },
-			{ y: 1, label: 'nyu.edu' },
-			{ y: 1, label: 'www.searchengineshowdown.com' },
-			{ y: 1, label: 'waikato.ac.nz' }
-			
-		]
-		}
-		else if(dt==2003)
-		{
-			dp= [                                         
-			{ y: 3, label: 'nyu.edu' },
-			{ y: 3, label: 'nist.gov' },
-			{ y: 1, label: 'isi.edu' },
-			{ y: 1, label: 'att.com' },
-			{ y: 1, label: 'sri.com' },
-			{ y: 1, label: 'mit.edu' },
-			{ y: 1, label: 'msk.ru' },
-			{ y: 1, label: 'eonline.com' },
-			{ y: 1, label: 'jguru.com' },
-			{ y: 1, label: 'sdsu.edu' },
-			{ y: 1, label: 'daviddlewis.com' },
-			{ y: 1, label: 'www-tsujii.is.s.u-tokyo.ac.jp' },
-			{ y: 1, label: 'waikato.ac.nz' },
-			{ y: 1, label: 'gate.ac.uk' },
-			{ y: 1, label: 'searchengineshowdown.com' },
-			{ y: 1, label: 'info.ox.ac.uk' },
-			{ y: 1, label: 'kyoto-u.ac.jp' },
-			{ y: 2, label: 'aist-nara.ac.jp' },
-			{ y: 1, label: 'godel.iis.sinica.edu.tw' },
-			{ y: 1, label: 'www2.crl.go.jp' }
+			dp= [
+			{ y:1, label: 'w3.org' },
+			{ y:2, label: 'upenn.edu' },
+			{ y:1, label: 'princeton.edu' },
+			{ y:1, label: 'otago.ac.nz:8080' },
+			{ y:1, label: 'utwente.nl' },
+			{ y:1, label: 'nyu.edu' },
+			{ y:1, label: 'agtk.sf.net' },
+			{ y:1, label: 'antennahouse.com' },
+			{ y:1, label: 'apache.org' },
+			{ y:5, label: 'emeld.org' },
+			{ y:1, label: 'coverpages.org' },
+			{ y:1, label: 'oasis-open.org' },
+			{ y:1, label: 'xattic.com' },
+			{ y:1, label: 'susx.ac.uk' },
+			{ y:1, label: 'rug.nl' },
+			{ y:1, label: 'senseval.org' },
+			{ y:1, label: 'leeds.ac.uk' },
+			{ y:1, label: 'bham.ac.uk' }
 			
 		]
 		}
 		else if(dt==2004)
 		{
-			dp= [                                         
-			{ y: 3, label: 'nist.gov' },
-			{ y: 2, label: 'www.senseval.org' },
-			{ y: 2, label: 'ixa2.si.ehu.es' },
-			{ y: 3, label: 'isi.edu' },
-			{ y: 1, label: 'upenn.edu' },
-			{ y: 1, label: 'unt.edu' },
-			{ y: 1, label: 'darpa.mil' },
-			{ y: 1, label: 'www.gutenberg.net' },
-			{ y: 1, label: 'www.elsnet.org' },
-			{ y: 1, label: 'rulequest.com' },
-			{ y: 1, label: 'hcu.ox.ac.uk' },
-			{ y: 1, label: 'upc.es' },
-			{ y: 1, label: 'www.clres.com' },
-			{ y: 1, label: 'www.icsi' },
-			{ y: 1, label: 'uvt.nl' },
-			{ y: 1, label: 'berkeley.edu' },
-			{ y: 1, label: 'microsoft.com' },
-			{ y: 1, label: 'yahoo.com' },
-			{ y: 1, label: 'google.com' },
-			{ y: 1, label: 'msn.com' }
+			dp= [                    
+			{ y:1, label: 'cmu.edu' },
+			{ y:1, label: 'mq.edu.au' },
+			{ y:2, label: 'example.org' },
+			{ y:2, label: 'w3.org' },
+			{ y:1, label: 'ist.psu' },
+			{ y:1, label: 'sil.org' }
 			
 		]
 		}
 		else if(dt==2005)
 		{
-			dp= [                                         
-			{ y: 24, label: 'nist.gov' },
-			{ y: 11, label: 'upenn.edu' },
-			{ y: 5, label: 'ntu.edu.tw' },
-			{ y: 4, label: 'isi.edu' },
-			{ y: 3, label: 'altavista.com' },
-			{ y: 4, label: 'cam.ac.uk' },
-			{ y: 3, label: 'kub.nl'},
-			{ y: 3, label: 'apache.org' },
-			{ y: 3, label: 'senseval.org' },
-			{ y: 2, label: 'www.cnts.ua.ac.be' },
-			{ y: 2, label: 'lemurproject.org' },
-			{ y: 2, label: 'chasen.org' },
-			{ y: 2, label: 'dyna.org' },
-			{ y: 2, label: 'uiuc.edu' },
-			{ y: 2, label: 'mitre.org' },
-			{ y: 2, label: 'umass.edu'},
-			{ y: 7, label: 'cmu.edu' },
-			{ y: 2, label: 'timeml.org' },
-			{ y: 2, label: 'google.com' },
-			{ y: 2, label: 'nih.gov' }
+			dp= [ 
+			{ y:2, label: 'mit.edu' },
+			{ y:1, label: '64.81.54.21:8080' },
+			{ y:3, label: 'nist.gov' },
+			{ y:2, label: 'answerbus.com' },
+			{ y:2, label: 'google.com' },
+			{ y:1, label: 'anl.gov' },
+			{ y:1, label: 'princeton.edu' },
+			{ y:1, label: 'clef-campaign.org' },
+			{ y:1, label: 'nist.gov' },
+			{ y:2, label: 'pascal-network.org' },
+			{ y:1, label: 'alias-i.com' },
+			{ y:1, label: 'wisc.edu' },
+			{ y:1, label: 'rosettaproject.org' },
+			{ y:1, label: 'unece.org' },
+			{ y:1, label: 'rug.nl' },
+			{ y:1, label: 'unhchr.ch' },
+			{ y:1, label: 'cloudgarden.com' },
+			{ y:1, label: 'customspeechusa.com' },
+			{ y:1, label: 'sourceforge.net' }
 			
 		]
 		}
 		else if(dt==2006)
 		{
-			dp= [                                         
-			{ y: 3, label: 'ntu.edu.tw' },
-			{ y: 7, label: 'upenn.edu' },
-			{ y: 2, label: 'ualberta.ca' },
-			{ y: 2, label: 'chasen.org' },
-			{ y: 2, label: 'upc.edu' },
-			{ y: 3, label: 'upc.es' },
-			{ y: 2, label: 'cpan.org'},
-			{ y: 2, label: 'u-tokyo.ac.jp' },
-			{ y: 2, label: 'umass.edu' },
-			{ y: 2, label: 'princeton.edu' },
-			{ y: 2, label: 'cmu.edu' },
-			{ y: 1, label: 'toronto.edu' },
-			{ y: 1, label: 'fjoch.com' },
-			{ y: 1, label: 'tc-star.org' },
-			{ y: 1, label: 'slate.com' },
-			{ y: 1, label: 'lanl.gov'},
-			{ y: 2, label: 'sourceforge.net' },
-			{ y: 2, label: 'uvt.nl' },
-			{ y: 2, label: 'uia.ac.be' },
-			{ y: 3, label: 'mitre.org' }
+			dp= [
+			{ y:1, label: 'cs.purdue' },
+			{ y:1, label: 'sourceforge.net' },
+			{ y:1, label: 'alcyone.com' },
+			{ y:1, label: 'berkeley.edu' },
+			{ y:1, label: 'muohio.edu' },
+			{ y:1, label: 'globalwordnet.org' },
+			{ y:1, label: 'google.com' },
+			{ y:1, label: 'yahoo.com' },
+			{ y:1, label: 'msn.com' },
+			{ y:1, label: 'fjoch.com' },
+			{ y:2, label: 'nist.gov' },
+			{ y:1, label: 'cnts.ua.ac.be' },
+			{ y:1, label: 'arxiv.org' },
+			{ y:1, label: 'ivoa.net' },
+			{ y:2, label: 'uni-stuttgart.de' },
+			{ y:1, label: 'iro.umontreal.ca' },
+			{ y:1, label: 'lefff.net' },
+			{ y:1, label: 'cnrtl.fr' },
+			{ y:1, label: 'snomed.org' },
+			{ y:1, label: 'xapian.org' },
+			{ y:1, label: 'alias-i.com' },
+			{ y:3, label: 'ics.mq.edu.au' }
 			
 		]
 		}
 		else if(dt==2007)
 		{
-			dp= [                                         
-			{ y: 17, label: 'upc.edu' },
-			{ y: 20, label: 'nist.gov' },
-			{ y: 8, label: 'chasen.org' },
-			{ y: 6, label: 'svmlight.joachims.org' },
-			{ y: 5, label: 'umass.edu' },
-			{ y: 4, label: 'ntu.edu.tw' },
-			{ y: 4, label: 'vxu.se'},
-			{ y: 8, label: 'upenn.edu' },
-			{ y: 4, label: 'statmt.org' },
-			{ y: 5, label: 'u-tokyo.ac.jp' },
-			{ y: 4, label: 'mit.edu' },
-			{ y: 4, label: 'cmu.edu' },
-			{ y: 3, label: 'kyoto-u.ac.jp' },
-			{ y: 3, label: 'utah.edu' },
-			{ y: 4, label: 'isi.edu' },
-			{ y: 2, label: 'lemurproject.org'},
-			{ y: 2, label: 'fjoch.com' },
-			{ y: 2, label: 'sri.com' },
-			{ y: 5, label: 'nih.gov' },
-			{ y: 2, label: 'aclweb.org' },
-			{ y: 4, label: 'wikipedia.org' }
+			dp= [ 
+			{ y:2, label: 'sf.net' },
+			{ y:1, label: 'pascal-network.org' },
+			{ y:1, label: 'biu.ac.il' },
+			{ y:1, label: 'isi.edu' },
+			{ y:2, label: 'mq.edu.au' },
+			{ y:1, label: 'cmu.edu' },
+			{ y:1, label: 'qamus.org' },
+			{ y:2, label: 'upenn.edu' },
+			{ y:1, label: 'fjoch.com' },
+			{ y:1, label: 'sourceforge.net' },
+			{ y:1, label: 'nyu.edu' },
+			{ y:1, label: 'connexor.com' },
+			{ y:1, label: 'alias-i.com' },
+			{ y:1, label: 'rmit.edu.au' },
+			{ y:1, label: 'highwire.org' },
+			{ y:1, label: 'uiuc.edu' },
+			{ y:1, label: 'nih.gov' },
+			{ y:1, label: 'ohsu.edu' },
+			{ y:1, label: 'altavista.com' },
+			{ y:1, label: 'google.com' }
 			
 		]
 		}
 		else if(dt==2008)
 		{
-			dp= [                                         
-			{ y: 16, label: 'nist.gov' },
-			{ y: 6, label: 'ntu.edu.tw' },
-			{ y: 11, label: 'upenn.edu' },
-			{ y: 4, label: 'svmlight.joachims.org' },
-			{ y: 5, label: 'umass.edu' },
-			{ y: 5, label: 'stanford.edu' },
-			{ y: 6, label: 'yahoo.com'},
-			{ y: 4, label: 'kyoto-u.ac.jp' },
-			{ y: 4, label: 'berkeley.edu' },
-			{ y: 4, label: 'cpan.org' },
-			{ y: 2, label: 'ualberta.ca' },
-			{ y: 3, label: 'statmt.org' },
-			{ y: 6, label: 'sourceforge.net' },
-			{ y: 6, label: 'uiuc.edu' },
-			{ y: 5, label: 'jhu.edu' },
-			{ y: 2, label: 'homepages.inf.ed.ac.uk'},
-			{ y: 2, label: 'princeton.edu' },
-			{ y: 4, label: 'google.com' },
-			{ y: 2, label: 'openfst.org' },
-			{ y: 2, label: 'doloreslabs.com' },
-			{ y: 3, label: 'chasen.org' }
+			dp= [       
+			{ y:1, label: 'nyu.edu' },
+			{ y:1, label: 'govtrack.us' },
+			{ y:1, label: 'joachims.org' },
+			{ y:1, label: 'utah.edu' },
+			{ y:1, label: 'sourceforge.net' },
+			{ y:1, label: 'uzh.ch' },
+			{ y:1, label: 'nextapp.com' },
+			{ y:1, label: 'owldl.org' },
+			{ y:1, label: 'swi-prolog.org' },
+			{ y:1, label: 'berkeley.edu' },
+			{ y:1, label: 'thoughtlets.org' },
+			{ y:1, label: 'ui.ac.id' },
+			{ y:1, label: 'definitionroadsafety.org' },
+			{ y:1, label: 'wikipedia.org' },
+			{ y:1, label: 'pediapress.com' },
+			{ y:1, label: 'usyd.edu.au' },
+			{ y:1, label: 'wikimedia.org' },
+			{ y:1, label: 'diknas.go.id' },
+			{ y:1, label: 'mq.edu.au' },
+			{ y:1, label: 'connexor.com' }
 			
 		]
 		}
 		else if(dt==2009)
 		{
-			dp= [                                         
-			{ y: 6, label: 'pitt.edu' },                  
-			{ y: 10, label: 'nist.gov' },
-			{ y: 7, label: 'google.com' },
-			{ y: 5, label: 'homepages.inf.ed.ac.uk' },
-			{ y: 6, label: 'stanford.edu' },
-			{ y: 6, label: 'ntu.edu.tw' },
-			{ y: 5, label: 'wikipedia.org'},
-			{ y: 4, label: 'statmt.org' },
-			{ y: 12, label: 'sourceforge.net' },
-			{ y: 4, label: 'umass.edu' },
-			{ y: 6, label: 'berkeley.edu' },
-			{ y: 8, label: 'upenn.edu' },
-			{ y: 5, label: 'cmu.edu' },
-			{ y: 3, label: 'wikimedia.org' },
-			{ y: 3, label: 'chasen.org' },
-			{ y: 3, label: 'nih.gov'},
-			{ y: 3, label: 'kyoto-u.ac.jp' },
-			{ y: 4, label: 'mit.edu' },
-			{ y: 2, label: 'natcorp.ox.ac.uk' },
-			{ y: 2, label: 'mturk.com' },
-			{ y: 3, label: 'unitn.it' }
+			dp= [  
+			{ y:1, label: 'mpi.nl' },
+			{ y:2, label: 'nist.gov' },
+			{ y:1, label: 'utu.fi' },
+			{ y:1, label: 'asx.com.au' },
+			{ y:1, label: 'thomsonreuters.com' },
+			{ y:1, label: 'sirca.org.au' },
+			{ y:1, label: 'standardandpoors.com' },
+			{ y:1, label: 'apache.org' },
+			{ y:1, label: 'python.org' },
+			{ y:1, label: 'stats.grok.se' },
+			{ y:1, label: 'uib.no' },
+			{ y:1, label: 'anu.edu.au' },
+			{ y:1, label: 'usyd.edu.au' },
+			{ y:1, label: 'asn.au' },
+			{ y:1, label: 'language-archives.org' },
+			{ y:2, label: 'parc.com' },
+			{ y:1, label: 'stanford.edu' },
+			{ y:1, label: 'ntu.edu.tw' }
 			
 		]
 		}
 		else if(dt==2010)
 		{
-			dp=[                                         
-			{ y: 7, label: 'stanford.edu' },                   
-			{ y: 6, label: 'homepages.inf.ed.ac.uk' },
-			{ y: 8, label: 'wikipedia.org' },
-			{ y: 9, label: 'google.com' },
-			{ y: 5, label: 'statmt.org' },
-			{ y: 4, label: 'umass.edu' },
-			{ y: 11, label: 'upenn.edu' },
-			{ y: 4, label: 'apache.org' },
-			{ y: 3, label: 'mit.edu' },
-			{ y: 3, label: 'doi.org' },
-			{ y: 3, label: 'cornell.edu' },
-			{ y: 3, label: 'lth.se' },
-			{ y: 3, label: 'washington.edu' },
-			{ y: 3, label: 'cmu.edu' },
-			{ y: 3, label: 'umd.edu' },
-			{ y: 2, label: 'natcorp.ox.ac.uk'},
-			{ y: 2, label: 'byu.edu' },
-			{ y: 12, label: 'sourceforge.net' },
-			{ y: 3, label: 'brown.edu' },
-			{ y: 2, label: 'yahoo.com' },
-			{ y: 6, label: 'nist.gov' }
+			dp=[   
+			{ y:2, label: 'i2b2.org' },
+			{ y:1, label: 'wikimedia.org' },
+			{ y:1, label: 'csse.unimelb' },
+			{ y:1, label: 'kokken.go.jp' },
+			{ y:1, label: 'anu.edu' },
+			{ y:1, label: 'cnet.com' },
+			{ y:2, label: 'ntu.edu.tw' },
+			{ y:2, label: 'googlecode.com' },
+			{ y:1, label: 'sourceforge.net' },
+			{ y:1, label: 'showlett.id.au' },
+			{ y:2, label: 'statmt.org' },
+			{ y:1, label: 'rcpa.edu.au' },
+			{ y:2, label: 'nih.gov' },
+			{ y:1, label: 'nehta.gov.au' },
+			{ y:1, label: 'aehrc.com' },
+			{ y:1, label: 'linuxquestions.org' },
+			{ y:1, label: 'github.com' },
+			{ y:1, label: 'thecochranelibrary.com' },
+			{ y:1, label: 'uptodateonline.com' },
+			{ y:1, label: 'parkhurstexchange.com' },
+			{ y:1, label: 'cochrane.org' }
 			
 		]
 		}
 		else if(dt==2011)
 		{
-			dp= [                                         
-			{ y: 12, label: 'stanford.edu' },               
-			{ y: 9, label: 'wikipedia.org' },
-			{ y: 6, label: 'umass.edu' },
-			{ y: 11, label: 'nist.gov' },
-			{ y: 9, label: 'upenn.edu' },
-			{ y: 2, label: 'gutenberg.org' },
-			{ y: 5, label: 'cmu.edu' },
-			{ y: 5, label: 'doi.org' },
-			{ y: 4, label: 'google.com' },
-			{ y: 10, label:'sourceforge.net' },
-			{ y: 3, label: 'maltparser.org' },
-			{ y: 4, label: 'lemurproject.org' },
-			{ y: 5, label: 'kyoto-u.ac.jp' },
-			{ y: 3, label: 'twitter.com' },
-			{ y: 3, label: 'mednlp.jp' },
-			{ y: 2, label: 'ntu.edu.tw' },
-			{ y: 2, label: 'statmt.org' },
-			{ y: 2, label: 'pitt.edu' },
-			{ y: 2, label: 'illinois.edu' },
-			{ y: 2, label: 'mq.edu.au' },
-			{ y: 2, label: 'wikimedia.org' }
+			dp= [
+			{ y:5, label: 'nih.gov' },
+			{ y:2, label: 'jfponline.com' },
+			{ y:2, label: 'waikato.ac.nz' },
+			{ y:1, label: 'mq.edu.au' },
+			{ y:1, label: 'tuxfamily.org' },
+			{ y:1, label: 'aph.gov.au' },
+			{ y:1, label: 'nus.edu.sg:8080' },
+			{ y:1, label: 'apache.org' },
+			{ y:1, label: 'sri.com' },
+			{ y:1, label: 'sun.ac.za' },
+			{ y:1, label: 'wikipedia.org' },
+			{ y:1, label: 'wiktionary.org' },
+			{ y:1, label: 'foldoc.org' },
+			{ y:1, label: 'onelook.com' },
+			{ y:1, label: 'uci.edu' },
+			{ y:1, label: 'cornell.edu' },
+			{ y:1, label: 'sindhwani.org' },
+			{ y:1, label: 'virginia.edu' },
+			{ y:1, label: 'unimelb.edu' }
 			
 		]
 		}
 		else if(dt==2012)
 		{
-			dp= [                                         
-			{ y: 12, label: 'stanford.edu' },      
-			{ y: 14, label: 'google.com' },
-			{ y: 8, label: 'wikipedia.org' },
-			{ y: 5, label: 'umass.edu' },
-			{ y: 9, label: 'statmt.org' },
-			{ y: 3, label: 'cornell.edu' },
-			{ y: 3, label: 'h-its.org' },
-			{ y: 3, label: 'illinois.edu' },
-			{ y: 3, label: 'github.com' },
-			{ y: 2, label: 'wiktionary.org' },
-			{ y: 2, label: 'liwc.net' },
-			{ y: 2, label: 'dictionsoftware.com' },
-			{ y: 2, label: 'clopinet.com' },
-			{ y: 2, label: 'surdeanu.name' },
-			{ y: 2, label: 'unibo.it' },
-			{ y: 2, label: 'arxiv.org' },
-			{ y: 4, label: 'nist.gov' },
-			{ y: 2, label: 'cuni.cz' },
-			{ y: 2, label: 'vxu.se' },
-			{ y: 2, label: 'aspell.net' },
-			{ y: 2, label: 'uvt.nl' }
+			dp= [
+			{ y:1, label: 'uic.edu' },
+			{ y:1, label: 'google..com' },
+			{ y:1, label: 'psu.edu' },
+			{ y:1, label: 'microsoft.com' },
+			{ y:1, label: 'upenn.edu' },
+			{ y:1, label: 'imm.dtu.dk' },
+			{ y:1, label: 'mturk.com' },
+			{ y:2, label: 'cornell.edu' },
+			{ y:1, label: 'jhu.edu' },
+			{ y:1, label: 'eijiro.jp' },
+			{ y:1, label: 'monash.edu.au' },
+			{ y:1, label: 'kenkyusha.co.jp' },
+			{ y:1, label: 'edrdg.org' },
+			{ y:1, label: 'nih.gov' },
+			{ y:1, label: 'toronto.edu' },
+			{ y:1, label: 'askhermes.org' },
+			{ y:1, label: 'wikia.com' },
+			{ y:1, label: 'last.fm' },
+			{ y:2, label: 'gutenberg.org' }
 			
 		]
 		}
 		else if(dt==2013)
 		{
-			dp= [                                         
-			{ y: 23, label: 'google.com' },
-			{ y: 15, label: 'stanford.edu' },
-			{ y: 12, label: 'github.com' },
-			{ y: 11, label: 'wikipedia.org' },
-			{ y: 9, label: 'statmt.org' },
-			{ y: 8, label: 'illinois.edu' },
-			{ y: 5, label: 'unibo.it' },
-			{ y: 6, label: 'mturk.com' },
-			{ y: 9, label: 'upenn.edu' },
-			{ y: 8, label: 'nist.gov' },
-			{ y: 5, label: 'wiktionary.org' },
-			{ y: 4, label: 'kyoto-u.ac.jp' },
-			{ y: 3, label: 'lingfil.uu.se' },
-			{ y: 3, label: 'unitn.it' },
-			{ y: 5, label: 'sourceforge.net' },
-			{ y: 4, label: 'nih.gov' },
-			{ y: 3, label: 'svmlight.joachims.org' },
-			{ y: 3, label: 'tu-darmstadt.de' },
-			{ y: 3, label: 'tuwien.ac.at' },
-			{ y: 4, label: 'apache.org' }
+			dp= [ 
+			{ y:1, label: 'wsj.com' },
+			{ y:1, label: 'sourceforge.net' },
+			{ y:1, label: 'queensu.ca' },
+			{ y:1, label: 'twitter.com' },
+			{ y:2, label: 'google.com' },
+			{ y:1, label: 'smh.com.au' },
+			{ y:1, label: 'freelancer.com' },
+			{ y:1, label: 'mturk.com' },
+			{ y:1, label: 'scikit-learn.org' },
+			{ y:1, label: 'nih.gov' },
+			{ y:1, label: 'jfponline.com' },
+			{ y:1, label: 'mendeley.com' },
+			{ y:1, label: 'labtrove.org' },
+			{ y:1, label: 'brooklaw.edu' },
+			{ y:1, label: 'pjfi.org' },
+			{ y:1, label: 'nltk.org' },
+			{ y:1, label: 'nsw.gov.au' },
+			{ y:1, label: 'royalcommission.vic.gov' },
+			{ y:1, label: 'climatecommission.gov.au' },
+			{ y:1, label: 'wikipedia.org' },
+			{ y:1, label: 'fas.org' },
+			{ y:2, label: 'nist.gov' },
+			{ y:1, label: 'isical.ac.in' },
+			{ y:2, label: 'kaggle.com' }
 			
 		]
 		}
 		else if(dt==2014)
 		{
 			dp= [                                         
-			{ y: 34, label: 'google.com' },                  
-			{ y: 28, label: 'stanford.edu' },
-			{ y: 22, label: 'github.com' },
-			{ y: 18, label: 'sourceforge.net' },
-			{ y: 8, label: 'statmt.org' },
-			{ y: 16, label: 'upenn.edu' },
-			{ y: 12, label: 'wikipedia.org' },
-			{ y: 15, label: 'cmu.edu' },
-			{ y: 6, label: 'princeton.edu' },
-			{ y: 5, label: 'kyoto-u.ac.jp' },
-			{ y: 4, label: 'mturk.com' },
-			{ y: 4, label: 'homepages.inf.ed.ac.uk' },
-			{ y: 5, label: 'umass.edu' },
-			{ y: 6, label: 'fbk.eu' },
-			{ y: 3, label: 'qcri.org' },
-			{ y: 3, label: 'metaoptimize.com' },
-			{ y: 3, label: 'gurobi.com' },
-			{ y: 4, label: 'hit.edu.cn' },
-			{ y: 5, label: 'apache.org' },
-			{ y: 2, label: 'mattmahoney.net' },
-			{ y: 5, label: 'twitter.com' }
+			{ y:1, label: 'lth.se' },
+			{ y:1, label: 'vxu.se' },
+			{ y:2, label: 'stanford.edu' },
+			{ y:2, label: 'sourceforge.net' },
+			{ y:4, label: 'github.com' },
+			{ y:2, label: 'nih.gov' },
+			{ y:1, label: 'wikimedia.org' },
+			{ y:2, label: 'weibo.com' },
+			{ y:1, label: 'datatang.com' },
+			{ y:1, label: 'usgs.gov' },
+			{ y:1, label: 'crowdmap.com' },
+			{ y:2, label: 'weibo.com' },
+			{ y:2, label: 'google.com' },
+			{ y:1, label: 'sinaurl.cn' },
+			{ y:1, label: 'csiro.au' },
+			{ y:1, label: 'csndmc.ac.cn' },
+			{ y:2, label: 'redcross.org' },
+			{ y:1, label: 'training.fema.gov' },
+			{ y:2, label: 'lemurproject.org' },
+			{ y:1, label: 'usyd.edu.au' },
+			{ y:1, label: 'nist.gov' },
+			{ y:2, label: 'library.yale.edu' },
+			{ y:2, label: 'kaggle.com' },
+			{ y:6, label: 'dbpedia.org' }
 			
 		]
 		}
 		else if(dt==2015)
 		{
-			dp= [                                         
-			{ y: 85, label: 'github.com' },                                                    
-			{ y: 50, label: 'google.com' },
-			{ y: 30, label: 'stanford.edu' },
-			{ y: 18, label: 'wikipedia.org' },
-			{ y: 17, label: 'statmt.org' },
-			{ y: 12, label: 'upenn.edu' },
-			{ y: 11, label: 'sourceforge.net' },
-			{ y: 6, label: 'phontron.com' },
-			{ y: 15, label: 'nist.gov' },
-			{ y: 6, label: 'illinois.edu' },
-			{ y: 8, label: 'aclweb.org' },
-			{ y: 13, label: 'cmu.edu' },
-			{ y: 8, label: 'umass.edu' },
-			{ y: 6, label: 'ntu.edu.tw' },
-			{ y: 5, label: 'svmlight.joachims.org' },
-			{ y: 4, label: 'cornell.edu' },
-			{ y: 4, label: 'imdb.com' },
-			{ y: 4, label: 'sutd.edu.sg' },
-			{ y: 7, label: 'nih.gov' },
-			{ y: 4, label: 'chokkan.org' },
-			{ y: 4, label: 'nltk.org' }
+			dp= [  
+			{ y:1, label: 'nist.gov' },
+			{ y:1, label: 'toronto.edu' },
+			{ y:1, label: 'xpo6.com' },
+			{ y:9, label: 'google.com' },
+			{ y:6, label: 'github.com' },
+			{ y:1, label: 'sk-spell.sk.cx' },
+			{ y:1, label: 'khmertype.org' },
+			{ y:1, label: 'apache.org' },
+			{ y:1, label: 'primaresearch.org' },
+			{ y:1, label: 'digitisation.eu' },
+			{ y:1, label: 'villacollege.edu.mv' },
+			{ y:1, label: 'geeksincambodia.com' },
+			{ y:1, label: 'googlecode.blogspot.com.au' },
+			{ y:1, label: 'ancientgreekocr.org' },
+			{ y:1, label: 'nih.gov' },
+			{ y:1, label: 'umass.edu' },
+			{ y:1, label: 'sourceforge.net' },
+			{ y:5, label: 'nla.gov.au' },
+			{ y:1, label: 'alveo.edu.au' },
+			{ y:2, label: 'huni.net.au' }
 			
 		]
 		}
 		else if(dt==2016)
 		{
-			dp= [                                         
-			{ y: 114, label: 'github.com' },                                                               
-			{ y: 30, label: 'stanford.edu' },
-			{ y: 29, label: 'google.com' },
-			{ y: 17, label: 'wikipedia.org' },
-			{ y: 14, label: 'upenn.edu' },
-			{ y: 9, label: 'statmt.org' },
-			{ y: 7, label: 'cornell.edu' },
-			{ y: 5, label: 'nist.gov' },
-			{ y: 5, label: 'universaldependencies.org' },
-			{ y: 5, label: 'aclweb.org' },
-			{ y: 3, label: 'uniroma1.it' },
-			{ y: 4, label: 'illinois.edu' },
-			{ y: 4, label: 'arxiv.org' },
-			{ y: 4, label: 'nltk.org' },
-			{ y: 4, label: 'phontron.com' },
-			{ y: 4, label: 'federalreserve.gov' },
-			{ y: 4, label: 'colorado.edu' },
-			{ y: 3, label: 'statnlp.org' },
-			{ y: 3, label: 'uic.edu' },
-			{ y: 3, label: 'ntu.edu.tw' },
-			{ y: 3, label: 'torch.ch' }
+			dp= [  
+			{ y:1, label: 'cdc.gov' },
+			{ y:3, label: 'nltk.org' },
+			{ y:11, label: 'github.com' },
+			{ y:1, label: 'stanford.edu' },
+			{ y:2, label: 'google.com' },
+			{ y:1, label: 'ontoserver.csiro.au:8080' },
+			{ y:1, label: 'nlm.nih' },
+			{ y:2, label: 'umass.edu' },
+			{ y:1, label: 'sourceforge.net' },
+			{ y:1, label: 'illinois.edu' },
+			{ y:1, label: 'billposer.org' },
+			{ y:1, label: 'paradisec.org.au' },
+			{ y:1, label: 'scikit-learn.org' },
+			{ y:1, label: 'i2b2.org' },
+			{ y:1, label: 'twitter.com' },
+			{ y:1, label: 'geniaproject.org' },
+			{ y:1, label: 'pjfi.org' },
+			{ y:1, label: 'ntu.edu.tw' },
+			{ y:1, label: 'gnip.com' },
+			{ y:4, label: 'kaggle.com' }
 			
 		]
 		}
 		else if(dt==2017)
 		{
-			dp= [                                         
-			{ y: 210, label: 'github.com' },                                                               
-			{ y: 169, label: 'aclweb.org' },
-			{ y: 62, label: 'arxiv.org'},
-			{ y: 28, label: 'stanford.edu' },
-			{ y: 46, label: 'google.com' },
-			{ y: 24, label: 'wikipedia.org' },
-			{ y: 14, label: 'acm.org' },
-			{ y: 12, label: 'nips.cc' },
-			{ y: 15, label: 'statmt.org' },
-			{ y: 11, label: 'cmu.edu' },
-			{ y: 7, label: 'doi.org' },
-			{ y: 10, label: 'apache.org' },
-			{ y: 6, label: 'yelp.com' },
-			{ y: 5, label: 'qcri.org' },
-			{ y: 5, label: 'nltk.org' },
-			{ y: 5, label: 'upenn.edu' },
-			{ y: 5, label: 'princeton.edu' },
-			{ y: 4, label: 'wikimedia.org'},
-			{ y: 4, label: 'spacy.io' },
-			{ y: 4, label: 'scikit-learn.org' },
-			{ y: 4, label: 'hit.edu.cn' }
+			dp= [     
+			{ y:3, label: '.nips.cc' },
+			{ y:9, label: 'github.com' },
+			{ y:14, label: 'doi.org' },
+			{ y:1, label: 'mlr.press' },
+			{ y:6, label: 'arxiv.org' },
+			{ y:1, label: 'aclanthology.info' },
+			{ y:1, label: 'tensorflow.org' },
+			{ y:1, label: '128.2.220.95' },
+			{ y:1, label: 'aclweb.org' },
+			{ y:4, label: 'wikipedia.org' },
+			{ y:1, label: 'bitbucket.org' },
+			{ y:1, label: 'python.org' },
+			{ y:1, label: 'figshare.com' },
+			{ y:1, label: 'wikimedia.org' },
+			{ y:1, label: 'cnrs.fr' },
+			{ y:1, label: 'handle.net' },
+			{ y:1, label: 'archives-ouvertes.fr' },
+			{ y:1, label: 'langsci-press.org' },
+			{ y:1, label: 'www.ethnologue.com' }
 			
 		]
 		}
 		else if(dt==2018)
 		{
-			dp= [                                         
-			{ y: 438, label: 'github.com' },                                                
-			{ y: 44, label: 'stanford.edu' },
-			{ y: 32, label: 'statmt.org' },
-			{ y: 23, label: 'wikipedia.org' },
-			{ y: 21, label: 'arxiv.org' },
-			{ y: 42, label: 'google.com' },
-			{ y: 27, label: 'aclweb.org' },
-			{ y: 9, label: 'spacy.io' },
-			{ y: 9, label: 'fasttext.cc' },
-			{ y: 13, label: 'upenn.edu' },
-			{ y: 8, label: 'nlpl.eu' },
-			{ y: 8, label: 'kaggle.com' },
-			{ y: 8, label: 'tensorflow.org' },
-			{ y: 7, label: 'wikimedia.org' },
-			{ y: 7, label: 'openreview.net' },
-			{ y: 7, label: 'tu-darmstadt.de' },
-			{ y: 5, label: 'radimrehurek.com' },
-			{ y: 5, label: 'yelp.com' },
-			{ y: 5, label: 'opennmt.net' },
-			{ y: 5, label: 'nltk.org' },
-			{ y: 9, label: 'nih.gov' }
+			dp= [ 
+			{ y:1, label: 'ted.com' },
+			{ y:1, label: 'statmt.org' },
+			{ y:9, label: 'github.com' },
+			{ y:1, label: 'haifa.ac.il' },
+			{ y:2, label: 'uni-heidelberg.de' },
+			{ y:5, label: 'wipo.int' },
+			{ y:3, label: 'aclanthology.info' },
+			{ y:18, label: 'doi.org' },
+			{ y:7, label: 'arxiv.org' },
+			{ y:8, label: 'aclweb.org' },
+			{ y:1, label: 'proceedings.mlr.press' },
+			{ y:1, label: 'transacl.org' },
+			{ y:1, label: 'nips.cc' },
+			{ y:1, label: 'isi.edu' },
+			{ y:1, label: 'estepais.com' },
+			{ y:1, label: 'asiapacific.anu.edu.au' },
+			{ y:1, label: 'paradisec.org.au' },
+			{ y:1, label: 'fasttext.cc' },
+			{ y:1, label: 'tensorflow.org' },
+			{ y:1, label: 'cs.man.ac.uk' },
+			{ y:3, label: 'kaggle.com' }
 			
 		]
 		}
@@ -1973,271 +1839,8 @@ function onClick2(e)
 	
 	var n1 = dt.concat('-');
 	var n2 = n1.concat(e.dataPoint.x);
-	if (dtp=='19960')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://cspjhu.ece.j'}
-			
-		]
-	}
-	else if (dtp=='19961')
-	{
-		dp = [                                         
-			{ y: 1, label: "http://www'phnetik'uni-muenchen'de/"}
-			
-		]
-	}
-	else if (dtp=='19980')
-	{
-		dp = [                                         
-						
-		]
-	}
-	else if (dtp=='19990')
-	{
-		dp = [                                         
-			{ y: 2, label: 'stp.ling.uu.se' }		
-		]
-	}
-	else if (dtp=='19991')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://uvw.gospelcom.net' }		
-		]
-	}
-	else if (dtp=='19992')
-	{
-		dp = [                                         
-			{ y: 1, label: "http://www.lsi.upc.es/'padro" }			
-		]
-	}
-	else if (dtp=='19993')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.cs.vassar.edu/CES/' }			
-		]
-	}
-	else if (dtp=='19994')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://morph.ldc' }			
-		]
-	}
-	else if (dtp=='19995')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://ilk.kub.nl/' }			
-		]
-	}
-	else if (dtp=='19996')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://info.ox.ac.uk/' }			
-		]
-	}
-	else if (dtp=='19997')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.dcs.shef.ac.uk/research/ilash' }			
-		]
-	}
-	else if (dtp=='20000')
-	{
-		dp = [                                         
-			{ y: 2, label: 'www.rd.nacsis.ac.jp' }			
-		]
-	}
-	else if (dtp=='20001')
-	{
-		dp = [                                         
-			{ y: 2, label: 'www.ilc.pi.cnr.it' }			
-		]
-	}
-	else if (dtp=='20002')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.reseaxch.att.com/lewis/' }			
-		]
-	}
-	else if (dtp=='20003')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.activa.arrakis.es' }			
-		]
-	}
-	else if (dtp=='20004')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.linux.com' }			
-		]
-	}
-	else if (dtp=='20005')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://khnt.hit.uib.no/icame/manuals/brown/' }			
-		]
-	}
-	else if (dtp=='20006')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.itri.brighton.ac.uk/' }			
-		]
-	}
-	else if (dtp=='20010')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.acronymfinder' }			
-		]
-	}
-	else if (dtp=='20011')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.infoplease.com' }			
-		]
-	}
-	else if (dtp=='20012')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.onelook.com' }			
-		]
-	}
-	else if (dtp=='20013')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.research.ibm.com/talent/.2001' }			
-		]
-	}
-	else if (dtp=='20014')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://sherlock.sims.berkeley.edu/docs/asis96/asis96' }			
-		]
-	}
-	else if (dtp=='20015')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www9.org/w9cdrom/363/363.html' }			
-		]
-	}
-	else if (dtp=='20016')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.ims.uni-stuttgart.de/projekte/' }			
-		]
-	}
-	else if (dtp=='20020')
-	{
-		dp = [                                         
-			{ y: 3, label: 'www.cs.cornell.edu' }			
-		]
-	}
-	else if (dtp=='20021')
-	{
-		dp = [                                         
-			{ y: 2, label: 'www.cs.brown.edu' }			
-		]
-	}
-	else if (dtp=='20022')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.sle.sharp.co.uk/senseval2/' }			
-		]
-	}
-	else if (dtp=='20023')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.cs.cmu.edu/afs/cs/user/aberger/' }			
-		]
-	}
-	else if (dtp=='20024')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.mindfuleye.com/about/lexant.htm' }			
-		]
-	}
-	else if (dtp=='20025')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://reviews.imdb.com/Reviews/' }			
-		]
-	}
-	else if (dtp=='20026')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://svmlight.joachims.org' }			
-		]
-	}
-	else if (dtp=='20027')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.english.bham.ac.uk/staff/oliver/soft-' }			
-		]
-	}
-	else if (dtp=='20028')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.freedict.com' }			
-		]
-	}
-	else if (dtp=='20029')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://biz.yahoo.com/news/medical.html' }			
-		]
-	}
-	else if (dtp=='200210')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.isi.edu/natural-language/projects/rewrite/' }			
-		]
-	}
-	else if (dtp=='200211')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.research.att.com/sw/tools/fsm/' }			
-		]
-	}
-	else if (dtp=='200212')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.mizar.org' }			
-		]
-	}
-	else if (dtp=='200213')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.cogsci.ed.ac.uk/chrisbr/papers/mt-' }			
-		]
-	}
-	else if (dtp=='200214')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://winnie.kuis.kyoto-u.ac.jp/dictation' }			
-		]
-	}else if (dtp=='200215')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://chasen.aist-nara.ac.jp' }			
-		]
-	}
-	else if (dtp=='200216')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://cs.nyu.edu/cs/projects/proteus/irex/index-e.html' }			
-		]
-	}else if (dtp=='200217')
-	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.searchengineshowdown.com/' }			
-		]
-	}
-	else if (dtp=='200218')
-	{
-		dp = [                                         
-			{ y: 1, label: 'waikato.ac.nz' }			
-		]
-	}
-	else if (dtp=='20030')
+	
+	if (dtp=='20030')
 	{
 		dp = [                                         
 			{ y: 2, label: 'nlp.cs.nyu.edu' },	
