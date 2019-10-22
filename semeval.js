@@ -690,7 +690,7 @@ var chart = new CanvasJS.Chart("chartContainer8", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "CONLL : Avg. number of Tables per Paper per Year",
+		name: "SEMEVAL : Avg. number of Tables per Paper per Year",
 		dataPoints: [
 			
 			
@@ -779,7 +779,7 @@ var chart = new CanvasJS.Chart("chartContainer9", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "CONLL: Avg. number of Figures per Paper per Year",
+		name: "SEMEVAL: Avg. number of Figures per Paper per Year",
 		dataPoints: [
 			
 			
