@@ -2178,10 +2178,10 @@ function onClick2(e)
 	{
 		dp = [                                         
 			{ y: 6, label: 'www.nist.gov' },
+			{ y: 4, label: 'trec.nist.gov' },
 			{ y: 1, label: 'http://www.itl.nist.gov/iad/894.01/tests/ace/' },
 			{ y: 1, label: 'http://duc.nist.gov' },
 			{ y: 1, label: 'http://www-24.nist.gov/projects/aquaint/opinion.html' },
-			{ y: 4, label: 'trec.nist.gov' },
 			{ y: 1, label: 'http://www-nlpir.nist.gov/projects/trecvid/' }
 			
 		]
