@@ -1866,10 +1866,10 @@ function onClick2(e)
 	}
 	else if (dtp=='20051')
 	{
-		dp = [                                         
+		dp = [ 
+			{ y: 2, label: 'opennlp.sourceforge.net' },
 			{ y: 1, label: 'http://maxent.sourceforge.net/' },
 			{ y: 1, label: 'http://crf.sourceforge.net/' },
-			{ y: 2, label: 'opennlp.sourceforge.net' },
 			{ y: 1, label: 'http://jbnc.sourceforge.net' },
 			{ y: 1, label: 'http://aspell.sourceforge.net/' },
 			{ y: 2, label: 'sourceforge.net' }
@@ -1879,9 +1879,9 @@ function onClick2(e)
 	}
 	else if (dtp=='20052')
 	{
-		dp = [                                         
-			{ y: 5, label: 'www.itl.nist.gov' },
+		dp = [ 
 			{ y: 2, label: 'duc.nist.gov' },
+			{ y: 5, label: 'www.itl.nist.gov' },
 			{ y: 9, label: 'www.nist.gov' },
 			{ y: 8, label: 'trec.nist.gov' }
 			
@@ -1899,10 +1899,10 @@ function onClick2(e)
 	}
 	else if (dtp=='20054')
 	{
-		dp = [                                         
+		dp = [ 
+			{ y: 2, label: 'www.cs.cmu.edu' },
 			{ y: 1, label: 'http://www.link.cs.cmu.edu/link/' },
 			{ y: 1, label: 'http://www-2.cs.cmu.edu/~lemur'},
-			{ y: 2, label: 'www.cs.cmu.edu' },
 			{ y: 1, label: 'http://privacy.cs.cmu.edu/dataprivacy/' },
 			{ y: 1, label: 'http://www.speech.cs.cmu.edu/cgi-bin/cmudict' },
 			{ y: 1, label: 'http://lib.stat.cmu.edu/' }
@@ -2016,9 +2016,9 @@ function onClick2(e)
 	}
 	else if (dtp=='20060')
 	{
-		dp = [                                         
-			{ y: 1, label: 'http://www.radar.cs.cmu.edu/external.asp' },
+		dp = [         
 			{ y: 2, label:  'www.cs.cmu.edu' },
+			{ y: 1, label: 'http://www.radar.cs.cmu.edu/external.asp' },
 			{ y: 1, label: 'http://penance.is.cs.cmu.edu/iwslt2005' },
 			{ y: 1, label: 'http://www.link.cs.cmu.edu/link/' },
 			{ y: 1, label: 'http://www.speech.cs.cmu.edu/comp.speech/' }
@@ -2095,9 +2095,9 @@ function onClick2(e)
 	}
 	else if (dtp=='200610')
 	{
-		dp = [                                         
-			{ y: 1, label: 'http://minorthird.sourceforge.net/' },
+		dp = [  
 			{ y: 2, label: 'sourceforge.net' },
+			{ y: 1, label: 'http://minorthird.sourceforge.net/' },
 			{ y: 1, label: 'http://infomap-nlp.sourceforge.net'},
 			{ y: 2, label: 'secondstring.sourceforge.net' },
 			{ y: 2, label: 'bionlp.sourceforge.net' },
@@ -2177,12 +2177,11 @@ function onClick2(e)
 	else if (dtp=='200620')
 	{
 		dp = [                                         
-			
+			{ y: 6, label: 'www.nist.gov' },
 			{ y: 1, label: 'http://www.itl.nist.gov/iad/894.01/tests/ace/' },
 			{ y: 1, label: 'http://duc.nist.gov' },
 			{ y: 1, label: 'http://www-24.nist.gov/projects/aquaint/opinion.html' },
 			{ y: 4, label: 'trec.nist.gov' },
-			{ y: 6, label: 'www.nist.gov' },
 			{ y: 1, label: 'http://www-nlpir.nist.gov/projects/trecvid/' }
 			
 		]
