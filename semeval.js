@@ -24,7 +24,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "SEMEVAL: Long Papers",
 		dataPoints: [
 		
 		
@@ -136,7 +136,7 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Old Authors",
+		name: "SEMEVAL: Old Authors",
 		dataPoints: [
 		
 		
@@ -240,7 +240,7 @@ var chart = new CanvasJS.Chart("chartContainer3", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Papers per Author",
+		name: "SEMEVAL: Avg. number of Papers per Author",
 		dataPoints: [
 			
 			
@@ -325,7 +325,7 @@ var chart = new CanvasJS.Chart("chartContainer4", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Authors per Paper per Year",
+		name: "SEMEVAL: Avg. number of Authors per Paper per Year",
 		dataPoints: [
 			
 			
@@ -411,7 +411,7 @@ var chart = new CanvasJS.Chart("chartContainer5", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "SEMEVAL: Long Papers",
 		dataPoints: [
 			
 			
@@ -525,7 +525,7 @@ var chart = new CanvasJS.Chart("chartContainer6", {
 		showInLegend: true,
 		click: onClick,
 		color: "#0303AC",
-		name: "SEMEVAL URLs per Paper 199682018",
+		name: "SEMEVAL: URLs per Paper 199682018",
 		dataPoints: [
 			
 			

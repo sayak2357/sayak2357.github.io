@@ -24,7 +24,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "TACL: Long Papers",
 		dataPoints: [
 		
 		
@@ -123,7 +123,7 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Old Authors",
+		name: "TACL: Old Authors",
 		dataPoints: [
 		
 				{ y: 0.0, x: new Date(2013,0) },
@@ -215,7 +215,7 @@ var chart = new CanvasJS.Chart("chartContainer3", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Papers per Author",
+		name: "TACL: Avg. number of Papers per Author",
 		dataPoints: [
 			
 			
@@ -294,7 +294,7 @@ var chart = new CanvasJS.Chart("chartContainer4", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Authors per Paper per Year",
+		name: "TACL: Avg. number of Authors per Paper per Year",
 		dataPoints: [
 			
 			
@@ -374,7 +374,7 @@ var chart = new CanvasJS.Chart("chartContainer5", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "TACL: Long Papers",
 		dataPoints: [
 			
 			
@@ -476,7 +476,7 @@ var chart = new CanvasJS.Chart("chartContainer6", {
 		showInLegend: true,
 		click: onClick,
 		color: "#0303AC",
-		name: "TACL URLs per Paper 2013-2019",
+		name: "TACL: URLs per Paper 2013-2019",
 		dataPoints: [
 			
 			

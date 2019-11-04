@@ -25,7 +25,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "COLING: Long Papers",
 		dataPoints: [
 			
 			
@@ -103,28 +103,28 @@ var chart = new CanvasJS.Chart("chartContainer", {
 			
 			
 			
-			{ y: 7, x: new Date(1965,0) },
-			{ y: 9, x: new Date(1967,0) },
-			{ y: 94, x: new Date(1969,0) },
-			{ y: 13, x: new Date(1973,0) },
-			{ y: 50, x: new Date(1980,0) },
-			{ y: 57, x: new Date(1982,0) },
-			{ y: 154, x: new Date(1986,0) },
-			{ y: 82, x: new Date(1988,0) },
-			{ y: 25, x: new Date(1990,0) },
-			{ y: 61, x: new Date(1992,0) },
-			{ y: 98, x: new Date(1994,0) },
-			{ y: 111, x: new Date(1998,0) },
-			{ y: 84, x: new Date(2000,0) },
-			{ y: 169, x: new Date(2002,0) },
-			{ y: 200, x: new Date(2004,0) },
-			{ y: 147, x: new Date(2006,0) },
-			{ y: 0, x: new Date(2008,0) },
-			{ y: 1, x: new Date(2010,0) },
-			{ y: 0, x: new Date(2012,0) },
-			{ y: 4, x: new Date(2014,0) },
-			{ y: 2, x: new Date(2016,0) },
-			{ y: 4, x: new Date(2018,0) }
+			{ y: 0, x: new Date(1965,0) },
+			{ y: 0, x: new Date(1967,0) },
+			{ y: 0, x: new Date(1969,0) },
+			{ y: 32, x: new Date(1973,0) },
+			{ y: 0, x: new Date(1980,0) },
+			{ y: 75, x: new Date(1982,0) },
+			{ y: 0, x: new Date(1986,0) },
+			{ y: 85, x: new Date(1988,0) },
+			{ y: 177, x: new Date(1990,0) },
+			{ y: 153, x: new Date(1992,0) },
+			{ y: 108, x: new Date(1994,0) },
+			{ y: 129, x: new Date(1998,0) },
+			{ y: 90, x: new Date(2000,0) },
+			{ y: 0, x: new Date(2002,0) },
+			{ y: 0, x: new Date(2004,0) },
+			{ y: 0, x: new Date(2006,0) },
+			{ y: 12, x: new Date(2008,0) },
+			{ y: 15, x: new Date(2010,0) },
+			{ y: 67, x: new Date(2012,0) },
+			{ y: 28, x: new Date(2014,0) },
+			{ y: 64, x: new Date(2016,0) },
+			{ y: 35, x: new Date(2018,0) }
 			
 			
 			
@@ -178,7 +178,7 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Old Authors",
+		name: "COLING: Old Authors",
 		dataPoints: [
 			
 			
@@ -304,7 +304,7 @@ var chart = new CanvasJS.Chart("chartContainer3", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Papers per Author",
+		name: "COLING: Avg. number of Papers per Author",
 		dataPoints: [
 			
 			
@@ -385,7 +385,7 @@ var chart = new CanvasJS.Chart("chartContainer4", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg number of Authors per Paper",
+		name: "COLING: Avg number of Authors per Paper",
 		dataPoints: [
 			
 			
@@ -452,7 +452,7 @@ var chart = new CanvasJS.Chart("chartContainer5", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "COLING: Long Papers",
 		dataPoints: [
 			
 			
@@ -608,7 +608,7 @@ var chart = new CanvasJS.Chart("chartContainer6", {
 		showInLegend: true,
 		click: onClick,
 		color: "#0303AC",
-		name: "COLING URLs per Paper 1965-2018 Click on bar for primary domains",
+		name: "COLING: URLs per Paper 1965-2018 Click on bar for primary domains",
 		dataPoints: [
 			
 			

@@ -24,7 +24,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "HLT: Long Papers",
 		dataPoints: [
 				{ y: 19, x: new Date(1986,0) },
 				{ y: 4, x: new Date(1989,0) },
@@ -67,18 +67,18 @@ var chart = new CanvasJS.Chart("chartContainer", {
 			name: "Demo Paper",
 			color: "#f70202",
 			dataPoints: [
-				{ y: 5, x: new Date(1986,0) },
-				{ y: 129, x: new Date(1989,0) },
-				{ y: 90, x: new Date(1990,0) },
-				{ y: 102, x: new Date(1991,0) },
-				{ y: 122, x: new Date(1992,0) },
-				{ y: 114, x: new Date(1993,0) },
-				{ y: 120, x: new Date(1994,0) },
-				{ y: 70, x: new Date(2001,0) },
-				{ y: 44, x: new Date(2003,0) },
-				{ y: 1, x: new Date(2004,0) },
-				{ y: 1, x: new Date(2005,0) },
-				{ y: 54, x: new Date(2006,0) }
+				{ y: 0, x: new Date(1986,0) },
+				{ y: 0, x: new Date(1989,0) },
+				{ y: 0, x: new Date(1990,0) },
+				{ y: 0, x: new Date(1991,0) },
+				{ y: 0, x: new Date(1992,0) },
+				{ y: 0, x: new Date(1993,0) },
+				{ y: 0, x: new Date(1994,0) },
+				{ y: 0, x: new Date(2001,0) },
+				{ y: 17, x: new Date(2003,0) },
+				{ y: 12, x: new Date(2004,0) },
+				{ y: 19, x: new Date(2005,0) },
+				{ y: 11, x: new Date(2006,0) }
 			]
 	}]
 });
@@ -134,7 +134,7 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Old Authors",    
+		name: "HLT: Old Authors",    
 		dataPoints: [
 				{ y: 0.0, x: new Date(1986,0) },
 				{ y: 0.0851063829787234, x: new Date(1989,0) },
@@ -212,7 +212,7 @@ var chart = new CanvasJS.Chart("chartContainer3", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Papers per Author per Year",
+		name: "HLT: Avg. number of Papers per Author per Year",
 		dataPoints: [
 			
 			
@@ -269,7 +269,7 @@ var chart = new CanvasJS.Chart("chartContainer4", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Authors per Paper per Year",
+		name: "HLT: Avg. number of Authors per Paper per Year",
 		dataPoints: [
 			
 			
@@ -339,7 +339,7 @@ var chart = new CanvasJS.Chart("chartContainer5", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "HLT: Long Papers",
 		dataPoints: [
 			
 			
@@ -466,7 +466,7 @@ var chart = new CanvasJS.Chart("chartContainer6", {
 		showInLegend: true,
 		click: onClick,
 		color: "#0303AC",
-		name: "Avg. number of URLs per Paper per Year",
+		name: "HLT: Avg. number of URLs per Paper per Year",
 		dataPoints: [
 			
 			
@@ -529,7 +529,7 @@ var chart = new CanvasJS.Chart("chartContainer7", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of URLs in Footnote per Paper per Year",
+		name: "HLT: Avg. number of URLs in Footnote per Paper per Year",
 		dataPoints: [
 			
 			
@@ -601,7 +601,7 @@ var chart = new CanvasJS.Chart("chartContainer8", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Tables per Paper per Year",
+		name: "HLT: Avg. number of Tables per Paper per Year",
 		dataPoints: [
 			
 			
@@ -684,7 +684,7 @@ var chart = new CanvasJS.Chart("chartContainer9", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Figures per Paper per Year",
+		name: "HLT: Avg. number of Figures per Paper per Year",
 		dataPoints: [
 			
 			
@@ -2178,10 +2178,10 @@ function onClick2(e)
 	{
 		dp = [                                         
 			{ y: 6, label: 'www.nist.gov' },
-			{ y: 4, label: 'trec.nist.gov' },
 			{ y: 1, label: 'http://www.itl.nist.gov/iad/894.01/tests/ace/' },
 			{ y: 1, label: 'http://duc.nist.gov' },
 			{ y: 1, label: 'http://www-24.nist.gov/projects/aquaint/opinion.html' },
+			{ y: 4, label: 'trec.nist.gov' },
 			{ y: 1, label: 'http://www-nlpir.nist.gov/projects/trecvid/' }
 			
 		]

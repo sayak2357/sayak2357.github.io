@@ -24,7 +24,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "EACL: Long Papers",
 		dataPoints: [
 				{ y: 12, x: new Date(1983,0) },
 				{ y: 15, x: new Date(1985,0) },
@@ -143,7 +143,7 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Old Authors",    
+		name: "EACL: Old Authors",    
 		dataPoints: [
 				{ y: 0.0, x: new Date(1983,0) },
 				{ y: 0.08695652173913043, x: new Date(1985,0) },
@@ -227,7 +227,7 @@ var chart = new CanvasJS.Chart("chartContainer3", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Papers per Author per Year",
+		name: "EACL: Avg. number of Papers per Author per Year",
 		dataPoints: [
 			
 			
@@ -287,7 +287,7 @@ var chart = new CanvasJS.Chart("chartContainer4", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Authors per Paper per Year",
+		name: "EACL: Avg. number of Authors per Paper per Year",
 		dataPoints: [
 			
 			
@@ -360,7 +360,7 @@ var chart = new CanvasJS.Chart("chartContainer5", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "EACL: Long Papers",
 		dataPoints: [
 			
 			
@@ -493,7 +493,7 @@ var chart = new CanvasJS.Chart("chartContainer6", {
 		showInLegend: true,
 		click: onClick,
 		color: "#0303AC",
-		name: "Avg. number of URLs per Paper per Year",
+		name: "EACL: Avg. number of URLs per Paper per Year",
 		dataPoints: [
 			
 			
@@ -559,7 +559,7 @@ var chart = new CanvasJS.Chart("chartContainer7", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of URLs in Footnote per Paper per Year",
+		name: "EACL: Avg. number of URLs in Footnote per Paper per Year",
 		dataPoints: [
 			
 			
@@ -633,7 +633,7 @@ var chart = new CanvasJS.Chart("chartContainer8", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Tables per Paper per Year",
+		name: "EACL: Avg. number of Tables per Paper per Year",
 		dataPoints: [
 			
 			
@@ -719,7 +719,7 @@ var chart = new CanvasJS.Chart("chartContainer9", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Figures per Paper per Year",
+		name: "EACL: Avg. number of Figures per Paper per Year",
 		dataPoints: [
 			
 			

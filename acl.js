@@ -10,6 +10,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 	axisX: {
 		interval: 1,
 		intervalType: "year"
+		
 	},
 	
 	axisY:{
@@ -25,7 +26,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "ACL : Long Papers",
 		dataPoints: [
 			
 			
@@ -232,7 +233,7 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Old Authors",
+		name: "ACL: Old Authors",
 		dataPoints: [
 			
 			
@@ -407,7 +408,7 @@ var chart = new CanvasJS.Chart("chartContainer3", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Papers per Author",
+		name: "ACL: Avg. number of Papers per Author",
 		dataPoints: [
 			
 			
@@ -506,7 +507,7 @@ var chart = new CanvasJS.Chart("chartContainer4", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg number of Authors per Paper",
+		name: "ACL: Avg number of Authors per Paper",
 		dataPoints: [
 			
 			
@@ -591,7 +592,7 @@ var chart = new CanvasJS.Chart("chartContainer5", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "ACL: Long Papers",
 		dataPoints: [
 			
 			
@@ -801,7 +802,7 @@ var chart = new CanvasJS.Chart("chartContainer6", {
 		showInLegend: true,
 		click: onClick,
 		color: "#0303AC",
-		name: "ACL URLs per Paper 1979-2018 Click on bar for primary domains",
+		name: "ACL: URLs per Paper 1979-2018 Click on bar for primary domains",
 		dataPoints: [
 			
 			

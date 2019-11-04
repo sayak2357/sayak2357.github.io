@@ -24,7 +24,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "ALTA: Long Papers",
 		dataPoints: [
 		
 		
@@ -142,7 +142,7 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Old Authors",
+		name: "ALTA: Old Authors",
 		dataPoints: [
 		
 		
@@ -252,7 +252,7 @@ var chart = new CanvasJS.Chart("chartContainer3", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Papers per Author",
+		name: "ALTA: Avg. number of Papers per Author",
 		dataPoints: [
 			
 			
@@ -340,7 +340,7 @@ var chart = new CanvasJS.Chart("chartContainer4", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Avg. number of Authors per Paper per Year",
+		name: "ALTA: Avg. number of Authors per Paper per Year",
 		dataPoints: [
 			
 			
@@ -429,7 +429,7 @@ var chart = new CanvasJS.Chart("chartContainer5", {
 		type: "stackedColumn",
 		showInLegend: true,
 		color: "#0303AC",
-		name: "Long Papers",
+		name: "ALTA: Long Papers",
 		dataPoints: [
 			
 			
@@ -549,7 +549,7 @@ var chart = new CanvasJS.Chart("chartContainer6", {
 		showInLegend: true,
 		click: onClick,
 		color: "#0303AC",
-		name: "ALTA URLs per Paper 2003-2018",
+		name: "ALTA: URLs per Paper 2003-2018",
 		dataPoints: [
 			
 			

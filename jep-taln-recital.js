@@ -55,9 +55,9 @@ var chart = new CanvasJS.Chart("chartContainer", {
 			name: "Demo Paper",
 			color: "#f70202",
 			dataPoints: [
-				{ y: 2, x: new Date(2012,0) },
-				{ y: 35, x: new Date(2013,0) },
-				{ y: 36, x: new Date(2014,0) }
+				{ y: 10, x: new Date(2012,0) },
+				{ y: 13, x: new Date(2013,0) },
+				{ y: 14, x: new Date(2014,0) }
 			]
 		}
 		]
