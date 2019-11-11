@@ -1267,82 +1267,134 @@ function onClick(e) {
 		var yr = dt;
 		
 		
-		
-		if(dt==2012)
+		if(dt==2009)
 		{
-			dp= [  
-			{ y:2, label: 'anl.gov' },
-			{ y:3, label: 'nist.gov' },
-			{ y:5, label: 'cnrs.fr' },
-			{ y:2, label: 'gnu.org' },
-			{ y:2, label: 'inpg.fr' },
-			{ y:4, label: 'praat.org' },
-			{ y:10, label: 'google.com' },
-			{ y:6, label: 'uni-stuttgart.de' },
-			{ y:3, label: 'gc.ca' },
-			{ y:5, label: 'statmt.org' },
-			{ y:5, label: 'inria.fr' },
-			{ y:6, label: 'upenn.edu' },
-			{ y:3, label: 'limsi.fr' },
-			{ y:2, label: 'projet-pfc.net' },
-			{ y:3, label: 'quaero.org' },
-			{ y:2, label: 'philosophie.uni-stuttgart.de' },
-			{ y:2, label: 'personnels.univ-paris3.fr' },
-			{ y:2, label: 'microsoft.com' },
-			{ y:2, label: 'yahoo.com' },
-			{ y:3, label: 'stanford.edu' }
+			dp= [
+			{ y:4, label: 'upc.es' },
+			{ y:3, label: 'www-tsujii.is.s.u' },
+			{ y:10, label: 'sourceforge.net' },
+			{ y:2, label: 'uvt.nl' },
+			{ y:6, label: 'nist.gov' },
+			{ y:2, label: 'nii.ac.jp' },
+			{ y:2, label: 'ualberta.ca' },
+			{ y:3, label: 'umn.edu' },
+			{ y:2, label: 'tartarus.org' },
+			{ y:4, label: 'shef.ac.uk' },
+			{ y:2, label: 'apache.org' },
+			{ y:3, label: 'ua.ac.be' },
+			{ y:3, label: 'mitre.org' },
+			{ y:2, label: 'experienceproject.com' },
+			{ y:3, label: 'senseval.org' },
+			{ y:3, label: 'unt.edu' },
+			{ y:7, label: 'princeton.edu' },
+			{ y:2, label: 'berkeley.edu' },
+			{ y:3, label: 'google.com' },
+			{ y:2, label: 'wikimedia.org' }
+			
+		]
+		}
+		if(dt==2011)
+		{
+			dp= [
+			{ y:5, label: 'jrc.it' },
+			{ y:4, label: 'bbn.com' },
+			{ y:9, label: 'dfki.de' },
+			{ y:10, label: 'sourceforge.net' },
+			{ y:6, label: 'stanford.edu' },
+			{ y:6, label: 'statmt.org' },
+			{ y:3, label: 'newsbrief.eu' },
+			{ y:5, label: 'europa.eu' },
+			{ y:2, label: 'umass.edu' },
+			{ y:2, label: 'nlpado.de' },
+			{ y:8, label: 'google.com' },
+			{ y:2, label: 'uni-stuttgart.de' },
+			{ y:3, label: 'upenn.edu' },
+			{ y:2, label: 'gutenberg.org' },
+			{ y:2, label: 'unige.ch' },
+			{ y:8, label: 'nist.gov' },
+			{ y:2, label: 'joachims.org' },
+			{ y:2, label: 'princeton.edu' },
+			{ y:2, label: 'sri.com' },
+			{ y:3, label: 'nih.gov' }
 			
 		]
 		}
 		else if(dt==2013)
 		{
-			dp= [  
-			{ y:2, label: 'cnrs.fr' },
-			{ y:5, label: 'inria.fr' },
-			{ y:4, label: 'univ-mlv.fr' },
-			{ y:1, label: 'nyu.edu' },
-			{ y:2, label: 'github.com' },
-			{ y:3, label: 'elra.info' },
-			{ y:2, label: 'duden.de' },
-			{ y:2, label: 'nih.gov' },
-			{ y:4, label: 'univ-nantes.fr' },
-			{ y:5, label: 'google.com' },
-			{ y:2, label: 'quaero.org' },
-			{ y:2, label: 'wikipedia.org' },
-			{ y:2, label: 'apache.org' },
-			{ y:1, label: 'archive.org' },
-			{ y:2, label: 'upenn.edu' },
-			{ y:3, label: 'cpan.org' },
-			{ y:4, label: 'uni-stuttgart.de' },
-			{ y:2, label: 'statmt.org' },
-			{ y:2, label: 'wikimedia.org' },
-			{ y:3, label: 'loria.fr' }
+			dp= [ 
+			{ y:2, label: 'nyu.edu' },
+			{ y:3, label: 'upenn.edu' },
+			{ y:1, label: 'columbia.edu' },
+			{ y:4, label: 'gate.ac.uk' },
+			{ y:5, label: 'stanford.edu' },
+			{ y:10, label: 'google.com' },
+			{ y:1, label: 'waikato.ac.nz' },
+			{ y:6, label: 'wikipedia.org' },
+			{ y:6, label: 'apache.org' },
+			{ y:2, label: 'ntu.edu.tw' },
+			{ y:3, label: 'github.com' },
+			{ y:5, label: 'statmt.org' },
+			{ y:2, label: 'natcorp.ox.ac.uk' },
+			{ y:3, label: 'ipipan.waw.pl' },
+			{ y:3, label: 'w3.org' },
+			{ y:3, label: 'joachims.org' },
+			{ y:6, label: 'wroc.pl' },
+			{ y:8, label: 'ir-facility.org' },
+			{ y:2, label: 'wndomains.fbk.eu' },
+			{ y:2, label: 'bultreebank.org' }
 			
 		]
 		}
-		else if(dt==2014)
+		else if(dt==2015)
 		{
 			dp= [
-			{ y:3, label: 'nih.gov' },
-			{ y:2, label: 'cnrtl.fr' },
-			{ y:2, label: 'lexique.org' },
-			{ y:4, label: 'atilf.fr' },
-			{ y:14, label: 'inria.fr' },
-			{ y:4, label: 'inist.fr' },
-			{ y:5, label: 'cnrs.fr' },
-			{ y:2, label: 'metaoptimize.com' },
-			{ y:6, label: 'google.com' },
-			{ y:6, label: 'wiktionary.org' },
-			{ y:2, label: 'kyloo.net' },
-			{ y:2, label: 'iptc.org' },
-			{ y:5, label: 'univ-tlse2.fr' },
-			{ y:2, label: 'frantext.fr' },
-			{ y:9, label: 'aclweb.org' },
-			{ y:7, label: 'jeuxdemots.org' },
-			{ y:4, label: 'wikimedia.org' },
-			{ y:8, label: 'statmt.org' },
-			{ y:4, label: 'github.com' },
-			{ y:2, label: 'nyu.edu' }
+			{ y:3, label: 'sf.net' },
+			{ y:4, label: 'acm.org' },
+			{ y:4, label: 'sourceforge.net' },
+			{ y:9, label: 'github.com' },
+			{ y:3, label: 'nist.gov' },
+			{ y:6, label: 'upenn.edu' },
+			{ y:6, label: 'nyu.edu' },
+			{ y:8, label: 'wikipedia.org' },
+			{ y:5, label: 'github.io' },
+			{ y:2, label: 'pdev.org.uk' },
+			{ y:4, label: 'googlecode.com' },
+			{ y:10, label: 'google.com' },
+			{ y:3, label: 'wroc.pl' },
+			{ y:2, label: 'r-project.org' },
+			{ y:2, label: 'utexas.edu' },
+			{ y:2, label: 'excitement-project.eu' },
+			{ y:3, label: 'ntu.edu.sg' },
+			{ y:3, label: 'stanford.edu' },
+			{ y:4, label: 'statmt.org' },
+			{ y:2, label: 'apple.com' }
+			
+			
+		]
+		}
+		else if(dt==2017)
+		{
+			dp= [
+			{ y:252, label: 'doi.org' },
+			{ y:3, label: 'wiktionary.org' },
+			{ y:11, label: 'google.com' },
+			{ y:46, label: 'github.com' },
+			{ y:3, label: 'statmt.org' },
+			{ y:5, label: 'qcri.org' },
+			{ y:4, label: 'wikipedia.org' },
+			{ y:93, label: 'aclweb.org' },
+			{ y:5, label: 'sourceforge.net' },
+			{ y:3, label: 'universaldependencies.org' },
+			{ y:48, label: 'acm.org' },
+			{ y:15, label: 'arxiv.org' },
+			{ y:7, label: 'goo.gl' },
+			{ y:4, label: 'qatarliving.com' },
+			{ y:4, label: 'nips.cc' },
+			{ y:8, label: 'github.io' },
+			{ y:4, label: 'crowdflower.com' },
+			{ y:6, label: 'clarin-pl.eu' },
+			{ y:7, label: 'stanford.edu' },
+			{ y:7, label: 'cuni.cz' }
 			
 		]
 		}
@@ -1414,442 +1466,779 @@ function onClick2(e)
 	var n1 = dt.concat('-');
 	var n2 = n1.concat(e.dataPoint.x);
 	
-	
-	
-	if (dtp=='20120')
+	if (dtp=='20090')
 	{
 		dp = [                                         
 			
-			{ y: 2, label: 'www.mcs.anl.gov' }
+			{ y: 3, label: 'garraf.epsevg.upc.es' },
+			{ y: 1, label: 'http://www.lsi.upc.es/' }
 		]
 	}
-	else if (dtp=='20121')
+	else if (dtp=='20091')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'www.itl.nist.gov' },
-			{ y: 1, label:  'http://trec.nist.gov/data/qamain.html' }
+			{ y: 1, label: 'http://www-tsujii.is.s.u' },
+			{ y: 1, label: 'http://www-tsujii.is.s.u-' },
+			{ y: 1, label: 'http://www-tsujii.is.s.u-tokyo.ac.jp/GENIA/' }
 		]
 	}
-	else if (dtp=='20122')
-	{
-		dp = [                                         
-			{ y: 3, label:  'www.llf.cnrs.fr'},
-			{ y: 1, label:  'http://liris.cnrs.fr/cirdo/'},
-			{ y: 1, label:  'http://www.lapsyd.ddl.ish-lyon.cnrs.fr/'}
-		]
-	}
-	else if (dtp=='20123')
+	else if (dtp=='20092')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'www.gnu.org' }
+			{ y: 2, label: 'opennlp.sourceforge.net' },
+			{ y: 1, label: 'http://trove4j.sourceforge.net/' },
+			{ y: 1, label: 'http://cloc.sourceforge.net/' },
+			{ y: 1, label: 'http://nltk.sourceforge.net/' },
+			{ y: 1, label: 'http://wordlist.sourceforge.net/' },
+			{ y: 1, label: 'http://senseclusters.sourceforge.net/' },
+			{ y: 1, label: 'http://text-similarity.sourceforge.net' },
+			{ y: 2, label: 'sourceforge.net' }
 		]
 	}
-	else if (dtp=='20124')
+	else if (dtp=='20093')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'www.gipsa-lab.inpg.fr' }
+			{ y: 2, label: 'ilk.uvt.nl' }
 		]
 	}
-	else if (dtp=='20125')
+	else if (dtp=='20094')
 	{
 		dp = [                                         
 			
-			{ y: 4, label:  'www.praat.org' }
+			{ y: 2, label:'www.nist.gov' },
+			{ y: 1, label:'http://duc.nist.gov' },
+			{ y: 1, label:'http://trec.nist.gov' },
+			{ y: 1, label:'http://www-nlpir.nist.gov/works/papers/zp2/psearch' },
+			{ y: 1, label:'http://www.itl.nist.gov/div897/sqg/dads/HTML/rootedtree.html' }
 		]
 	}
-	else if (dtp=='20126')
-	{
-		dp = [                                         
-			{ y: 3, label:  'code.google.com' },
-			{ y: 1, label:  'http://code.google.come/' },
-			{ y: 4, label:  'translate.google.com' },
-			{ y: 1, label:  'http://news.google.com' },
-			{ y: 1, label:  'http://picasaweb.google.com/lh/photo/Pp3EyPQcQH1DaduXJK_9Mw' }
-		]
-	}
-	else if (dtp=='20127')
+	else if (dtp=='20095')
 	{
 		dp = [                                         
 			
-			{ y: 4, label:  'www.ims.uni-stuttgart.de' },
-			{ y: 2, label:  'margaux.philosophie.uni-stuttgart.de' }
+			{ y: 2, label: 'research.nii.ac.jp' }
 		]
 	}
-	else if (dtp=='20128')
+	else if (dtp=='20096')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'www.hc-sc.gc.ca' },
-			{ y: 1, label:  'http://www.afghanistan.gc.ca/canada-afghanistan' }
+			{ y: 2, label: 'www.cs.ualberta.ca' }
 		]
 	}
-	else if (dtp=='20129')
+	else if (dtp=='20097')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'statmt.org' },
-			{ y: 3, label:  'www.statmt.org' }
+			{ y: 3, label: 'www.d.umn.edu' }
 		]
 	}
-	else if (dtp=='201210')
+	else if (dtp=='20098')
 	{
 		dp = [                                         
 			
-			{ y: 1, label:  'http://bonzaiboost.gforge.inria.fr/' },
-			{ y: 3, label:  'alpage.inria.fr' },
-			{ y: 1, label:  'https://gforge.inria.fr/projects/lingwb' }
+			{ y: 2, label: 'snowball.tartarus.org' }
 		]
 	}
-	else if (dtp=='201211')
+	else if (dtp=='20099')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:   'www.cis.upenn.edu' },
-			{ y: 3, label:   'www.ldc.upenn.edu' },
-			{ y: 1, label:   'http://www.ircs.upenn.edu/arabic/' }
+			{ y: 3, label: 'www.dcs.shef.ac.uk' },
+			{ y: 1, label: 'http://nlp.shef.ac.uk/result/software.html' }
 		]
 	}
-	else if (dtp=='201212')
+	else if (dtp=='200910')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'wapiti.limsi.fr' },
-			{ y: 1, label:  'http://perso.limsi.fr/filhol/zebedee' }
+			{ y: 2, label: 'lucene.apache.org' }
 		]
 	}
-	else if (dtp=='201213')
+	else if (dtp=='200911')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'www.projet-pfc.net' }
+			{ y: 3, label: 'www.cnts.ua.ac.be' }
 		]
 	}
-	else if (dtp=='201214')
+	else if (dtp=='200912')
 	{
 		dp = [                                         
 			
-			{ y: 3, label:  'www.quaero.org' }
+			{ y: 3, label: 'fofoca.mitre.org' }
 		]
 	}
-	else if (dtp=='201215')
+	else if (dtp=='200913')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'margaux.philosophie.uni-stuttgart.de' }
+			{ y: 2, label:  'www.experienceproject.com' }
 		]
 	}
-	else if (dtp=='201216')
+	else if (dtp=='200914')
 	{
 		dp = [                                         
 			
-			{ y: 2, label: 'www.personnels.univ-paris3.fr' }
+			{ y: 3, label: 'www.senseval.org' }
 		]
 	}
-	else if (dtp=='201217')
+	else if (dtp=='200915')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'research.microsoft.com' }
+			{ y: 1, label: 'http://lit.csci.unt.edu/index.php/Downloads' },
+			{ y: 2, label: 'www.cse.unt.edu' }
 		]
 	}
-	else if (dtp=='201218')
+	else if (dtp=='200916')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'developer.yahoo.com' }
+			{ y: 1, label: 'http://wordnetweb.princeton.edu/perl/webwn' },
+			{ y: 6, label:  'wordnet.princeton.edu'}
 		]
 	}
-	else if (dtp=='2012019')
+	else if (dtp=='200917')
 	{
 		dp = [                                         
 			
-			{ y: 3, label:  'nlp.stanford.edu' }
+			{ y: 2, label: 'framenet.icsi.berkeley.edu' }
+		]
+	}
+	else if (dtp=='200918')
+	{
+		dp = [                                         
+			
+			{ y: 2, label: 'code.google.com' },
+			{ y: 1, label: 'http://www.google.com/' }
+		]
+	}
+	else if (dtp=='200919')
+	{
+		dp = [                                         
+			
+			{ y: 2, label: 'download.wikimedia.org' }
+		]
+	}
+	else if (dtp=='20110')
+	{
+		dp = [                                         
+			
+			{ y: 2, label: 'langtech.jrc.it' },
+			{ y: 1, label: 'http://press.jrc.it' },
+			{ y: 1, label: 'http://emm-labs.jrc.it/CLEventResources.csv' },
+			{ y: 1, label: 'http://wt.jrc.it/lt/Acquis/' }
+		]
+	}
+	else if (dtp=='20111')
+	{
+		dp = [                                         
+			
+			{ y: 2, label: 'www.bbn.com' },
+			{ y: 2, label: 'conll.bbn.com' }
+		]
+	}
+	else if (dtp=='20112')
+	{
+		dp = [                                         
+			
+			{ y: 3, label: 'www.dfki.de' },
+			{ y: 4, label: 'dare.dfki.de' },
+			{ y: 1, label: 'http://th-ordo.dfki.de/TechWatch_' },
+			{ y: 1, label: 'http://sprout.dfki.de/index.html' }
+		]
+	}
+	else if (dtp=='20113')
+	{
+		dp = [                                         
+			
+			{ y: 3, label: 'opennlp.sourceforge.net' },
+			{ y: 2, label: 'crfpp.sourceforge.net' },
+			{ y: 1, label: 'http://mecab.sourceforge.net/' },
+			{ y: 1, label: 'http://libots.sourceforge.net/' },
+			{ y: 1, label: 'http://tadm.sourceforge.net/' },
+			{ y: 1, label: 'http://cwb.sourceforge.net/' },
+			{ y: 1, label: 'http://sourceforge.net/projects/masayu-a/' }
+		]
+	}
+	else if (dtp=='20114')
+	{
+		dp = [                                         
+			
+			{ y: 5, label: 'nlp.stanford.edu' },
+			{ y: 1, label: 'http://cs.stanford.edu/people/nc/schemas' }
+		]
+	}
+	else if (dtp=='20115')
+	{
+		dp = [                                         
+			
+			{ y: 1, label: 'http://statmt.org/wmt09/training-monolingual.tar' },
+			{ y: 5, label: 'www.statmt.org' }
+		]
+	}
+	else if (dtp=='20116')
+	{
+		dp = [                                         
+			
+			{ y: 3, label: 'emm.newsbrief.eu' }
+		]
+	}
+	else if (dtp=='20117')
+	{
+		dp = [                                         
+			
+			{ y: 5, label: 'langtech.jrc.ec.europa.eu' }
+		]
+	}
+	else if (dtp=='20118')
+	{
+		dp = [                                         
+			
+			{ y: 2, label: 'mallet.cs.umass.edu' }
+		]
+	}
+	else if (dtp=='20119')
+	{
+		dp = [                                         
+			
+			{ y: 2, label: 'www.nlpado.de' }
+		]
+	}
+	else if (dtp=='201110')
+	{
+		dp = [                                         
+			
+			{ y: 2, label: 'sites.google.com' },
+			{ y: 2, label: 'translate.google.com' },
+			{ y: 1, label: 'http://code.google.come/p/' },
+			{ y: 1, label: 'http://code.google.com/p/berkeleyparser/downloads/list' },
+			{ y: 1, label: 'http://adwords.google.com/support/' },
+			{ y: 1, label: 'http://www.google.com/cse/' }
+		]
+	}
+	else if (dtp=='201111')
+	{
+		dp = [                                         
+			
+			{ y: 2, label: 'www.ims.uni-stuttgart.de' }
+		]
+	}
+	else if (dtp=='201112')
+	{
+		dp = [                                         
+			
+			{ y: 1, label: 'http://projects.ldc.upenn.edu/ace/docs/English-' },
+			{ y: 2, label: 'www.ldc.upenn.edu'}
+		]
+	}
+	else if (dtp=='201113')
+	{
+		dp = [                                         
+			
+			{ y: 2, label: 'www.gutenberg.org' }
+		]
+	}
+	else if (dtp=='201114')
+	{
+		dp = [                                         
+			
+			{ y: 2, label: 'un2sg4.unige.ch' }
+		]
+	}
+	else if (dtp=='201115')
+	{
+		dp = [                                         
+			
+			{ y: 1, label: 'http://duc.nist.gov/duc2007/quality-questions.txt' },
+			{ y: 2, label: 'www.itl.nist.gov' },
+			{ y: 3, label: 'www.nist.gov' },
+			{ y: 2, label: 'http://www.nist.gov.tac' }
+		]
+	}
+	else if (dtp=='201116')
+	{
+		dp = [                                         
+			
+			{ y: 2, label: 'svmlight.joachims.org' }
+		]
+	}
+	else if (dtp=='201117')
+	{
+		dp = [                                         
+			
+			{ y: 2, label: 'wordnet.princeton.edu' }
+		]
+	}
+	else if (dtp=='201118')
+	{
+		dp = [                                         
+			
+			{ y: 2, label: 'www.speech.sri.com' }
+		]
+	}
+	else if (dtp=='201119')
+	{
+		dp = [                                         
+			
+			{ y: 3, label:  'www.nlm.nih.gov' }
 		]
 	}
 	else if (dtp=='20130')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'www.llf.cnrs.fr' }
+			{ y: 2, label:  'nlp.cs.nyu.edu' }
 		]
 	}
 	else if (dtp=='20131')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:   'www.rocq.inria.fr' },
-			{ y: 2, label:   'alpage.inria.fr' },
-			{ y: 1, label:   'http://hal.inria.fr/hal-00650644' }
+			{ y: 1, label:   'http://www.ldc.upenn.edu/Catalog/' },
+			{ y: 1, label:   'http://projects.ldc.upenn.edu/gale/' },
+			{ y: 1, label:   'http://www.cis.upenn.edu/' }
 		]
 	}
 	else if (dtp=='20132')
 	{
 		dp = [                                         
-			{ y: 2, label:  'www-igm.univ-mlv.fr' },
-			{ y: 2, label:  'infolingu.univ-mlv.fr' }
+			
+			{ y: 1, label:  'http://www1.ccls.columbia.edu/MADA' }
 		]
 	}
 	else if (dtp=='20133')
 	{
 		dp = [                                         
-			{ y: 1, label:  'http://nlp.nyu.edu/oak' }
+			{ y: 4, label:  'gate.ac.uk' }
 		]
 	}
 	else if (dtp=='20134')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:   'github.com' }
+			{ y: 3, label:   'nlp.stanford.edu' },
+			{ y: 1, label:   'http://www-nlp.stanford.edu/software/lex-parser.shtml' },
+			{ y: 1, label:   'http://www.nlp.stanford.edu/software/tagger.shtml' }
 		]
 	}
 	else if (dtp=='20135')
 	{
 		dp = [                                         
 			
-			{ y: 3, label:  'catalog.elra.info' }
+			{ y: 3, label:  'translate.google.com' },
+			{ y: 3, label:  'code.google.com' },
+			{ y: 1, label:  'http://www.google.com/trends/' }
 		]
 	}
 	else if (dtp=='20136')
 	{
 		dp = [                                         
-			{ y: 2, label:  'www.duden.de' }
+			{ y: 1, label:  'http://www.cs.waikato.ac.nz/ml/weka' }
 		]
 	}
 	else if (dtp=='20137')
 	{
 		dp = [                                         
-			{ y: 2, label:  'www.nlm.nih.gov' }
+			{ y: 6, label:  'en.wikipedia.org' }
 		]
 	}
 	else if (dtp=='20138')
 	{
 		dp = [                                         
 			
-			{ y: 3, label:  'www.lina.univ-nantes.fr' },
-			{ y: 1, label:  'http://taln.lina.univ-nantes.fr/apopsis/' }
+			{ y: 2, label:  'lucene.apache.org' },
+			{ y: 1, label:  'http://hadoop.apache.org/' },
+			{ y: 1, label:  'http://pig.apache.org/' },
+			{ y: 1, label:  'http://svn.apache.org/repos/asf/opennlp/sandbox/' },
+			{ y: 1, label:  'http://incubator.apache.org/opennlp/documentatio' }
 		]
 	}
 	else if (dtp=='20139')
 	{
 		dp = [
-			{ y: 2, label:  'code.google.com' },
-			{ y: 1, label:  'https://sites.google.com/site/' },
-			{ y: 1, label:  'http://scholar.google.com' },
-			{ y: 1, label:  'http://translate.google.com/\\#es/fr/' }
+			
+			{ y: 2, label:  'www.csie.ntu.edu.tw' }
 		]
 	}
 	else if (dtp=='201310')
 	{
 		dp = [                                         
 			
-			{ y: 2, label: 'www.quaero.org' }
+			{ y: 3, label: 'github.com' }
 		]
 	}
 	else if (dtp=='201311')
 	{
 		dp = [                                         
-			{ y: 1, label:  'http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style' },
-			{ y: 1, label:  'http://fr.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon' }
+			{ y: 1, label:  'http://matrix.statmt.org/matrix' },
+			{ y: 4, label:  'www.statmt.org' }
 		]
 	}
 	else if (dtp=='201312')
 	{
 		dp = [                                         
-			{ y: 1, label:  'http://opennlp.apache.org/' },
-			{ y: 1, label:  'http://pdfbox.apache.org/' }
+			
+			{ y: 2, label:  'www.natcorp.ox.ac.uk' }
 		]
 	}
 	else if (dtp=='201313')
 	{
 		dp = [                                         
-			{ y: 1, label:  'http://web.archive.org/web/20081215041844/http://freebank.loria.fr/' }
+			{ y: 1, label:  'http://nlp.ipipan.waw.pl/ppjp/' },
+			{ y: 2, label:  'zil.ipipan.waw.pl' }
 		]
 	}
 	else if (dtp=='201314')
 	{
 		dp = [                                         
 			
-			{ y: 1, label:  'http://www.ldc.upenn.edu/Catalog/catalogEntry.jsp?catalogId=LDC99T42' },
-			{ y: 1, label:  'http://www.cis.upenn.edu/~treebank/tokenization.html'}
+			
+			{ y: 3, label:  'www.w3.org'}
 		]
 	}
 	else if (dtp=='201315')
 	{
 		dp = [                                         
 			
-			{ y: 3, label:  'search.cpan.org' }
+			{ y: 3, label:   'svmlight.joachims.org' }
 		]
 	}
 	else if (dtp=='201316')
 	{
 		dp = [                                         
-			{ y: 4, label: 'www.ims.uni-stuttgart.de' }
+			{ y: 2, label: 'www.nlp.pwr.wroc.pl' },
+			{ y: 4, label: 'nlp.pwr.wroc.pl' }
 		]
 	}
 	else if (dtp=='201317')
 	{
 		dp = [                                         
-			{ y: 2, label:  'www.statmt.org' }
+			{ y: 8, label:  'www.ir-facility.org' }
 		]
 	}
 	else if (dtp=='201318')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'dumps.wikimedia.org' }
+			{ y: 2, label:  'wndomains.fbk.eu' }
 		]
 	}
 	else if (dtp=='201319')
 	{
 		dp = [                                         
-			{ y: 1, label: 'http://leopar.loria.fr' },
-			{ y: 2, label: 'wikilligramme.loria.fr' }
-		]
-	}
-	else if (dtp=='20140')
-	{
-		dp = [                                         
 			
-			{ y: 2, label:  'www.nlm.nih.gov'},
-			{ y: 1, label:  'http://www.ncbi.nlm.nih.gov/pubmed/15360870?dopt=Abstract'}
+			{ y: 2, label: 'www.bultreebank.org' }
 		]
 	}
-	else if (dtp=='20141')
-	{
-		dp = [                                         
-			
-			{ y: 2, label: 'www.cnrtl.fr' }
-		]
-	}
-	else if (dtp=='20142')
-	{
-		dp = [                                         
-			
-			{ y: 2, label:  'www.lexique.org' }
-		]
-	}
-	else if (dtp=='20143')
-	{
-		dp = [                                         
-			
-			{ y: 3, label:  'www.atilf.fr' },
-			{ y: 1, label:  'https://apps.atilf.fr/smarties/' }
-		]
-	}
-	else if (dtp=='20144')
-	{
-		dp = [                                         
-			{ y: 5, label:  'alpage.inria.fr' },
-			{ y: 7, label:  'hal.inria.fr' },
-			{ y: 2, label:  'gforge.inria.fr' }
-		]
-	}
-	else if (dtp=='20145')
-	{
-		dp = [                                         
-			
-			{ y: 1, label:  'http://www.inist.fr' },
-			{ y: 3, label:  'cat.inist.fr' }
-		]
-	}
-	else if (dtp=='20146')
-	{
-		dp = [                                         
-			
-			{ y: 2, label:  'www.llf.cnrs.fr' },
-			{ y: 3, label:  'www.lattice.cnrs.fr' }
-		]
-	}
-	else if (dtp=='20147')
+	else if (dtp=='20150')
 	{
 		dp = [                                         
 			
 			
-			{ y: 2, label:  'metaoptimize.com' }
+			{ y: 3, label:  'svn.code.sf.net'}
 		]
 	}
-	else if (dtp=='20148')
-	{
-		dp = [                                         
-			{ y: 5, label:  'code.google.com' },
-			{ y: 1, label:  'http://translate.google.com/' }
-		]
-	}
-	else if (dtp=='20149')
-	{
-		dp = [                                         
-			{ y: 3, label:  'www.wiktionary.org' },
-			{ y: 3, label:  'fr.wiktionary.org' }
-		]
-	}
-	else if (dtp=='201410')
-	{
-		dp = [                                         
-			{ y: 2, label:    'www.kyloo.net' }
-		]
-	}
-	else if (dtp=='201411')
+	else if (dtp=='20151')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'www.iptc.org' }
+			{ y: 4, label: 'doi.acm.org' }
 		]
 	}
-	else if (dtp=='201412')
+	else if (dtp=='20152')
 	{
 		dp = [                                         
 			
-			{ y: 5, label:  'redac.univ-tlse2.fr' }
+			{ y: 3, label:  'sourceforge.net' },
+			{ y: 1, label:  'http://crfpp.sourceforge.net/' }
 		]
 	}
-	else if (dtp=='201413')
+	else if (dtp=='20153')
 	{
 		dp = [                                         
 			
-			{ y: 2, label:  'www.frantext.fr' }
+			
+			{ y: 9, label:  'github.com' }
 		]
 	}
-	else if (dtp=='201414')
-	{
-		dp = [                                         
-			{ y: 5, label:  'aclweb.org' },
-			{ y: 4, label:  'www.aclweb.org' }
-		]
-	}
-	else if (dtp=='201415')
-	{
-		dp = [                                         
-			{ y: 7, label:   'www.jeuxdemots.org' }
-		]
-	}
-	else if (dtp=='201416')
-	{
-		dp = [                                         
-			{ y: 3, label:  'dumps.wikimedia.org' },
-			{ y: 1, label:  'https://meta.wikimedia.org/wiki/List_of_Wikipedias' }
-		]
-	}
-	else if (dtp=='201417')
+	else if (dtp=='20154')
 	{
 		dp = [                                         
 			
-			{ y: 8, label:  'www.statmt.org' }
+			{ y: 3, label:  'www.itl.nist.gov' }
 		]
 	}
-	else if (dtp=='201418')
-	{
-		dp = [                                         
-			{ y: 4, label:   'github.com' }
-		]
-	}
-	else if (dtp=='201419')
+	else if (dtp=='20155')
 	{
 		dp = [                                         
 			
+			{ y: 3, label:  'www.ldc.upenn.edu' },
+			{ y: 1, label:  'http://www.cis.upenn.edu/~xwe/semeval2015pit/' },
+			{ y: 2, label:  'catalog.ldc.upenn.edu' },
+		]
+	}
+	else if (dtp=='20156')
+	{
+		dp = [                                         
+			
+			{ y: 4, label:  'cs.nyu.edu' },
 			{ y: 2, label:  'nlp.cs.nyu.edu' }
+		]
+	}
+	else if (dtp=='20157')
+	{
+		dp = [                                         
+			
+			
+			{ y: 2, label:  'en.wikipedia.org' },
+			{ y: 2, label:  'bg.wikipedia.org' },
+			{ y: 2, label:  'www.wikipedia.org' },
+			{ y: 1, label:  'https://simple.wikipedia.org/wiki/Main' },
+			{ y: 1, label:  'http://ar.wikipedia.org/wiki/:' }
+		]
+	}
+	else if (dtp=='20158')
+	{
+		dp = [                                         
+			{ y: 1, label:  'https://rdflib.github.io/sparqlwrapper/' },
+			{ y: 2, label:  'hltfbk.github.io' },
+			{ y: 1, label:  'http://bkapukaranov.github.io/' },
+			{ y: 1, label:  'http://proycon.github.io/' }
+		]
+	}
+	else if (dtp=='20159')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:   'pdev.org.uk' }
+		]
+	}
+	else if (dtp=='201510')
+	{
+		dp = [                                         
+			{ y: 3, label:    'crfpp.googlecode.com' },
+			{ y: 1, label:    'http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html' }
+		]
+	}
+	else if (dtp=='201511')
+	{
+		dp = [                                         
+			
+			{ y: 9, label:  'code.google.com' },
+			{ y: 1, label:  'http://translate.google.com/translate_t' }
+		]
+	}
+	else if (dtp=='201512')
+	{
+		dp = [                                         
+			
+			{ y: 3, label:  'nlp.pwr.wroc.pl' }
+		]
+	}
+	else if (dtp=='201513')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'cran.r-project.org' }
+		]
+	}
+	else if (dtp=='201514')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'www.cs.utexas.edu' }
+		]
+	}
+	else if (dtp=='201515')
+	{
+		dp = [                                         
+			{ y: 2, label:   'www.excitement-project.eu' }
+		]
+	}
+	else if (dtp=='201516')
+	{
+		dp = [                                         
+			
+			{ y: 3, label:  'compling.hss.ntu.edu.sg' }
+		]
+	}
+	else if (dtp=='201517')
+	{
+		dp = [                                         
+			
+			{ y: 3, label:  'nlp.stanford.edu' }
+		]
+	}
+	else if (dtp=='201518')
+	{
+		dp = [                                         
+			{ y: 4, label:   'www.statmt.org' }
+		]
+	}
+	else if (dtp=='201519')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'itunes.apple.com' }
+		]
+	}
+	else if (dtp=='20170')
+	{
+		dp = [                                         
+			
+			{ y: 243, label:  'doi.org' },
+			{ y: 9, label:   'dx.doi.org' }
+		]
+	}
+	else if (dtp=='20171')
+	{
+		dp = [                                         
+			
+			{ y: 3, label:  'www.wiktionary.org' }
+		]
+	}
+	else if (dtp=='20172')
+	{
+		dp = [                                         
+			
+			{ y: 6, label:  'code.google.com' },
+			{ y: 3, label:  'sites.google.com' },
+			{ y: 1, label:  'http://www.google.com/patents/US8832205' },
+			{ y: 1, label:  'https://news.google.com/' }
+		]
+	}
+	else if (dtp=='20173')
+	{
+		dp = [                                         
+			
+			{ y: 46, label:  'github.com' }
+		]
+	}else if (dtp=='20174')
+	{
+		dp = [                                         
+			
+			{ y: 3, label:  'www.statmt.org' }
+		]
+	}
+	else if (dtp=='20175')
+	{
+		dp = [                                         
+			
+			{ y: 5, label:  'alt.qcri.org' }
+		]
+	}
+	else if (dtp=='20176')
+	{
+		dp = [                                         
+			
+			{ y: 4, label:  'en.wikipedia.org' }
+		]
+	}
+	else if (dtp=='20177')
+	{
+		dp = [                                         
+			
+			{ y: 25, label:   'aclweb.org' },
+			{ y: 66, label:   'www.aclweb.org' },
+			{ y: 1, label:   'http://anthology.aclweb.org/P16-2047' },
+			{ y: 1, label:   'http://www.anthology.aclweb.org/P/P14/' }
+		]
+	}
+	else if (dtp=='20178')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'sourceforge.net' },
+			{ y: 2, label:  'jgrapht.sourceforge.net' },
+			{ y: 1, label:  'http://gibbslda.sourceforge.net/' }
+		]
+	}
+	else if (dtp=='20179')
+	{
+		dp = [                                         
+			
+			{ y: 3, label:  'universaldependencies.org' }
+		]
+	}
+	else if (dtp=='201710')
+	{
+		dp = [                                         
+			
+			{ y: 48, label:  'dl.acm.org' }
+		]
+	}
+	else if (dtp=='201711')
+	{
+		dp = [                                         
+			
+			{ y: 15, label:   'arxiv.org' }
+		]
+	}
+	else if (dtp=='201712')
+	{
+		dp = [                                         
+			
+			{ y: 7, label:  'goo.gl' }
+		]
+	}
+	else if (dtp=='201713')
+	{
+		dp = [                                         
+			
+			{ y: 4, label:  'www.qatarliving.com' }
+		]
+	}
+	else if (dtp=='201714')
+	{
+		dp = [                                         
+			
+			{ y: 4, label:  'papers.nips.cc' }
+		]
+	}
+	else if (dtp=='201715')
+	{
+		dp = [                                         
+			
+			{ y: 1, label:  'http://hackatal.github.io/2016/' },
+			{ y: 3, label:  'taku910.github.io' },
+			{ y: 3, label:  'stanfordnlp.github.io' },
+			{ y: 1, label:  'https://elki-project.github.io/' }
+		]
+	}
+	else if (dtp=='201716')
+	{
+		dp = [                                         
+			
+			{ y: 4, label:   'www.crowdflower.com' }
+		]
+	}
+	else if (dtp=='201717')
+	{
+		dp = [                                         
+			
+			{ y: 6, label:  'clarin-pl.eu' }
+		]
+	}
+	else if (dtp=='201718')
+	{
+		dp = [                                         
+			
+			{ y: 1, label:  'http://langlotzlab.stanford.edu/' },
+			{ y: 5, label:  'nlp.stanford.edu' },
+			{ y: 1, label:  'http://cs229.stanford.edu/proj2010/HsuSeeWu-' }
+		]
+	}
+	else if (dtp=='201719')
+	{
+		dp = [                                         
+			
+			{ y: 4, label:  'ufal.mff.cuni.cz' },
+			{ y: 3, label:  'lindat.mff.cuni.cz' }
 		]
 	}
 	else
