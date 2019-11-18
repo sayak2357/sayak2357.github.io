@@ -1133,11 +1133,12 @@ var chart = new CanvasJS.Chart("chartContainer11", {
 		legendMarkerColor: "grey",
 		name: "EMNLP : Top Unique GitHub Pages",
 		legendText: "",
-		dataPoints: [      
+		dataPoints: [
+			{ y: 11, label: 'UKPLab/' },
+			{ y: 5, label: 'google/' },
 			{ y: 25, label: 'facebookresearch/' },
 			{ y: 24, label: 'huggingface/' },
 			{ y: 20, label: 'google-research/' },
-			{ y: 11, label: 'UKPLab/' },
 			{ y: 11, label: 'fxsjy/jieba' },
 			{ y: 11, label: 'pytorch/fairseq' },
 			{ y: 11, label: 'google-research/bert' },
@@ -1148,7 +1149,6 @@ var chart = new CanvasJS.Chart("chartContainer11", {
 			{ y: 6, label: 'facebookresearch/fastText' },
 			{ y: 5, label: 'facebook/NAMAS' },
 			{ y: 5, label: 'moses-smt/' },
-			{ y: 5, label: 'google/' },
 			{ y: 5, label: 'sacreBLEU' },
 			{ y: 5, label: 'salesforce/' },
 			{ y: 5, label: 'gabrielStanovsky/' },
