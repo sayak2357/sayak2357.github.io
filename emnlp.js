@@ -30,11 +30,11 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		
 				{ y: 14, x: new Date(1996,0) },
 				{ y: 23, x: new Date(1997,0) },
-				{ y: 12, x: new Date(1998,0) },            
-				{ y: 35, x: new Date(1999,0) }, 
+				{ y: 12, x: new Date(1998,0) },
+				{ y: 35, x: new Date(1999,0) },
 				{ y: 27, x: new Date(2000,0) },
 				{ y: 21, x: new Date(2001,0) },
-				{ y: 41, x: new Date(2002,0) },            
+				{ y: 41, x: new Date(2002,0) },
 				{ y: 28, x: new Date(2003,0) },
 				{ y: 56, x: new Date(2004,0) },
 				{ y: 127, x: new Date(2005,0) },
@@ -50,7 +50,8 @@ var chart = new CanvasJS.Chart("chartContainer", {
 				{ y: 312, x: new Date(2015,0) },
 				{ y: 264, x: new Date(2016,0) },
 				{ y: 323, x: new Date(2017,0) },
-				{ y: 549, x: new Date(2018,0) }
+				{ y: 549, x: new Date(2018,0) },
+				{ y: 478, x: new Date(2019,0) }
 				
 				
 		]
@@ -65,28 +66,29 @@ var chart = new CanvasJS.Chart("chartContainer", {
 			
 			
 				{ y: 0, x: new Date(1996,0) },
-				{ y: 0, x: new Date(1997,0) },
-				{ y: 0, x: new Date(1998,0) },            
-				{ y: 0, x: new Date(1999,0) }, 
-				{ y: 0, x: new Date(2000,0) },
-				{ y: 0, x: new Date(2001,0) },
-				{ y: 0, x: new Date(2002,0) },            
-				{ y: 0, x: new Date(2003,0) },
-				{ y: 0, x: new Date(2004,0) },
-				{ y: 0, x: new Date(2005,0) },
-				{ y: 0, x: new Date(2006,0) },
-				{ y: 0, x: new Date(2007,0) },
-				{ y: 0, x: new Date(2008,0) },
-				{ y: 0, x: new Date(2009,0) },
-				{ y: 0, x: new Date(2010,0) },
-				{ y: 0, x: new Date(2011,0) },
-				{ y: 0, x: new Date(2012,0) },
-				{ y: 0, x: new Date(2013,0) },
-				{ y: 0, x: new Date(2014,0) },
-				{ y: 0, x: new Date(2015,0) },
-				{ y: 0, x: new Date(2016,0) },
-				{ y: 0, x: new Date(2017,0) },
-				{ y: 0, x: new Date(2018,0) }
+			{ y: 0, x: new Date(1997,0) },
+			{ y: 0, x: new Date(1998,0) },
+			{ y: 0, x: new Date(1999,0) },
+			{ y: 0, x: new Date(2000,0) },
+			{ y: 0, x: new Date(2001,0) },
+			{ y: 0, x: new Date(2002,0) },
+			{ y: 0, x: new Date(2003,0) },
+			{ y: 0, x: new Date(2004,0) },
+			{ y: 0, x: new Date(2005,0) },
+			{ y: 0, x: new Date(2006,0) },
+			{ y: 0, x: new Date(2007,0) },
+			{ y: 0, x: new Date(2008,0) },
+			{ y: 0, x: new Date(2009,0) },
+			{ y: 0, x: new Date(2010,0) },
+			{ y: 0, x: new Date(2011,0) },
+			{ y: 0, x: new Date(2012,0) },
+			{ y: 0, x: new Date(2013,0) },
+			{ y: 0, x: new Date(2014,0) },
+			{ y: 0, x: new Date(2015,0) },
+			{ y: 0, x: new Date(2016,0) },
+			{ y: 0, x: new Date(2017,0) },
+			{ y: 0, x: new Date(2018,0) },
+			{ y: 203, x: new Date(2019,0) }
 			]
 		},
 
@@ -120,7 +122,8 @@ var chart = new CanvasJS.Chart("chartContainer", {
 				{ y: 0, x: new Date(2015,0) },
 				{ y: 0, x: new Date(2016,0) },
 				{ y: 22, x: new Date(2017,0) },
-				{ y: 30, x: new Date(2018,0) }
+				{ y: 30, x: new Date(2018,0) },
+				{ y: 44, x: new Date(2019,0) }
 			]
 	}]
 });
@@ -192,29 +195,30 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 		dataPoints: [
 		
 		
-				{ y: 0, x: new Date(1996,0) },            
-				{ y: 0.162, x: new Date(1997,0) },            
-				{ y: 0.107, x: new Date(1998,0) },            
-				{ y: 0.103, x: new Date(1999,0) }, 
-				{ y: 0.122, x: new Date(2000,0) },
-				{ y: 0.176, x: new Date(2001,0) },
-				{ y: 0.282, x: new Date(2002,0) },            
-				{ y: 0.333, x: new Date(2003,0) },
-				{ y: 0.0241, x: new Date(2004,0) },
-				{ y: 0.194, x: new Date(2005,0) },
-				{ y: 0.288, x: new Date(2006,0) },
-				{ y: 0.304, x: new Date(2007,0) },
-				{ y: 0.378, x: new Date(2008,0) },
-				{ y: 0.427, x: new Date(2009,0) },
-				{ y: 0.443, x: new Date(2010,0) },
-				{ y: 0.435, x: new Date(2011,0) },
-				{ y: 0.485, x: new Date(2012,0) },
-				{ y: 0.408, x: new Date(2013,0) },
-				{ y: 0.433, x: new Date(2014,0) },
-				{ y: 0.386, x: new Date(2015,0) },
-				{ y: 0.420, x: new Date(2016,0) },
-				{ y: 0.397,   x: new Date(2017,0) },
-				{ y: 0.346, x: new Date(2018,0) }
+				{ y: 0.0, x: new Date(1996,0) },
+				{ y: 0.16279069767441862, x: new Date(1997,0) },
+				{ y: 0.10714285714285714, x: new Date(1998,0) },
+				{ y: 0.1038961038961039, x: new Date(1999,0) },
+				{ y: 0.12280701754385964, x: new Date(2000,0) },
+				{ y: 0.17647058823529413, x: new Date(2001,0) },
+				{ y: 0.2823529411764706, x: new Date(2002,0) },
+				{ y: 0.3333333333333333, x: new Date(2003,0) },
+				{ y: 0.024193548387096774, x: new Date(2004,0) },
+				{ y: 0.19444444444444445, x: new Date(2005,0) },
+				{ y: 0.2887700534759358, x: new Date(2006,0) },
+				{ y: 0.3042071197411003, x: new Date(2007,0) },
+				{ y: 0.3787878787878788, x: new Date(2008,0) },
+				{ y: 0.42780748663101603, x: new Date(2009,0) },
+				{ y: 0.44345238095238093, x: new Date(2010,0) },
+				{ y: 0.4358974358974359, x: new Date(2011,0) },
+				{ y: 0.48548812664907653, x: new Date(2012,0) },
+				{ y: 0.4080560420315236, x: new Date(2013,0) },
+				{ y: 0.43302180685358255, x: new Date(2014,0) },
+				{ y: 0.3866822429906542, x: new Date(2015,0) },
+				{ y: 0.42012578616352203, x: new Date(2016,0) },
+				{ y: 0.3795289855072464, x: new Date(2017,0) },
+				{ y: 0.3394871794871795, x: new Date(2018,0) },
+				{ y: 0.30731548007838017, x: new Date(2019,0) }
 				
 				
 		]
@@ -229,29 +233,30 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 			
 			
 			
-				{ y: 1, x: new Date(1996,0) },              
-				{ y: 0.837, x: new Date(1997,0) },                
-				{ y: 0.892, x: new Date(1998,0) }, 
-				{ y: 0.896, x: new Date(1999,0) },
-				{ y: 0.877, x: new Date(2000,0) },
-				{ y: 0.823, x: new Date(2001,0) },            
-				{ y: 0.717, x: new Date(2002,0) },
-				{ y: 0.666, x: new Date(2003,0) },
-				{ y: 0.975, x: new Date(2004,0) },
-				{ y: 0.805, x: new Date(2005,0) },
-				{ y: 0.711, x: new Date(2006,0) },
-				{ y: 0.695, x: new Date(2007,0) },
-				{ y: 0.621, x: new Date(2008,0) },
-				{ y: 0.572, x: new Date(2009,0) },
-				{ y: 0.556, x: new Date(2010,0) },
-				{ y: 0.564, x: new Date(2011,0) },
-				{ y: 0.514, x: new Date(2012,0) },
-				{ y: 0.591, x: new Date(2013,0) },
-				{ y: 0.566, x: new Date(2014,0) },
-				{ y: 0.613, x: new Date(2015,0) },
-				{ y: 0.580, x: new Date(2016,0) },
-				{ y: 0.603, x: new Date(2017,0) },
-				{ y: 0.653, x: new Date(2018,0) }
+				{ y: 1.0, x: new Date(1996,0) },
+				{ y: 0.8372093023255814, x: new Date(1997,0) },
+				{ y: 0.8928571428571429, x: new Date(1998,0) },
+				{ y: 0.8961038961038961, x: new Date(1999,0) },
+				{ y: 0.8771929824561403, x: new Date(2000,0) },
+				{ y: 0.8235294117647058, x: new Date(2001,0) },
+				{ y: 0.7176470588235294, x: new Date(2002,0) },
+				{ y: 0.6666666666666666, x: new Date(2003,0) },
+				{ y: 0.9758064516129032, x: new Date(2004,0) },
+				{ y: 0.8055555555555556, x: new Date(2005,0) },
+				{ y: 0.7112299465240641, x: new Date(2006,0) },
+				{ y: 0.6957928802588996, x: new Date(2007,0) },
+				{ y: 0.6212121212121212, x: new Date(2008,0) },
+				{ y: 0.5721925133689839, x: new Date(2009,0) },
+				{ y: 0.5565476190476191, x: new Date(2010,0) },
+				{ y: 0.5641025641025641, x: new Date(2011,0) },
+				{ y: 0.5145118733509235, x: new Date(2012,0) },
+				{ y: 0.5919439579684763, x: new Date(2013,0) },
+				{ y: 0.5669781931464174, x: new Date(2014,0) },
+				{ y: 0.6133177570093458, x: new Date(2015,0) },
+				{ y: 0.579874213836478, x: new Date(2016,0) },
+				{ y: 0.6204710144927537, x: new Date(2017,0) },
+				{ y: 0.6605128205128206, x: new Date(2018,0) },
+				{ y: 0.6926845199216198, x: new Date(2019,0) }
 			]
 	}]
 });
@@ -317,29 +322,30 @@ var chart = new CanvasJS.Chart("chartContainer3", {
 			
 			
 			
-			{ y: 0.583, x: new Date(1996,0) },
-			{ y: 0.534, x: new Date(1997,0) },         
-			{ y: 0.428, x: new Date(1998,0) },
-			{ y: 0.432, x: new Date(1999,0) },
-			{ y: 0.442, x: new Date(2000,0) },
-			{ y: 0.411, x: new Date(2001,0) },
-			{ y: 0.45, x: new Date(2002,0) },
-			{ y: 0.451, x: new Date(2003,0) },
-			{ y: 0.4, x: new Date(2004,0) },
-			{ y: 0.389, x: new Date(2005,0) },
-			{ y: 0.378, x: new Date(2006,0) },
-			{ y: 0.367, x: new Date(2007,0) },
-			{ y: 0.378, x: new Date(2008,0) },
-			{ y: 0.357, x: new Date(2009,0) },
-			{ y: 0.331, x: new Date(2010,0) },
-			{ y: 0.299, x: new Date(2011,0) },
-			{ y: 0.315, x: new Date(2012,0) },
-			{ y: 0.307, x: new Date(2013,0) },
-			{ y: 0.298, x: new Date(2014,0) },
-			{ y: 0.293, x: new Date(2015,0) },
-			{ y: 0.266, x: new Date(2016,0) },
-			{ y: 0.2609, x: new Date(2017,0) },
-			{ y: 0.235, x: new Date(2018,0) }
+			{ y:0.5833333333333334, x: new Date(1996,0) },
+			{ y:0.5348837209302325, x: new Date(1997,0) },
+			{ y:0.42857142857142855, x: new Date(1998,0) },
+			{ y:0.43209876543209874, x: new Date(1999,0) },
+			{ y:0.4426229508196721, x: new Date(2000,0) },
+			{ y:0.4117647058823529, x: new Date(2001,0) },
+			{ y:0.45054945054945056, x: new Date(2002,0) },
+			{ y:0.45161290322580644, x: new Date(2003,0) },
+			{ y:0.4, x: new Date(2004,0) },
+			{ y:0.3895705521472393, x: new Date(2005,0) },
+			{ y:0.37823834196891193, x: new Date(2006,0) },
+			{ y:0.36797752808988765, x: new Date(2007,0) },
+			{ y:0.3787375415282392, x: new Date(2008,0) },
+			{ y:0.3574561403508772, x: new Date(2009,0) },
+			{ y:0.33156498673740054, x: new Date(2010,0) },
+			{ y:0.29979879275653926, x: new Date(2011,0) },
+			{ y:0.3159090909090909, x: new Date(2012,0) },
+			{ y:0.3073463268365817, x: new Date(2013,0) },
+			{ y:0.29894179894179895, x: new Date(2014,0) },
+			{ y:0.2932330827067669, x: new Date(2015,0) },
+			{ y:0.26693629929221435, x: new Date(2016,0) },
+			{ y:0.2609682299546142, x: new Date(2017,0) },
+			{ y:0.23584521384928717, x: new Date(2018,0) },
+			{ y:0.17691556857003415, x: new Date(2019,0) }
 		]
 		},
 		]
@@ -434,7 +440,8 @@ var chart = new CanvasJS.Chart("chartContainer4", {
 			{ y: 3.4102, x: new Date(2015,0) },
 			{ y: 3.74, x: new Date(2016,0) },
 			{ y: 3.83, x: new Date(2017,0) },
-			{ y: 4.24, x: new Date(2018,0) }
+			{ y: 4.24, x: new Date(2018,0) },
+			{ y:5.652413793103448, x: new Date(2019,0) }
 		]
 		},
 		]
@@ -530,7 +537,8 @@ var chart = new CanvasJS.Chart("chartContainer5", {
 			{ y: 27.701, x: new Date(2015,0) },
 			{ y: 31.97, x: new Date(2016,0) },
 			{ y: 36.29, x: new Date(2017,0) },
-			{ y: 33.664, x: new Date(2018,0) }
+			{ y: 33.664, x: new Date(2018,0) },
+			{ y:39.92259414225941, x: new Date(2019,0) }
 		]
 		},
 
@@ -568,7 +576,8 @@ var chart = new CanvasJS.Chart("chartContainer5", {
 			{ y: 0, x: new Date(2015,0) },
 			{ y: 0, x: new Date(2016,0) },
 			{ y: 0, x: new Date(2017,0) },
-			{ y: 0, x: new Date(2018,0) }
+			{ y: 0, x: new Date(2018,0) },
+			{ y:27.23152709359606, x: new Date(2019,0) }
 			
 			
 			
@@ -608,7 +617,8 @@ var chart = new CanvasJS.Chart("chartContainer5", {
 			{ y: 0, x: new Date(2015,0) },
 			{ y: 0, x: new Date(2016,0) },
 			{ y: 17.09, x: new Date(2017,0) },
-			{ y: 15.63, x: new Date(2018,0) }
+			{ y: 15.63, x: new Date(2018,0) },
+			{ y:18.045454545454547, x: new Date(2019,0) }
 			
 			
 			
@@ -676,34 +686,35 @@ var chart = new CanvasJS.Chart("chartContainer6", {
 		showInLegend: true,
 		click: onClick,
 		color: "#0303AC",
-		name: "EMNLP: URLs per Paper 1996-2018",
+		name: "EMNLP: URLs per Paper 1996-2019",
 		dataPoints: [
 			
 			
 			
-			{ y: 0.142, x: new Date(1996,0) },                    
-			{ y: 0.043, x: new Date(1997,0) },
-			{ y: 0,     x: new Date(1998,0) },
-			{ y: 0.285, x: new Date(1999,0) },
-			{ y: 0.321, x: new Date(2000,0) },
-			{ y: 0.333, x: new Date(2001,0) },
-			{ y: 0.536, x: new Date(2002,0) },
-			{ y: 1.074, x: new Date(2003,0) },
-			{ y: 1.173, x: new Date(2004,0) },
-			{ y: 1.349, x: new Date(2005,0) },
-			{ y: 1.315, x: new Date(2006,0) },
-			{ y: 1.709, x: new Date(2007,0) },
-			{ y: 1.681, x: new Date(2008,0) },
-			{ y: 1.4907, x: new Date(2009,0) },
-			{ y: 1.674, x: new Date(2010,0) },
-			{ y: 1.616, x: new Date(2011,0) },
-			{ y: 1.834, x: new Date(2012,0) },
-			{ y: 1.906, x: new Date(2013,0) },
-			{ y: 1.969, x: new Date(2014,0) },
-			{ y: 2.151, x: new Date(2015,0) },
-			{ y: 2.114, x: new Date(2016,0) },
-			{ y: 3.0319, x: new Date(2017,0) },
-			{ y: 2.143, x: new Date(2018,0) }
+			{ y:0.35714285714285715, x: new Date(1996,0) },
+			{ y:0.08695652173913043, x: new Date(1997,0) },
+			{ y:0.0, x: new Date(1998,0) },
+			{ y:0.5142857142857142, x: new Date(1999,0) },
+			{ y:0.7037037037037037, x: new Date(2000,0) },
+			{ y:0.47619047619047616, x: new Date(2001,0) },
+			{ y:0.8780487804878049, x: new Date(2002,0) },
+			{ y:1.5714285714285714, x: new Date(2003,0) },
+			{ y:1.75, x: new Date(2004,0) },
+			{ y:1.9448818897637796, x: new Date(2005,0) },
+			{ y:1.904109589041096, x: new Date(2006,0) },
+			{ y:2.4580152671755724, x: new Date(2007,0) },
+			{ y:2.3421052631578947, x: new Date(2008,0) },
+			{ y:2.1411042944785277, x: new Date(2009,0) },
+			{ y:2.416, x: new Date(2010,0) },
+			{ y:2.4093959731543624, x: new Date(2011,0) },
+			{ y:2.6402877697841727, x: new Date(2012,0) },
+			{ y:2.6878048780487807, x: new Date(2013,0) },
+			{ y:2.747787610619469, x: new Date(2014,0) },
+			{ y:3.003205128205128, x: new Date(2015,0) },
+			{ y:2.984848484848485, x: new Date(2016,0) },
+			{ y:4.194202898550724, x: new Date(2017,0) },
+			{ y:3.075993091537133, x: new Date(2018,0) },
+			{ y:3.3393103448275863, x: new Date(2019,0) }
 		]
 		},
 		]
@@ -803,7 +814,8 @@ var chart = new CanvasJS.Chart("chartContainer7", {
 			{ y: 1.254, x: new Date(2015,0) },
 			{ y: 1.239, x: new Date(2016,0) },
 			{ y: 1.368, x: new Date(2017,0) },
-			{ y: 1.226, x: new Date(2018,0) }
+			{ y: 1.226, x: new Date(2018,0) },
+			{ y:1.4551724137931035, x: new Date(2019,0) }
 		]
 		},
 		]
@@ -888,7 +900,8 @@ var chart = new CanvasJS.Chart("chartContainer8", {
 			{ y: 3.871, x: new Date(2015,0) },
 			{ y: 3.231, x: new Date(2016,0) },
 			{ y: 4.504, x: new Date(2017,0) },
-			{ y: 4.569, x: new Date(2018,0) }
+			{ y: 4.569, x: new Date(2018,0) },
+			{ y:4.622406639004149, x: new Date(2019,0) }
 		]
 		},
 		]
@@ -987,7 +1000,8 @@ var chart = new CanvasJS.Chart("chartContainer9", {
 			{ y: 2.585, x: new Date(2015,0) },
 			{ y: 2.52, x: new Date(2016,0) },
 			{ y: 3.018, x: new Date(2017,0) },
-			{ y: 3.076, x: new Date(2018,0) }
+			{ y: 3.076, x: new Date(2018,0) },
+			{ y:3.5131396957123098, x: new Date(2019,0) }
 		]
 		},
 		]
@@ -1047,27 +1061,26 @@ var chart = new CanvasJS.Chart("chartContainer10", {
 		name: "EMNLP : Most Popular primary URL domains & their Frequencies",
 		legendText: "",
 		dataPoints: [
-			{ y: 104,  label: 'upenn.edu' },		
-			{ y: 825, label: 'github.com' },                           
-			{ y: 315,  label: 'www.aclweb.org' },
-			{ y: 193,  label: 'nlp.stanford.edu' },    
-			{ y: 221,  label: 'google.com' },            
-			{ y: 118,  label: 'en.wikipedia.org' },
-			{ y: 101, label: 'www.statmt.org' },
-			{ y: 96,  label: 'arxiv.org' },
-			{ y: 101, label: 'www.nist.gov' },
-			{ y: 42,  label: 'mallet.cs.umass.edu' },
-			{ y: 42,  label: 'www.cs.cmu.edu' },
-			{ y: 36,  label: 'www.csie.ntu.edu.tw' },
-			{ y: 36, label: 'sourceforge.net' },
-			{ y: 29,  label: 'svmlight.joachims.org' },
-			{ y: 28,  label: 'sourceforge.net' },
-			{ y: 26, label: 'www.cs.cornell.edu' },
-			{ y: 25,  label: 'cogcomp.cs.illinois.edu' },
-			{ y: 23,  label: 'www.mturk.com' },
-			{ y: 23,  label: 'lucene.apache.org' },
-			{ y: 23,  label: 'www.lsi.upc.edu' },
-			{ y: 23,  label: 'homepages.inf.ed.ac.uk' }
+			{ y:1548,  label:'github.com'  },
+			{ y:219,  label:'nlp.stanford.edu'  },
+			{ y:188,  label:'code.google.com'  },
+			{ y:147,  label:'en.wikipedia.org'  },
+			{ y:119,  label:'www.statmt.org'  },
+			{ y:115,  label:'www.aclweb.org'  },
+			{ y:109,  label:'arxiv.org'  },
+			{ y:105,  label:'aclweb.org'  },
+			{ y:72,  label:'www.nist.gov'  },
+			{ y:48,  label:'catalog.ldc.upenn.edu'  },
+			{ y:44,  label:'www.cs.cmu.edu'  },
+			{ y:44,  label:'mallet.cs.umass.edu'  },
+			{ y:43,  label:'www.ldc.upenn.edu'  },
+			{ y:40,  label:'www.csie.ntu.edu.tw'  },
+			{ y:37,  label:'sourceforge.net'  },
+			{ y:36,  label:'spacy.io'  },
+			{ y:34,  label:'trec.nist.gov'  },
+			{ y:32,  label:'www.mturk.com'  },
+			{ y:32,  label:'www.nltk.org'  },
+			{ y:30,  label:'www.cs.cornell.edu'  }
 		]
 	}]
 });
@@ -1121,26 +1134,26 @@ var chart = new CanvasJS.Chart("chartContainer11", {
 		name: "EMNLP : Top Unique GitHub Pages",
 		legendText: "",
 		dataPoints: [      
-			{ y: 7, label: 'UKPLab/' },
-			{ y: 11,label: 'facebookresearch/' },          
-			{ y: 5,  label: 'facebook/NAMAS' },
-			{ y: 5,  label: 'OpenNMT/OpenNMT-py' },
-			{ y: 4,  label: 'edx/ease' },
-			{ y: 4, label: 'mynlp/ccg2lambda' },
-			{ y: 4,  label: 'fxsjy/jieba' },
-			{ y: 4, label: 'nmrksic/' },
-			{ y: 4,  label: 'tensorflow/nmt' },
-			{ y: 4,  label: 'gabrielStanovsky/' },
-			{ y: 3,  label: 'saffsd/langid.py' },
-			{ y: 3,  label: 'moses-smt/mosesdecoder/' },
-			{ y: 3, label: 'glorotxa/SME' },
-			{ y: 3,  label: 'piskvorky/gensim/' },
-			{ y: 3,  label: 'mfaruqui/' },
-			{ y: 3, label: 'douwekiela/mmfeat' },
-			{ y: 3,  label: 'knowitall/openie ' },
-			{ y: 2,  label: 'Leonard-Xu/CWE ' },
-			{ y: 3,  label: 'isi-nlp/Zoph' },
-			{ y: 3,  label: 'clab/cnn' }
+			{ y: 25, label: 'facebookresearch/' },
+			{ y: 24, label: 'huggingface/' },
+			{ y: 20, label: 'google-research/' },
+			{ y: 11, label: 'UKPLab/' },
+			{ y: 11, label: 'fxsjy/jieba' },
+			{ y: 11, label: 'pytorch/fairseq' },
+			{ y: 11, label: 'google-research/bert' },
+			{ y: 9, label: 'OpenNMT/OpenNMT-py' },
+			{ y: 8, label: 'tensorflow/tensor2tensor' },
+			{ y: 7, label: 'facebookresearch/MUSE' },
+			{ y: 7, label: 'huggingface/pytorch-pretrained-' },
+			{ y: 6, label: 'facebookresearch/fastText' },
+			{ y: 5, label: 'facebook/NAMAS' },
+			{ y: 5, label: 'moses-smt/' },
+			{ y: 5, label: 'google/' },
+			{ y: 5, label: 'sacreBLEU' },
+			{ y: 5, label: 'salesforce/' },
+			{ y: 5, label: 'gabrielStanovsky/' },
+			{ y: 4, label: 'saffsd/langid.py' },
+			{ y: 4, label: 'edx/ease' }
 		]
 	}]
 });
@@ -1189,26 +1202,27 @@ var chart = new CanvasJS.Chart("chartContainer12", {
 		name: "EMNLP : Top University Pages",
 		legendText: "",
 		dataPoints: [      
-			{ y: 19,  label: 'MIT' },
-			{ y: 79, label: 'University of Washington' },                         
-			{ y: 73,label: 'Carnegie Mellon University Silicon Valley' },
-			{ y: 45,  label: 'Stanford University' },
-			{ y: 44,  label: 'Penn Museum' },
-			{ y: 42,  label: 'Microsoft Research Asia' },
-			{ y: 39, label: 'Johns Hopkins Hospital' },
-			{ y: 31,  label: 'University of Maryland' },
-			{ y: 30, label: 'Microsoft Research' },
-			{ y: 29,  label: 'UC Berkeley' },
-			{ y: 28,  label: 'Columbia University' },
-			{ y: 26,  label: 'Singapore University of Technology and Design' },
-			{ y: 25,  label: 'IISc' },
-			{ y: 24, label: 'Cornell University' },
-			{ y: 23,  label: 'IBM' },
-			{ y: 22,  label: 'University of Michigan' },
-			{ y: 21, label: 'Brown University' },
-			{ y: 20,  label: 'Institute for Logic' },
-			{ y: 20,  label: 'Harbin Institute of Technology' },
-			{ y: 20,  label: 'University of Edinburgh' }
+			
+			{ y: 19, label:'Microsoft Research Asia' },
+			{ y: 13, label:'University of California' },
+			{ y: 12, label:'Penn Museum' },
+			{ y: 12, label:'Johns Hopkins Hospital' },
+			{ y: 11, label:'Van Pelt Library' },
+			{ y: 11, label:'University of Michigan' },
+			{ y: 10, label:'Stanford University' },
+			{ y: 10, label:'SVC-6' },
+			{ y: 9, label:'Brown University' },
+			{ y: 9, label:'University of Washington' },
+			{ y: 9, label:'The Grand Garage' },
+			{ y: 7, label:'Carnegie Mellon University Silicon Valley' },
+			{ y: 7, label:'Columbia University' },
+			{ y: 7, label:'Johns Hopkins University' },
+			{ y: 6, label:'University of Edinburgh' },
+			{ y: 6, label:'Cornell University' },
+			{ y: 6, label:'IBM Almaden Research Center' },
+			{ y: 6, label:'University of Pittsburgh' },
+			{ y: 6, label:'University of Essex' },
+			{ y: 6, label:'Carnegie Mellon University' }
 			
 		]
 	}]
@@ -2037,6 +2051,32 @@ function onClick(e) {
 			{ y: 5, label: 'opennmt.net' },
 			{ y: 5, label: 'nltk.org' },
 			{ y: 9, label: 'nih.gov' }
+			
+		]
+		}
+		else if(dt==2019)
+		{
+			dp= [ 
+			{ y:9, label: 'bit.ly' },
+			{ y:15, label: 'nih.gov' },
+			{ y:673, label: 'github.com' },
+			{ y:14, label: 'yelp.com' },
+			{ y:13, label: 'nltk.org' },
+			{ y:10, label: 'allennlp.org' },
+			{ y:30, label: 'stanford.edu' },
+			{ y:22, label: 'spacy.io' },
+			{ y:44, label: 'github.io' },
+			{ y:7, label: 'ucsd.edu' },
+			{ y:13, label: 'pytorch.org' },
+			{ y:8, label: 'tensorflow.org' },
+			{ y:53, label: 'google.com' },
+			{ y:8, label: 'cogcomp.org' },
+			{ y:14, label: 'wikidata.org' },
+			{ y:10, label: 'upenn.edu' },
+			{ y:19, label: 'statmt.org' },
+			{ y:34, label: 'wikipedia.org' },
+			{ y:8, label: 'fasttext.cc' },
+			{ y:12, label: 'wikimedia.org' }
 			
 		]
 		}
@@ -4632,6 +4672,182 @@ function onClick2(e)
 			{ y: 2, label:  'www.nlm.nih.gov' },
 			{ y: 1, label:  'http://ncbi.nlm.nih.gov/pubmed' },
 			{ y: 1, label:  'https://meshb-prev.nlm.nih.gov/' }
+		]
+	}
+	else if (dtp=='20190')
+	{
+		dp = [                                         
+			{ y: 9, label:  'bit.ly' }
+		]
+	}
+	else if (dtp=='20191')
+	{
+		dp = [                                         
+			{ y: 10, label:  'www.ncbi.nlm.nih.gov' },
+			{ y: 3, label:  'www.nlm.nih.gov' },
+			{ y: 1, label:  'http://umlsks.nlm.nih.gov/' },
+			{ y: 1, label:  'https://pubchem.ncbi.nlm.nih.gov/' }
+		]
+	}
+	else if (dtp=='20192')
+	{
+		dp = [                                         
+			{ y: 673, label:  'github.com' }
+		]
+	}
+	else if (dtp=='20193')
+	{
+		dp = [                                         
+			{ y: 13, label:   'www.yelp.com' },
+			{ y: 1, label:   'https://ww.yelp.com/dataset/challenge' }
+		]
+	}
+	else if (dtp=='20194')
+	{
+		dp = [                                         
+			{ y: 12, label:  'www.nltk.org' },
+			{ y: 1, label:  'http://nltk.org' }
+		]
+	}
+	else if (dtp=='20195')
+	{
+		dp = [                                         
+			{ y: 2, label:  'demo.allennlp.org' },
+			{ y: 8, label:   'allennlp.org' }
+		]
+	}
+	else if (dtp=='20196')
+	{
+		dp = [                                         
+			{ y: 24, label:  'nlp.stanford.edu' },
+			{ y: 1, label:  'https://ai.stanford.edu/' },
+			{ y: 3, label:  'web.stanford.edu' },
+			{ y: 1, label:  'http://snap.stanford.edu/data/web-BeerAdvocate.html' },
+			{ y: 1, label:  'https://cs.stanford.edu/people/dorarad/gqa/evaluate.html' }
+		]
+	}
+	else if (dtp=='20197')
+	{
+		dp = [                                         
+			{ y: 22, label:  'spacy.io' }
+		]
+	}
+	else if (dtp=='20198')
+	{
+		dp = [     
+			{ y: 2, label:  'taku910.github.io'},
+			{ y: 1, label:  'https://sharc-data.github.io/'},
+			{ y: 10, label:  'stanfordnlp.github.io'},
+			{ y: 1, label:  'https://mbforbes.github.io/neural-naturalist/'},
+			{ y: 1, label:  'https://unimorph.github.io/'},
+			{ y: 3, label:  'ntunlpsg.github.io'},
+			{ y: 3, label:  'yale-lily.github.io'},
+			{ y: 1, label:  'https://tizirinagh.github.io/acl2019/'},
+			{ y: 1, label:  'https://amritasaha1812.github.io/CSQA'},
+			{ y: 2, label:  'multinlp.github.io'},
+			{ y: 4, label:  'rajpurkar.github.io'},
+			{ y: 3, label:  'hotpotqa.github.io'},
+			{ y: 1, label:  'https://pubmedqa.github.io'},
+			{ y: 1, label:  'http://ucam-smt.github.io/sgnmt/html/'},
+			{ y: 1, label:  'https://tkipf.github.io/'},
+			{ y: 1, label:  'https://noisy-text.github.io/2016/geo-shared-task.html'},
+			{ y: 1, label:  'https://nyu-mll.github.io/CoLA'},
+			{ y: 1, label:  'https://sheng-z.github.io/ReCoRD-explorer/'},
+			{ y: 2, label:  'languagenet.github.io'},
+			{ y: 1, label:  'https://thunlp.github.io/fewrel.html'},
+			{ y: 1, label:  'https://dkpro.github.io/dkpro-statistics/dkpro-agreement-'},
+			{ y: 1, label:  'https://massistant.github.io'},
+			{ y: 1, label:  'https://microsoft.github.io/'}
+		]
+	}
+	else if (dtp=='20199')
+	{
+		dp = [                                         
+			{ y: 7, label: 'jmcauley.ucsd.edu' }
+		]
+	}
+	else if (dtp=='201910')
+	{
+		dp = [                                         
+			{ y: 13, label:  'pytorch.org' }
+		]
+	}
+	else if (dtp=='201911')
+	{
+		dp = [                                         
+			{ y: 6, label:  'www.tensorflow.org' },
+			{ y: 1, label:  'https://projector.tensorflow.org' },
+			{ y: 1, label:  'https://js.tensorflow.org' }
+		]
+	}
+	else if (dtp=='201912')
+	{
+		dp = [                                         
+			{ y: 15, label:  'code.google.com' },
+			{ y: 5, label:  'drive.google.com'},
+			{ y: 14, label:  'cloud.google.com' },
+			{ y: 5, label:  'translate.google.com' },
+			{ y: 2, label:  'sites.google.com' },
+			{ y: 3, label:  'news.google.com' },
+			{ y: 1, label:  'https://scholar.google.com' },
+			{ y: 2, label:  'play.google.com' },
+			{ y: 1, label:  'https://toolbox.google.com/' },
+			{ y: 2, label:  'colab.research.google.com' },
+			{ y: 2, label:  'developers.google.com' },
+			{ y: 1, label:  'https://ai.google.com/research/' }
+		]
+	}
+	else if (dtp=='201913')
+	{
+		dp = [                                         
+			{ y: 8, label:  'cogcomp.org' }
+		]
+	}
+	else if (dtp=='201914')
+	{
+		dp = [                                         
+			{ y: 12, label:  'www.wikidata.org' },
+			{ y: 2, label:  'wikidata.org' }
+		]
+	}
+	else if (dtp=='201915')
+	{
+		dp = [                                         
+			{ y: 1, label:  'https://www.ldc.upenn.edu/' },
+			{ y: 8, label:  'catalog.ldc.upenn.edu' },
+			{ y: 1, label:  'https://cogcomp.seas.upenn.edu/page/' }
+		]
+	}
+	else if (dtp=='201916')
+	{
+		dp = [                                         
+			{ y: 15, label:  'www.statmt.org' },
+			{ y: 1, label: 'http://data.statmt.org/ContraWSD/' },
+			{ y: 1, label:  'http://matrix.statmt.org/' },
+			{ y: 2, label:  'statmt.org' }
+		]
+	}
+	else if (dtp=='201917')
+	{
+		dp = [                                         
+			{ y: 28, label:  'en.wikipedia.org' },
+			{ y: 2, label:  'www.wikipedia.org' },
+			{ y: 2, label:  'simple.wikipedia.org' },
+			{ y: 1, label:  'https://zh.wikipedia.org/wiki/' },
+			{ y: 1, label:  'https://dumps.wikipedia.org/enwiki/' }
+		]
+	}
+	else if (dtp=='201918')
+	{
+		dp = [                                         
+			{ y: 8, label:   'fasttext.cc' }
+		]
+	}
+	else if (dtp=='201919')
+	{
+		dp = [                                         
+			{ y: 11, label:  'dumps.wikimedia.org' },
+			{ y: 1, label:  'https://meta.wikimedia.org/wiki/List_of_Wikipedias' }
 		]
 	}
 	else
