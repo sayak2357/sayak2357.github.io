@@ -49,7 +49,8 @@ var chart = new CanvasJS.Chart("chartContainer", {
 			{ y: 26, x: new Date(2015,0) },
 			{ y: 26, x: new Date(2016,0) },
 			{ y: 41, x: new Date(2017,0) },
-			{ y: 53, x: new Date(2018,0) }
+			{ y: 53, x: new Date(2018,0) },
+			{ y: 96, x: new Date(2019,0) }
 				
 				
 		]
@@ -84,7 +85,8 @@ var chart = new CanvasJS.Chart("chartContainer", {
 			{ y: 12, x: new Date(2015,0) },
 			{ y: 5, x: new Date(2016,0) },
 			{ y: 4, x: new Date(2017,0) },
-			{ y: 3, x: new Date(2018,0) }
+			{ y: 3, x: new Date(2018,0) },
+			{ y: 1, x: new Date(2019,0) }
 			]
 		},
 
@@ -179,7 +181,8 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 				{ y: 0.40350877192982454, x: new Date(2015,0) },
 				{ y: 0.2647058823529412, x: new Date(2016,0) },
 				{ y: 0.24725274725274726, x: new Date(2017,0) },
-				{ y: 0.15767634854771784, x: new Date(2018,0) }
+				{ y: 0.15767634854771784, x: new Date(2018,0) },
+				{ y: 0.15859030837004406, x: new Date(2019,0) }
 				
 				
 		]
@@ -215,7 +218,8 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 				{ y: 0.5964912280701754, x: new Date(2015,0) },
 				{ y: 0.7352941176470589, x: new Date(2016,0) },
 				{ y: 0.7527472527472527, x: new Date(2017,0) },
-				{ y: 0.8423236514522822, x: new Date(2018,0) }
+				{ y: 0.8423236514522822, x: new Date(2018,0) },
+				{ y: 0.8414096916299559, x: new Date(2019,0) }
 			]
 	}]
 });
@@ -302,7 +306,8 @@ var chart = new CanvasJS.Chart("chartContainer3", {
 			{ y:0.31666666666666665, x: new Date(2015,0) },
 			{ y:0.29523809523809524, x: new Date(2016,0) },
 			{ y:0.23316062176165803, x: new Date(2017,0) },
-			{ y:0.22580645161290322, x: new Date(2018,0) }
+			{ y:0.22580645161290322, x: new Date(2018,0) },
+			{ y:0.187984496124031, x: new Date(2019,0) }
 		]
 		},
 		]
@@ -396,7 +401,8 @@ var chart = new CanvasJS.Chart("chartContainer4", {
 			{ y:3.1578947368421053, x: new Date(2015,0) },
 			{ y:3.3870967741935485, x: new Date(2016,0) },
 			{ y:4.288888888888889, x: new Date(2017,0) },
-			{ y:4.428571428571429, x: new Date(2018,0) }
+			{ y:4.428571428571429, x: new Date(2018,0) },
+			{ y:5.319587628865979, x: new Date(2019,0) }
 		]
 		},
 		]
@@ -491,7 +497,8 @@ var chart = new CanvasJS.Chart("chartContainer5", {
 			{ y:41.76923076923077, x: new Date(2015,0) },
 			{ y:33.73076923076923, x: new Date(2016,0) },
 			{ y:42.48780487804878, x: new Date(2017,0) },
-			{ y:42.41509433962264, x: new Date(2018,0) }
+			{ y:42.41509433962264, x: new Date(2018,0) },
+			{ y:37.53125, x: new Date(2019,0) }
 		]
 		},
 
@@ -528,7 +535,8 @@ var chart = new CanvasJS.Chart("chartContainer5", {
 			{ y:19.666666666666668, x: new Date(2015,0) },
 			{ y:27.2, x: new Date(2016,0) },
 			{ y:13.5, x: new Date(2017,0) },
-			{ y:24.666666666666668, x: new Date(2018,0) }
+			{ y:24.666666666666668, x: new Date(2018,0) },
+			{ y:39.0, x: new Date(2019,0) }
 			
 			
 			
@@ -623,7 +631,8 @@ var chart = new CanvasJS.Chart("chartContainer6", {
 			{ y:3.473684210526316, x: new Date(2015,0) },
 			{ y:3.129032258064516, x: new Date(2016,0) },
 			{ y:9.533333333333333, x: new Date(2017,0) },
-			{ y:3.0714285714285716, x: new Date(2018,0) }
+			{ y:3.0714285714285716, x: new Date(2018,0) },
+			{ y:3.6288659793814433, x: new Date(2019,0) }
 		]
 		},
 		]
@@ -722,7 +731,8 @@ var chart = new CanvasJS.Chart("chartContainer7", {
 			{ y:3.473684210526316, x: new Date(2015,0) },
 			{ y:3.129032258064516, x: new Date(2016,0) },
 			{ y:9.533333333333333, x: new Date(2017,0) },
-			{ y:3.0714285714285716, x: new Date(2018,0) }
+			{ y:3.0714285714285716, x: new Date(2018,0) },
+			{ y:1.690721649484536, x: new Date(2019,0) }
 		]
 		},
 		]
@@ -806,7 +816,8 @@ var chart = new CanvasJS.Chart("chartContainer8", {
 			{ y:3.8947368421052633, x: new Date(2015,0) },
 			{ y:4.516129032258065, x: new Date(2016,0) },
 			{ y:5.181818181818182, x: new Date(2017,0) },
-			{ y:5.160714285714286, x: new Date(2018,0) }
+			{ y:5.160714285714286, x: new Date(2018,0) },
+			{ y:4.969072164948454, x: new Date(2019,0) }
 		]
 		},
 		]
@@ -904,7 +915,8 @@ var chart = new CanvasJS.Chart("chartContainer9", {
 			{ y:3.0526315789473686, x: new Date(2015,0) },
 			{ y:3.5483870967741935, x: new Date(2016,0) },
 			{ y:3.25, x: new Date(2017,0) },
-			{ y:3.357142857142857, x: new Date(2018,0) }
+			{ y:3.357142857142857, x: new Date(2018,0) },
+			{ y:3.814432989690722, x: new Date(2019,0) }
 		]
 		},
 		]
@@ -964,20 +976,21 @@ var chart = new CanvasJS.Chart("chartContainer10", {
 		name: "CONLL : Most Popular primary URL domains & their Frequencies",
 		legendText: "",
 		dataPoints: [
-			{ y:102,  label:'github.com'  },
-			{ y:163,  label:'aclweb.org'  },
+			{ y:12,  label:'arxiv.org'  },
+			{ y:14,  label:'chasen.org'  },
+			{ y:192,  label:'github.com'  },
+			{ y:99,  label:'www.aclweb.org'  },
+			{ y:64,  label:'aclweb.org'  },
+			{ y:39,  label:'nlp.stanford.edu'  },
 			{ y:39,  label:'creativecommons.org'  },
-			{ y:33,  label:'nlp.stanford.edu'  },
-			{ y:32,  label:'code.google.com'  },
+			{ y:33,  label:'code.google.com'  },
+			{ y:21,  label:'www.statmt.org'  },
 			{ y:19,  label:'www.lsi.upc.edu'  },
+			{ y:19,  label:'en.wikipedia.org'  },
 			{ y:18,  label:'www.nist.gov'  },
 			{ y:15,  label:'sourceforge.net'  },
 			{ y:15,  label:'mallet.cs.umass.edu'  },
-			{ y:15,  label:'www.statmt.org'  },
-			{ y:14,  label:'chasen.org'  },
 			{ y:14,  label:'www.csie.ntu.edu.tw'  },
-			{ y:13,  label:'en.wikipedia.org'  },
-			{ y:12,  label:'arxiv.org'  },
 			{ y:11,  label:'svmlight.joachims.org'  },
 			{ y:11,  label:'w3.msi.vxu.se'  },
 			{ y:10,  label:'ilk.uvt.nl'  },
@@ -1036,25 +1049,26 @@ var chart = new CanvasJS.Chart("chartContainer11", {
 		name: "CONLL : Top Unique GitHub Pages",
 		legendText: "",
 		dataPoints: [   
-			{ y: 1, label: 'clab/' },
-			{ y: 3, label: 'facebookresearch/' },
+			{ y: 2, label: 'applicaai/' },
+			{ y: 2, label: 'clab/dynet' },
+			{ y: 1, label: 'shuyo/ldig' },
+			{ y: 5, label: 'facebookresearch/' },
+			{ y: 4, label: 'facebookresearch/fastText' },
+			{ y: 3, label: 'artetxem/vecmap' },
 			{ y: 2, label: 'coastalcph/' },
 			{ y: 2, label: 'mfaruqui/' },
 			{ y: 2, label: 'shawnwun/RNNLG' },
 			{ y: 2, label: 'anderbarrena/' },
-			{ y: 2, label: 'facebookresearch/fastText' },
 			{ y: 2, label: 'semanticvectors/semanticvectors' },
+			{ y: 2, label: 'google-research/' },
+			{ y: 2, label: 'moses-smt/' },
+			{ y: 2, label: 'huggingface/pytorch-transformers' },
+			{ y: 2, label: 'UKPLab/conll2019-' },
+			{ y: 2, label: 'ronakzala/' },
+			{ y: 2, label: 'huggingface/pytorch-pretrained-' },
+			{ y: 2, label: 'huggingface/' },
 			{ y: 1, label: 'fozziethebeat/S-Space' },
-			{ y: 1, label: 'fozziethebeat/TopicModelComparison' },
-			{ y: 1, label: 'utcompling/' },
-			{ y: 1, label: 'shuyo/ldig' },
-			{ y: 1, label: 'desmond86/' },
-			{ y: 1, label: 'vered1986/LinKeR' },
-			{ y: 1, label: 'yohasebe/wp2txt/' },
-			{ y: 1, label: 'samiroid/CUE-CNN' },
-			{ y: 1, label: 'clab/cnn' },
-			{ y: 1, label: 'clab/lstm-parser' },
-			{ y: 1, label: 'taolei87/' }
+			{ y: 1, label: 'fozziethebeat/TopicModelComparison' }
 		]
 	}]
 });
@@ -1102,27 +1116,30 @@ var chart = new CanvasJS.Chart("chartContainer12", {
 		legendMarkerColor: "grey",
 		name: "CONLL : Top University Pages",
 		legendText: "",
-		dataPoints: [      
-			{ y: 9,  label: 'UdS' },
-			{ y: 16, label: 'Stanford University' },                         
-			{ y: 14,label: 'Tilburg University' },
-			{ y: 11,  label: 'Microsoft Research Asia' },
-			{ y: 8,  label: 'University of Edinburgh' },
-			{ y: 8,  label: 'Campus Middelheim Universiteit Antwerpen' },
-			{ y: 8, label: 'Penn Museum' },
-			{ y: 7,  label: 'Institute for Logic' },
-			{ y: 6, label: 'University of Michigan' },
-			{ y: 5,  label: 'University of Washington' },
-			{ y: 4,  label: 'Uppsala universitets tentamenslokal Fyrislundsgatan' },
-			{ y: 4,  label: 'Krannert Art Museum' },
-			{ y: 4,  label: 'Harbin Institute of Technology' },
-			{ y: 4, label: 'Koç Üniversitesi' },
-			{ y: 4,  label: 'Australian National University' },
-			{ y: 4,  label: 'UC Berkeley' },
-			{ y: 4, label: 'Van Pelt Library' },
-			{ y: 4,  label: 'IBM' },
-			{ y: 3,  label: 'Regional Ayurveda research institute for lifestyle related disorders' },
-			{ y: 3,  label: 'USyd' }
+		dataPoints: [   
+			{ y: 4, label:'B-3' },
+			{ y: 6, label:'SVC-6' },
+			{ y: 19, label:'Stanford University' },
+			{ y: 14, label:'Tilburg University' },
+			{ y: 11, label:'Microsoft Research Asia' },
+			{ y: 9, label:'Penn Museum' },
+			{ y: 9, label:'Universität des Saarlandes' },
+			{ y: 8, label:'University of Edinburgh' },
+			{ y: 8, label:'Campus Middelheim Universiteit Antwerpen' },
+			{ y: 8, label:'University of Michigan' },
+			{ y: 6, label:'Van Pelt Library' },
+			{ y: 6, label:'University of Washington' },
+			{ y: 5, label:'University of Chicago-Yerkes Observatory' },
+			{ y: 5, label:'The University of Tokyo Kashiwa Campus' },
+			{ y: 5, label:'Københavns Universitet' },
+			{ y: 4, label:'History of affiliated facilities and secretariat' },
+			{ y: 4, label:'Dept.of Computer Science' },
+			{ y: 4, label:'University of Western Australia' },
+			{ y: 4, label:'Uppsala universitets tentamenslokal Fyrislundsgatan' },
+			{ y: 4, label:'Computer Science Department' },
+			{ y: 4, label:'Krannert Art Museum' },
+			{ y: 4, label:'Carnegie Mellon University Silicon Valley' },
+			{ y: 4, label:'Harbin Institute of Technology' }
 			
 		]
 	}]
@@ -1730,6 +1747,33 @@ function onClick(e) {
 			{ y: 1, label: 'smartschat.de' },
 			{ y: 1, label: 'nist.gov' },
 			{ y: 54, label: 'github.com' }
+			
+			
+		]
+		}
+		else if(dt==2019)
+		{
+			dp= [    
+			{ y:7, label: 'github.io' },
+			{ y:6, label: 'wikipedia.org' },
+			{ y:90, label: 'github.com' },
+			{ y:2, label: 'parliament.uk' },
+			{ y:2, label: 'wzb.eu' },
+			{ y:4, label: 'fasttext.cc' },
+			{ y:6, label: 'statmt.org' },
+			{ y:1, label: 'jhu.edu' },
+			{ y:3, label: 'google.com' },
+			{ y:7, label: 'stanford.edu' },
+			{ y:2, label: 'mturk.com' },
+			{ y:2, label: 'wikimedia.org' },
+			{ y:2, label: 'linguatools.org' },
+			{ y:2, label: 'cambridge.org' },
+			{ y:2, label: 'doi.org' },
+			{ y:2, label: 'radimrehurek.com' },
+			{ y:2, label: 'tfhub.dev' },
+			{ y:4, label: 'upenn.edu' },
+			{ y:2, label: 'waw.pl' },
+			{ y:6, label: 'spacy.io' }
 			
 			
 		]
@@ -4092,6 +4136,155 @@ function onClick2(e)
 		dp = [                                         
 			
 			{ y: 1, label:  'http://www.l3s.de/' }
+		]
+	}
+	else if (dtp=='20190')
+	{
+		dp = [                                         
+			
+			{ y: 1, label:  'https://colah.github.io/' },
+			{ y: 1, label:  'https://taku910.github.io/mecab/' },
+			{ y: 1, label:  'https://mike-n-7.github.io/' },
+			{ y: 1, label:  'https://hucvl.github.io/prn/' },
+			{ y: 1, label:  'https://derrywijaya.github.io/GVFC.html' },
+			{ y: 1, label:  'https://corposaurus.github.io/' },
+			{ y: 1, label:  'https://hazyresearch.github.io/' }
+		]
+	}
+	else if (dtp=='20191')
+	{
+		dp = [                                         
+			
+			{ y: 6, label:  'en.wikipedia.org' }
+		]
+	}
+	else if (dtp=='20192')
+	{
+		dp = [                                         
+			
+			{ y: 90, label: 'github.com' }
+		]
+	}
+	else if (dtp=='20193')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'www.parliament.uk' }
+		]
+	}
+	else if (dtp=='20194')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'manifestoproject.wzb.eu' }
+		]
+	}
+	else if (dtp=='20195')
+	{
+		dp = [                                         
+			
+			{ y: 4, label:  'fasttext.cc' }
+		]
+	}
+	else if (dtp=='20196')
+	{
+		dp = [                                         
+			
+			{ y: 6, label:  'www.statmt.org' }
+		]
+	}else if (dtp=='20197')
+	{
+		dp = [                                         
+			
+			{ y: 1, label: 'http://nlp.jhu.edu/parabank2' }
+		]
+	}
+	else if (dtp=='20198')
+	{
+		dp = [                                         
+			
+			{ y: 1, label:  'https://cloud.google.com/text-to-speech/' },
+			{ y: 1, label:  'https://code.google.com/archive/p/' },
+			{ y: 1, label:  'https://developers.google.comyoutube/v3/docs/captions' }
+		]
+	}
+	else if (dtp=='20199')
+	{
+		dp = [                                         
+			
+			{ y: 6, label:  'nlp.stanford.edu' },
+			{ y: 1, label: 'https://web.stanford.edu/' }
+		]
+	}
+	else if (dtp=='201910')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'www.mturk.com' }
+		]
+	}
+	else if (dtp=='201911')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'dumps.wikimedia.org' }
+		]
+	}
+	else if (dtp=='201912')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'linguatools.org' }
+		]
+	}
+	else if (dtp=='201913')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'dictionary.cambridge.org' }
+		]
+	}
+	else if (dtp=='201914')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'doi.org' }
+		]
+	}
+	else if (dtp=='201915')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'radimrehurek.com' }
+		]
+	}
+	else if (dtp=='201916')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'tfhub.dev' }
+		]
+	}
+	else if (dtp=='201917')
+	{
+		dp = [                                         
+			
+			{ y: 4, label:  'catalog.ldc.upenn.edu' },
+			{ y: 1, label:  'https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/' }
+		]
+	}
+	else if (dtp=='201918')
+	{
+		dp = [                                         
+			
+			{ y: 2, label:  'zil.ipipan.waw.pl' }
+		]
+	}
+	else if (dtp=='201919')
+	{
+		dp = [                                         
+			
+			{ y: 6, label:  'spacy.io' }
 		]
 	}
 	else
