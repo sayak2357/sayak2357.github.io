@@ -8,12 +8,14 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		fontColor: "#0a040d"
 	},
 	axisX: {
+		title: "year",
 		interval: 1,
 		intervalType: "year"
 		
 	},
 	
 	axisY:{
+		title: "number of papers",
 		valueFormatString:"",
 		gridColor: "#B6B1A8",
 		tickColor: "#B6B1A8"
@@ -220,10 +222,12 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 		fontColor: "#0a040d"
 	},
 	axisX: {
+		title: "year",
 		interval: 1,
 		intervalType: "year"
 	},
 	axisY:{
+		title: "proportion of old author and new author",
 		valueFormatString:"",
 		gridColor: "#B6B1A8",
 		tickColor: "#B6B1A8"
@@ -384,10 +388,12 @@ var chart = new CanvasJS.Chart("chartContainer3", {
 		fontColor: "#0a040d"
 	},
 	axisX: {
+		title: "year",
 		interval: 1,
 		intervalType: "year"
 	},
 	axisY:{
+		title: "average number of papers per author",
 		valueFormatString:"",
 		gridColor: "#B6B1A8",
 		tickColor: "#B6B1A8"
@@ -484,10 +490,12 @@ var chart = new CanvasJS.Chart("chartContainer4", {
 		fontColor: "#0a040d"
 	},
 	axisX: {
+		title: "year",
 		interval: 1,
 		intervalType: "year"
 	},
 	axisY:{
+		title: "average number of authors per paper",
 		valueFormatString:"",
 		gridColor: "#B6B1A8",
 		tickColor: "#B6B1A8"
@@ -569,11 +577,13 @@ var chart = new CanvasJS.Chart("chartContainer5", {
 		fontColor: "#0a040d"
 	},
 	axisX: {
+		title: "year",
 		interval: 1,
 		intervalType: "year"
 	},
 	
 	axisY:{
+		title: "average number of references per paper",
 		valueFormatString:"",
 		gridColor: "#B6B1A8",
 		tickColor: "#B6B1A8"
@@ -782,10 +792,12 @@ var chart = new CanvasJS.Chart("chartContainer6", {
 		fontColor: "#0a040d"
 	},
 	axisX: {
+		title: "year",
 		interval: 1,
 		intervalType: "year"
 	},
 	axisY:{
+		title: "average number of URLs per paper",
 		valueFormatString:"",
 		gridColor: "#B6B1A8",
 		tickColor: "#B6B1A8"
@@ -887,10 +899,12 @@ var chart = new CanvasJS.Chart("chartContainer7", {
 		fontColor: "#0a040d"
 	},
 	axisX: {
+		title: "year",
 		interval: 1,
 		intervalType: "year"
 	},
 	axisY:{
+		title: "average number of URLs in footnote per paper",
 		valueFormatString:"",
 		gridColor: "#B6B1A8",
 		tickColor: "#B6B1A8"
@@ -984,10 +998,12 @@ var chart = new CanvasJS.Chart("chartContainer8", {
 		fontColor: "#0a040d"
 	},
 	axisX: {
+		title: "year",
 		interval: 1,
 		intervalType: "year"
 	},
 	axisY:{
+		title: "average number of tables per paper",
 		valueFormatString:"",
 		gridColor: "#B6B1A8",
 		tickColor: "#B6B1A8"
@@ -1085,10 +1101,12 @@ var chart = new CanvasJS.Chart("chartContainer9", {
 		fontColor: "#0a040d"
 	},
 	axisX: {
+		title: "year",
 		interval: 1,
 		intervalType: "year"
 	},
 	axisY:{
+		title: "average number of figures per paper",
 		valueFormatString:"",
 		gridColor: "#B6B1A8",
 		tickColor: "#B6B1A8"
@@ -1168,10 +1186,11 @@ var chart = new CanvasJS.Chart("chartContainer10", {
 		text: ""
 	},
 	axisX: {
+		title: "URL domain",
 		interval: 1
 	},
 	axisY: {
-		title: ""
+		title: "frequency"
 	},
 	data: [{        
 		type: "column",  
@@ -1223,10 +1242,12 @@ var chart = new CanvasJS.Chart("chartContainer11", {
 		text: ""
 	},
 	axisX: {
+		
+		title: "github pages",
 		interval: 1
 	},
 	axisY: {
-		title: ""
+		title: "frequency"
 	},
 	data: [{        
 		type: "column",  
@@ -1283,10 +1304,12 @@ var chart = new CanvasJS.Chart("chartContainer12", {
 		text: ""
 	},
 	axisX: {
+		title: "university",
 		interval: 1
 	},
 	axisY: {
-		title: ""
+		title: "frequency"
+		
 	},
 	data: [{        
 		type: "column",  
@@ -2333,11 +2356,12 @@ function onClick(e) {
 		text: yr
 	},
 	axisX: {
+		title: "primary URL domains",
 		interval: 1,
 		
 	},
 	axisY: {
-		title: ""
+		title: "frequency"
 	},
 	data: [{        
 		type: "column",  
@@ -6008,11 +6032,12 @@ function onClick2(e)
 		text: ''
 	},
 	axisX: {
+		title: "secondary URL domain",
 		interval: 1,
 		
 	},
 	axisY: {
-		title: ""
+		title: "frequency"
 	},
 	data: [{        
 		type: "column",  
