@@ -56,13 +56,13 @@
 				
 					<a href="index.html">Home</a>
 				</li>
+				
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				
 			
-				
 				<li class="masthead__menu-item">
 				<div class="dropdown">
-				<button class="dropbtn">ACL Conferences</button>
+				<button class="dropbtn">ACL Conferences</button>a
 				<div class="dropdown-content">
 				<a href="ACL.html">ACL</a>
 				<a href="ANLP.html">ANLP</a>
@@ -270,8 +270,14 @@
 					  
 
 				<div id="chartContainer" style="height: 370px; width: 100%;"></div>
-				
-			
+				<script type="text/javascript" >
+				document.getElementById("exportChart").addEventListener("click",function(){
+    			chart.exportChart({format: "jpg"});
+    			});  
+				}
+				</script>
+				<div id="chartContainer" style="height: 275px; width: 100%;"></div>
+  				<button id="exportChart">Export Chart</button>
 			
 			
 					<h1 class="page__title" itemprop="headline">2) Number of Authors per Year</h1>
